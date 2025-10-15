@@ -1,0 +1,2234 @@
+一		One		1	1	1	
+二		Two		2	2	1	
+三		Three		3	3	1	
+四		Four		5	4	1	
+五		Five		4	5	1	
+六		Six		4	6	1	
+七		Seven		2	7	1	
+八		Eight		2	8	1	
+九		Nine		2	9	1	
+十		Ten		2	10	1	
+口		Mouth		3	11	1	
+日		Day		4	12	1	
+月		Month		4	13	1	
+田		Rice Field		5	14	1	
+目		Eye		5	15	1	
+古		Old		5	16	2	
+吾		I		7	17	2	
+冒		Risk		9	18	2	
+朋		Companion		8	19	2	
+明		Bright		8	20	2	
+唱		Chant&nbsp;cantos		11	21	2	
+晶		Sparkle		12	22	2	
+品		Goods		9	23	2	
+呂		Spine		7	24	2	
+昌		Prosperous		8	25	2	
+早		Early		6	26	2	
+旭		Rising Sun		6	27	2	
+世		Generation		5	28	2	
+胃		Stomach		9	29	2	
+旦		Nightbreak<br>The sun rising over the horizon is giving the night a break. -nightbreak.		5	30	2	
+胆		Gall Bladder<br>Vesícula biliar 	 If you drink all night long (moon), until the night break your gall bladder will have problems…	9	31	2	
+亘		Span		6	32	2	
+凹		Concave		5	33	2	
+凸		Convex		5	34	2	
+旧		Olden Times		5	35	3	
+自		Oneself		6	36	3	
+白		White		5	37	3	
+百		Hundred		6	38	3	
+中		In		4	39	3	
+千		Thousand		3	40	3	
+舌		Tongue		6	41	3	
+升		Measuring Box	caja de medición.	4	42	3	
+昇		Rise Up		8	43	3	leech
+丸		Round		3	44	3	
+寸		Measurement		3	45	3	
+肘		Elbow	El codo es la carne que une la parte superior y la inferior del brazo.	7	46	3	
+専		Specialty		9	47	3	
+博		Dr.		12	48	3	
+占		Fortune-Telling		5	49	3	
+上		Above		3	50	3	
+下		Below		3	51	3	
+卓		Eminent		8	52	3	
+朝		Morning		12	53	3	
+嘲		Derision<br>Burla		15	54	3	
+只		Only		5	55	4	
+貝		Shellfish<br>mariscos		7	56	4	
+唄		Pop Song		10	57	4	
+貞		Upright<br>vertical		9	58	4	
+員		Employee		10	59	4	
+貼		Post A Bill<br>publicar una factura	The person who eat shellfish before posting a bill 	12	60	4	
+見		See		7	61	4	
+児		Newborn Babe		7	62	4	
+元		Beginning		4	63	4	
+頁		Page		9	64	4	
+頑		Stubborn<br>tenaz		13	65	4	
+凡		Mediocre		3	66	4	
+負		Defeat		9	67	4	
+万		Ten Thousand		3	68	4	
+句		Phrase		5	69	4	
+肌		Texture		6	70	4	
+旬		Decameron<br>Ten days 		6	71	4	
+勺		Ladle<br>Cucharón		3	72	4	
+的		Bull’S Eye<br>ojo de buey		8	73	4	
+首		Neck		9	74	4	
+乙		Fish Guts<br>Tripas de pescado		1	75	5	
+乱		Riot<br>disturbio		7	76	5	
+直		Straightaway<br>inmediatamente		8	77	5	
+具		Tool		8	78	5	
+真		True	"<div>El kanji <strong>真</strong> (significa “verdad”, “real”, “auténtico”) está formado por estos elementos:</div>
+<ul>
+<li>
+<div><strong>十</strong> (<em>diez</em>) en la parte superior.</div>
+</li>
+<li>
+<div><strong>具</strong> (<em>herramienta, utensilio</em>) en la parte inferior, que a su vez se compone de 目 (<em>ojo</em>) y 儿 (<em>piernas</em> o un trazo decorativo antiguo).</div>
+</li>
+</ul>
+<div>📜 <strong>Origen</strong></div>"	10	79	5	
+工		Craft		3	80	5	
+左		Left		5	81	5	
+右		Right		5	82	5	
+有		Possess		6	83	5	
+賄		Bribe<br>Soborno		13	84	5	
+貢		Tribute		10	85	5	
+項		Paragraph		12	86	5	
+刀		Sword		2	87	5	
+刃		Blade<br>cuchilla		3	88	5	
+切		Cut		4	89	5	
+召		Seduce		5	90	5	
+昭		espectáculo 		9	91	5	
+則		Rule		9	92	5	
+副		Vice-		11	93	5	
+別		Separate		7	94	5	
+丁		Street		2	95	5	
+町		Town		7	96	5	
+可		Can		5	97	5	
+頂		Place On The Head		11	98	5	
+子		Child		3	99	6	
+孔		Cavity		4	100	6	
+了		Complete		2	101	6	
+女		Woman		3	102	6	
+好		Fond Aficionada		6	103	6	
+如		Likeness		6	104	6	
+母		Mama		5	105	6	
+貫		Pierce<br>perforado		11	106	6	
+兄		Elder Brother		5	107	6	
+呪		Curse		8	108	6	
+克		Overcome		7	109	6	
+小		Little		3	110	7	
+少		Few		4	111	7	
+大		Large		3	112	7	
+多		Many		6	113	7	
+夕		Evening		3	114	7	
+汐		Eventide<br>Atardecer 		6	115	7	
+外		Outside		5	116	7	
+名		Name		6	117	7	
+石		Stone		5	118	7	
+肖		Resemblance<br>semejanza		7	119	7	
+硝		Nitrate		12	120	7	
+砕		Smash		9	121	7	
+砂		SAND<br>arena		9	122	7	
+妬		Jealous		8	123	7	
+削		Plane		9	124	7	
+光		Ray<br>rayo		6	125	7	
+太		"Plump<br><img src=""paste-8fdd69aee363395e0cb5433cc161f88880e34974.jpg"">"		4	126	7	
+器		Utensil<br>utensilio		15	127	7	
+臭		Stinking		9	128	7	
+嗅		Sniff<br>oler		12	129	7	
+妙		Exquisite		7	130	7	
+省		Focus		9	131	7	
+厚		Thick		9	132	7	
+奇		Strange		8	133	7	
+川		Stream<br>arroyo		3	134	8	
+州		State		6	135	8	
+順		Obey		12	136	8	
+水		Water		4	137	8	
+氷		Icicle	"<img src=""temp_file_.jpg"">"	5	138	8	
+永		Eternity		5	139	8	
+泉		Spring		9	140	8	
+腺		Gland<br>glándula		13	141	8	
+原		Meadow prado 		10	142	8	
+願		Petition		19	143	8	
+泳		Swim		8	144	8	
+沼		Marsh<br>pantano		8	145	8	
+沖		Open Sea		7	146	8	
+汎		Pan-		6	147	8	
+江		Creek<br>riachuelo		6	148	8	
+汰		Cleanse<br>limpiar		7	149	8	
+汁		Soup		5	150	8	
+沙		Grains of Sand		7	151	8	
+潮		Tide<br>marea		15	152	8	
+源		Source		13	153	8	
+活		Lively		9	154	8	
+消		Extinguish		10	155	8	
+況		But of Course		8	156	8	
+河		River		8	157	8	
+泊		Overnight		8	158	8	
+湖		Lake		12	159	8	
+測		Fathom<br>fathom (measure, conjecture		12	160	8	
+土		Soil<br>suelo tierra 		3	161	8	
+吐		Spit<br>Escupir		6	162	8	
+圧		Pressure		5	163	8	
+埼		Cape<br>This refers to LAND,		11	164	8	
+垣		Hedge		9	165	8	
+填	塡	Inlay<br>Incrustado 		13	166	8	leech
+圭		Squared Jewel<br>Joya cuadrada		6	167	8	
+封		Seal<br>Sello		9	168	8	
+涯		Horizon		11	169	8	
+寺		Buddhist Temple		6	170	8	
+時		Time		10	171	8	
+均		Level		7	172	8	
+火		Fire		4	173	8	
+炎		Inflammation		8	174	8	
+煩		Anxiety		13	175	8	
+淡		Thin		11	176	8	
+灯		Lamp		6	177	8	
+畑		Farm		9	178	8	
+災		Disaster		7	179	8	
+灰		Ashes<br>cenizas		6	180	8	
+点		Spot<br><strong>points</strong>		9	181	8	
+照		Illuminate		13	182	8	
+魚		Fish		11	183	8	
+漁		Fishing		14	184	8	
+里		Ri<br>さと meaning a country village or home		7	185	9	
+黒		Black		11	186	9	
+墨		Black Ink<br>tinta negra		14	187	9	
+鯉		"Carp<br><img alt=""Carp | Description, Size, &amp; Facts | Britannica"" src=""Carp.jpg"">"		18	188	9	
+量		Quantity		12	189	9	
+厘		Rin		9	190	9	
+埋		Bury		10	191	9	
+同		Same		6	192	9	
+洞		Den<br>madriguera		9	193	9	
+胴		Trunk<br>trompa		10	194	9	
+向		Yonder<br>allá		6	195	9	
+尚		Esteem		8	196	9	
+字		Character		6	197	9	
+守		Guard		6	198	9	
+完		Perfect		7	199	9	
+宣		"Proclaim<br>Imagina una <strong>persona con un sombrero (宀)</strong> que se sube a la azotea de su casa.<br>
+Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfono, repitiendo mil veces lo mismo.<br>
+👉 Como está bajo el techo pero la voz se extiende, lo que hace es <strong>proclamar / anunciar</strong> a todo el vecindario.<br>anunciar algo públicamente<br>anunciar"		9	200	9	leech
+宵		"Wee Hours<br><strong>""las primeras horas de la madrugada</strong>"		10	201	9	
+安		Cheap		6	202	9	
+宴		Banquet		10	203	9	
+寄		Draw Near<br>acercarse		11	204	9	
+富		Wealth		12	205	9	
+貯		Savings		12	206	9	
+木		Tree		4	207	10	
+林		Grove<br><strong>osquecillo</strong>, <strong>arboleda</strong> o <strong>grupo pequeño de árboles</strong>.		8	208	10	
+森		Forest		12	209	10	
+桂		"Japanese Judas-Tree<br><img alt=""The large Japanese Judas tree of Mt.Gongen｜What to See &amp; Do｜STAY YAMAGATA"" src=""585_1_l.jpg"">"		10	210	10	
+柏		"Oak<br><img alt=""The Oak Trees' Mighty Role in Habitats ..."" src=""paste-eb1af9298c2cf91c55ba3e6ef1a0491da8a5ef3f.jpg"">"		9	211	10	
+枠		Frame		8	212	10	
+梢		Treetops		11	213	10	
+棚		"Shelf<br><img alt=""YGEOMER Floating Shelves for Wall Different Sizes Farmhouse Wall Shelf for  Bedroom, Bathroom Storage, Living Room and Kitchen Decor(Set of 4) :  Amazon.ca: Home"" src=""81qlqf49xIL.jpg"">"		12	214	10	
+杏		"Apricot<br><img alt=""Apricot | Description, Tree, Plant, Fruit, &amp; Facts | Britannica"" src=""Laetrile-apricot-pits.jpg"">"		7	215	10	
+桐		"Paulownia<br><img alt=""Paulownia tomentosa - Wikipedia, la enciclopedia libre"" src=""Paulowni_imperialis_SZ10.jpg"">"		10	216	10	
+植		Plant		12	217	10	
+椅		Chair		12	218	10	
+枯		Wither<br>marchito.		9	219	10	
+朴		Crude<br><strong>tosco / rústico / sencillo</strong>.		6	220	10	
+村		Village<br>town		7	221	10	
+相		Inter-		9	222	10	
+机		Desk		6	223	10	
+本		Book		5	224	10	
+札		Tag		5	225	10	
+暦		Calendar		14	226	10	
+案		Plan		10	227	10	
+燥		Parch<br>make or become dry through intense heat.		17	228	10	
+未		Not Yet		5	229	10	
+昧		Obscure		9	230	10	
+末		Extremity		5	231	10	
+沫		"Splash<br><img alt=""Water splash stock vector. Illustration of liquid, blue - 12429612"" src=""water-splash-12429612.jpg"">"		8	232	10	
+味		Flavor		8	233	10	
+妹		Younger Sister		8	234	10	
+朱		"a <strong>“carmesí” o “rojo brillante”</strong>.<br>vermilion a brilliant red&nbsp;<span style=""text-decoration-line: underline;""><a href=""https://www.google.com/search?sa=X&amp;sca_esv=a1754dd2adcb8a92&amp;biw=1242&amp;bih=594&amp;sxsrf=AE3TifMRtzVPuAOMpoYqeiCXDG1oHOBSlw:1755099216606&amp;q=pigment&amp;si=AMgyJEsuit4gN7752H-yAHcCJWwoI6sNJP69FCB1vJCjp5LZ2HzVBEXhJVxl-yQCorf0PG3Rd6A3HJewlyAn2beUpV7y8BrC7nRkHyyWvFCMcCOt9Qw4d-w%3D&amp;expnd=1&amp;ved=2ahUKEwjMxueKjoiPAxVfTDABHZqUKkEQyecJegQIGBAR"">pigment</a></span>&nbsp;made from mercury&nbsp;<span style=""text-decoration-line: underline;""><a href=""https://www.google.com/search?sa=X&amp;sca_esv=a1754dd2adcb8a92&amp;biw=1242&amp;bih=594&amp;sxsrf=AE3TifMRtzVPuAOMpoYqeiCXDG1oHOBSlw:1755099216606&amp;q=sulfide&amp;si=AMgyJEsuit4gN7752H-yAHcCJWwoRgla4fDQRLQ0LNBmyUYobJ6_3BvfxhJOjffB14nKWhPv_bW2NtFqk227dkqMlZhRQ8L_jCJtLtTiJ_8qT2dg4acb4zc%3D&amp;expnd=1&amp;ved=2ahUKEwjMxueKjoiPAxVfTDABHZqUKkEQyecJegQIGBAS"">sulfide</a></span>&nbsp;(<span style=""text-decoration-line: underline;""><a href=""https://www.google.com/search?sa=X&amp;sca_esv=a1754dd2adcb8a92&amp;biw=1242&amp;bih=594&amp;sxsrf=AE3TifMRtzVPuAOMpoYqeiCXDG1oHOBSlw:1755099216606&amp;q=cinnabar&amp;si=AMgyJEtTt81ZwKfSOowD-Pgs8NXgqzHbO6K5T6-wiN7gNUNeffP-1B25zDRGssIzPBrgZmk_CQ5yKjxzGF8uuQAgG2bYGdmepW9KHXuFI7BNGmklUS1k11g%3D&amp;expnd=1&amp;ved=2ahUKEwjMxueKjoiPAxVfTDABHZqUKkEQyecJegQIGBAT"">cinnabar</a></span>).<br><ol><li><div><div><ul><li><div><div><div><div><div>a brilliant red color.</div><div><div>""a lateral stripe of vermilion""<br></div></div></div></div></div></div></li></ul></div></div></li></ol>"		6	235	10	
+株		Stocks		10	236	10	
+若		Young		8	237	10	
+草		Grass		9	238	10	
+苦		Suffering		8	239	10	
+苛		Bullying<br><strong>acoso, hostigamiento o maltrato repetido</strong>,		8	240	10	
+寛		Tolerant		13	241	10	
+薄		"Dilute<br>make (a liquid)&nbsp;<span style=""text-decoration-line: underline;""><a href=""https://www.google.com/search?sa=X&amp;sca_esv=a1754dd2adcb8a92&amp;biw=1242&amp;bih=594&amp;sxsrf=AE3TifNo4lWv8SsJH19_w0Lsm_NxPZd6dw:1755100134159&amp;q=thinner&amp;si=AMgyJEsuit4gN7752H-yAHcCJWwowWAbaZB7Y8e-9DeAPvEIMbsVW-02YzbCCEsUpD0CtibexxRiS1KmwtS4TXlQuPaFOulMjJ7g48yyPeFcTYBOOoBBTz0%3D&amp;expnd=1&amp;ved=2ahUKEwiXxqrAkYiPAxVtSTABHX6AIIIQyecJegQIKRAR"">thinner</a></span>&nbsp;or&nbsp;<span style=""text-decoration-line: underline;""><a href=""https://www.google.com/search?sa=X&amp;sca_esv=a1754dd2adcb8a92&amp;biw=1242&amp;bih=594&amp;sxsrf=AE3TifNo4lWv8SsJH19_w0Lsm_NxPZd6dw:1755100134159&amp;q=weaker&amp;si=AMgyJEsXYQ0NEcQTt8SssuuWcU5mK76-0osxTvdxBcvF3uccp8IMD_EZfXcI4Q0AW2qqMK4ICzkR-rRKfs1FQU-Gt6kwDLz9QQ%3D%3D&amp;expnd=1&amp;ved=2ahUKEwiXxqrAkYiPAxVtSTABHX6AIIIQyecJegQIKRAS"">weaker</a></span>&nbsp;by adding water or another&nbsp;<span style=""text-decoration-line: underline;""><a href=""https://www.google.com/search?sa=X&amp;sca_esv=a1754dd2adcb8a92&amp;biw=1242&amp;bih=594&amp;sxsrf=AE3TifNo4lWv8SsJH19_w0Lsm_NxPZd6dw:1755100134159&amp;q=solvent&amp;si=AMgyJEsuit4gN7752H-yAHcCJWwovzMmJjxZi4fzvgVWBacDEmlxv5x81KsjKgU1Q5OuAAUsYmTurG_IM2y_J-Dcz4Jc9ozeP3xSusd2s-xBuhBTy8VP3mI%3D&amp;expnd=1&amp;ved=2ahUKEwiXxqrAkYiPAxVtSTABHX6AIIIQyecJegQIKRAT"">solvent</a></span>&nbsp;to it."		16	242	10	
+葉		Leaf		12	243	10	
+模		Imitation<br>莫 =“nada”, “ninguno”, “extremo” o “no existir”.		14	244	10	
+漠		Vague<br>莫=“nada”, “ninguno”, “extremo” o “no existir”.		13	245	10	
+墓		Grave<br>tumbas		13	246	10	
+暮		Livelihood<br>ca <strong>medio de vida</strong> o <strong>sustento</strong>		14	247	10	
+膜		Membrane		14	248	10	
+苗		Seedling<br><div>Semillero<br></div>		8	249	10	
+兆		Portent<br>presagio, señal de algo que va a pasar.		6	250	11	
+桃		"Peach Tree<br><img alt=""Growing Peach Trees: How To Plant A Peach Tree | Gardening Know How"" src=""i4Eo3wqMZBECRSaoYdeG4i.jpg"">"		10	251	11	
+眺		Stare		11	252	11	
+犬		Dog		4	253	11	
+状		Status Quo		7	254	11	
+黙		Silence		15	255	11	
+然		Sort of Thing<br>tipos de cosas<br>		12	256	11	
+荻		"Reed<br>Caña<br><img alt=""Horsetail Rush - Reeds and Rushes"" src=""C243.jpg"">"		10	257	11	
+狩		Hunt		9	258	11	
+猫		Cat		11	259	11	
+牛		Cow		4	260	11	
+特		Special		10	261	11	
+告		Revelation		7	262	11	
+先		Before		6	263	11	
+洗		Wash		9	264	11	
+介		<br>intermediario		4	265	12	
+界		World		9	266	12	
+茶		Tea		9	267	12	
+脊		Spinal Column		10	268	12	
+合		Fit		6	269	12	
+塔		"Pagoda<br>O<br>torre <br><img alt=""Pagoda - Wikipedia"" src=""250px-Horyu-ji09s3200.jpg"">"		12	270	12	
+王		King		4	271	12	
+玉		Jewel<br><strong>joya</strong> o <strong>gema preciosa</strong>. 💎		5	272	12	
+宝		Treasure		8	273	12	
+珠		Pearl<br>perla<br>		10	274	12	
+現		Present		11	275	12	
+玩		Toy		8	276	12	
+狂		Lunatic		7	277	12	
+旺		Effulgent<br>resplandeciente		8	278	12	
+皇		Emperor		9	279	12	
+呈		Display<br>presentar		7	280	12	
+全		Whole		6	281	12	
+栓		Plug		10	282	12	
+理		Logic		11	283	12	
+主		Lord		5	284	12	
+注		Pour<br>(verter).		8	285	12	
+柱		Pillar		9	286	12	
+金		Gold		8	287	12	
+銑		"Pig Iron<br><img alt=""Why &quot;Pig Iron&quot; is called &quot;Pig Iron&quot;? As many are aware pig iron is an  intermediate product of the manufacturing of iron. It is from this iron  other variants of iron are"" src=""images.jpg"">"		14	288	12	
+鉢		Bowl		13	289	12	
+銅		"Copper<br>cobre<br><img alt=""Copper - Wikipedia"" src=""960px-NatCopper.jpg"">"		14	290	12	
+釣		"Angling<br>pescar<br><img alt=""Angling angles... (fishing tips) - YouTube"" src=""hqdefault.jpg"">"		11	291	12	
+針		"Needle<br><img alt=""Sewing needle - Wikipedia"" src=""A_depiction_of_needle.JPG"">"		10	292	12	
+銘		Inscription		14	293	12	
+鎮		Tranquilize		18	294	12	
+道		Road-Way<br><strong>” (cuello)</strong> es <strong>首</strong>		12	295	13	
+導		Guidance		15	296	13	
+辻		"Crossing<br><li><div>cruce</div>
+</li>
+<li>
+<div>intersección</div></li>"		5	297	13	
+迅		"Swift<br><li><div>rápido</div>
+</li>
+<li>
+<div>veloz</div>
+</li>
+<li>
+<div>ágil</div></li>"		6	298	13	
+造		Create		10	299	13	
+迫		Urge		8	300	13	
+逃		Escape		9	301	13	
+辺		"Environs<br>""environs; boundary; border; vicinity"		5	302	13	
+巡		Patrol<br>Patrullar<br>		6	303	13	
+車		Car		7	304	13	
+連		Take Along		10	305	13	
+軌		Rut		9	306	13	
+輸		Transport		16	307	13	
+喩	喻	Metaphor		12	308	13	
+前		In Front		9	309	13	
+煎		Roast		13	310	13	
+各		Each		6	311	13	
+格		Status		10	312	13	
+賂		Graft<br>Injerto		13	313	13	
+略		Abbreviation		11	314	13	
+客		Guest		9	315	13	
+額		Forehead		18	316	13	
+夏		Summer		10	317	13	
+処		Dispose<br>deshacerse de algo /		5	318	13	
+条		"Twig<br><ul><li><div> <strong>ramita</strong> (una rama pequeña de un árbol)</div>
+</li>
+</ul>
+<div></div>"		7	319	13	
+落		Fall		12	320	13	
+冗		Superfluous<br>superfluo / innecesario		4	321	14	
+冥		Hades<br><strong>Hades o algo oscuro y profundo</strong>		10	322	14	
+軍		Army		9	323	14	
+輝		Radiance		15	324	14	
+運		Carry		12	325	14	
+冠		Crown		9	326	14	
+夢		Dream		13	327	14	
+坑		"Pit<br><img alt=""天坑」揭真相！西伯利亞神秘巨坑證實「甲烷爆炸」"" src=""53615cc5-4844-4e48-b54a-5ff049fccb74.jpg"">"		7	328	14	
+高		Tall		10	329	14	
+享		Receive		8	330	14	
+塾		Cram School<br>s&nbsp;a private institution that provides supplementary education, often with a focus on preparing students for specific academic challenges, such as university entrance exams		14	331	14	
+熟		"Mellow<br><blockquote><div><em>algo que ha alcanzado su pleno desarrollo tras un proceso de calor, tiempo o experiencia</em></div>
+</blockquote>
+<div></div>"		15	332	14	
+亭		"Pavilion<br><img alt=""What's the Difference Between a Pavilion and a Gazebo? | Mid Valley  Structures"" src=""Timber-Ridge-Pavilion-1.jpg"">"		9	333	14	
+京		Capital		8	334	14	
+涼		Refreshing		11	335	14	
+景		Scenery		12	336	14	
+鯨		Whale		19	337	14	
+舎		"Cottage<br><img alt=""Cottage - Wikipedia"" src=""Country_cottage,_Inch_Island_-_geograph.org.uk_-_3951065_(cropped).jpg"">"		8	338	14	
+周		Circumference		8	339	14	
+週		Week		11	340	14	
+士		Gentleman		3	341	14	
+吉		Good Luck		6	342	14	
+壮		Robust		6	343	14	
+荘		"Villa<br><img alt=""崇岳荘 | 泊まる | 山中湖観光協会 公式ホームページ"" src=""EDm9Bp6eHkSHGVgn8kGdKdCZ37mkh1t1bX0tq7eC__1652_1239.jpeg"">"		9	344	14	leech
+売		Sell		7	345	14	leech
+学		Study		8	346	15	
+覚		Memorize		12	347	15	
+栄		Flourish<br><strong>Prosperar / crecer / desarrollarse/florecer</strong>		9	348	15	
+書		Write		10	349	15	
+津		Haven<br>refugio para barcos.		9	350	15	
+牧		Breed<br>Criar		8	351	15	
+攻		Aggression<br><table><tbody><tr><td><br>⺙</td><td><br></td><td>activity, to strike, hit</td></tr></tbody></table>		7	352	15	leech
+敗		Failure		11	353	15	
+枚		A Sheet Of		8	354	15	
+故		Happenstance<br>causa, razón, origen<br><strong>攵</strong> (forma variante de <strong>攴</strong>) significa literalmente <strong>“golpear / dar un golpe con una mano o palo”</strong>.		9	355	15	
+敬		respect		12	356	15	
+言		Say		7	357	15	
+警		Admonish<br>advertir		19	358	15	
+計		Plot		9	359	15	
+詮		Elucidate<br><strong>“examinar cuidadosamente”</strong> o <strong>“indagar”</strong>.		13	360	15	
+獄		Prison		14	361	15	
+訂		Revise		9	362	15	
+訃		Obituary<br>noticia de fallecimient		9	363	15	
+討		Chastise<br>castigar		10	364	15	
+訓		Instruction		10	365	15	
+詔		Imperial Edict<br><strong>“edicto imperial”</strong> o <strong>“decreto”</strong>,		12	366	15	
+詰		Packed		13	367	15	
+話		Tale<br>cuento, relato).		13	368	15	
+詠		Recitation		12	369	15	
+詩		Poem		13	370	15	
+語		Word		14	371	15	
+読		Read		14	372	15	
+調		Tune<br>afinar		15	373	15	
+談		Discuss		15	374	15	
+諾		Consent		15	375	15	
+諭		"Rebuke<br>Reprender<br>----<br>carnicero<br><img src=""paste-8616cf669fc79169a512f16ea6b86617c64fe5fc.jpg""><br><img alt=""Butchers' Week (Mar 2nd to Mar 8th) | Days Of The Year"" src=""butchers’-week.jpg""><br>"		16	376	15	
+式		Style		6	377	16	
+試		Test		13	378	16	
+弐		II (Two)		6	379	16	
+域		Range		11	380	16	
+賊		Burglar<br>Ladrón		13	381	16	
+栽		Plantation		10	382	16	
+載		Load		13	383	16	
+茂		Overgrown<br><strong>cubierto de maleza</strong><br>Descuidado		8	384	16	
+戚		Relatives		11	385	16	
+成		Turn Into		6	386	16	
+城		Castle		9	387	16	
+誠		Sincerity		13	388	16	
+威		Intimidate		9	389	16	
+滅		Destroy		13	390	16	
+減		Dwindle<br>disminuir		12	391	16	
+蔑		Revile<br>hablar mal de alguien con desprecio).		14	392	16	
+桟		Scaffold<br>andamio		10	393	16	
+銭		Coin		14	394	16	
+浅		Shallow<br>superficial		9	395	16	
+止		Stop		4	396	17	
+歩		Walk		8	397	17	
+渉		"Ford<br><div>🌊 (un “vado”, lugar poco profundo donde se puede cruzar un río).</div>
+<div></div>"		11	398	17	
+頻		Repeatedly		17	399	17	
+肯		Agreement		8	400	17	
+企		Undertake<br>Encargarse<br>		6	401	17	
+歴		Curriculum		14	402	17	
+武		Warrior		8	403	17	
+賦		Levy<br>imponer		15	404	17	
+正		Correct		5	405	17	
+証		Evidence		12	406	17	
+政		Politics		9	407	17	
+定		decidir<br>DECIDIDAS<br>		8	408	17	
+錠		Lock		16	409	17	
+走		Run		7	410	17	
+超		Super<br>		12	411	17	
+赴		Proceed		9	412	17	
+越		Surpass		12	413	17	
+是		<br>“correcto, justo, apropiado		9	414	17	
+題		Topic		18	415	17	
+堤		Dike<br>Muro de contención contra inundaciones 	Muro de contención contra inundaciones 	12	416	17	
+建		Build		9	417	17	
+鍵		Key		17	418	17	
+延		Prolong		8	419	17	
+誕		Nativity<br>Birth 		15	420	17	leech
+礎		<strong>“piedra fundamental, base, cimiento”</strong>.		18	421	17	
+婿		Bridegroom<br>Boyfriend 		12	422	17	
+衣		Garment ,prenda 		6	423	18	
+裁	Sastre 	Tailor<br>Sastre que corta y decide 		12	424	18	
+装		Attire<br>vestimenta		12	425	18	
+裏		Back		13	426	18	
+壊		Demolition		16	427	18	
+哀		Pathetic<br>	loque parece casita es una bufanda	9	428	18	
+遠		Distant		13	429	18	
+猿		Monkey		13	430	18	
+初		First Time<br>衤 = ropa		7	431	18	
+巾		Towel		3	432	18	
+布		"Linen<br><img alt=""What is Linen Fabric: Origin, Composition and Properties - Italian Artisan"" src=""What-is-Linen-Fabric-Origin_-Composition-and-Properties-scaled.webp"">"		5	433	18	
+帆		"Sail<br><img alt=""Parts Of a Sail Explained (Illustrated Beginners Guide) - Improve Sailing"" src=""parts-of-a-sail-1024x-q80.png"">"		6	434	18	
+幅		"Hanging Scroll<br><img alt=""Japanese/Chinese Kanji Calligraphy Hanging Scroll made of Shuen Paper -  ASIAN BRUSHPAINTER"" src=""hanging-scroll-pde039-4_5000x.jpg"">"		12	435	18	
+帽		Cap		12	436	18	
+幕		Curtain		13	437	18	
+幌		Canopy<br>cubierta / lona / carpa		13	438	18	
+錦		Brocade<br>ir, <strong>una tela rica, lujosa, de seda con hilos de oro o de colores brillantes</strong>		16	439	18	
+市		Market		5	440	18	
+柿		"Persimmon<br><img alt=""Grow a little persimmon tree | Rick Shory"" src=""lp100-fruit.jpg"">"		9	441	18	
+姉		Elder Sister		8	442	18	
+肺		Lungs		9	443	18	
+帯		Sash<br><strong>faja, banda, cinturón ancho de tela</strong> 🎗️		10	444	18	
+滞		Stagnate<br>estancarse		13	445	18	
+刺		"Thorn<br><div><strong>espina</strong></div>
+<div></div>"		8	446	18	
+制		System		8	447	18	
+製		Made In…		14	448	18	
+転		Revolve<br>girar		11	449	18	
+芸		Technique		7	450	18	
+雨		Rain		8	451	18	
+雲		Cloud		12	452	18	
+曇		Cloudy Weather		16	453	18	
+雷		Thunder		13	454	18	
+霜		Frost<br>helada		17	455	18	
+冬		Winter		5	456	18	
+天		Heavens<br>cielos, paraisos		4	457	18	
+妖		Bewitched<br>hechizado<br>embrujado		7	458	18	
+沃		Irrigate<br><strong>regar abundantemente</strong>		7	459	18	
+橋		Bridge<br>喬 = alto		16	460	18	
+嬌		Attractive<br>喬 = alto<br>		15	461	18	
+立		Stand Up		5	462	18	
+泣		Cry		8	463	18	
+章		Badge<br>insignia		11	464	18	
+競		Vie<br>competir		20	465	18	
+帝		Sovereign<br>emperador<br>Soverano		9	466	18	
+諦		Renunciation		16	467	18	
+童		Juvenile		12	468	18	
+瞳		Pupil		17	469	18	
+鐘		Bell		20	470	18	
+商		Make A Deal		11	471	18	
+嫡		Legitimate Wife<br>Es una variante antigua de <strong>商</strong>		14	472	18	
+適		Suitable<br>adecuado		14	473	18	
+滴		Drip<br>gota<br>goteo		14	474	18	
+敵		Enemy		15	475	18	
+匕		Spoon		2	476	18	
+叱		"Scold<br><img alt=""Scold Cartoon Images – Browse 4,086 Stock Photos, Vectors, and Video |  Adobe Stock"" src=""https://t4.ftcdn.net/jpg/01/18/59/55/360_F_118595534_ucXVmU01bBiL2a4alj0ZA6ZhE2Ii8Cas.jpg"">"		5	477	18	
+匂		Aroma		4	478	18	
+頃		About That Time		11	479	18	
+北		North		5	480	18	
+背		Stature		9	481	18	
+比		Compare		4	482	18	
+昆		Descendants		8	483	18	
+皆		All		9	484	18	
+楷		Block Letters		13	485	18	
+諧		<strong>harmonious</strong>		16	486	18	
+混		Mix		11	487	18	
+渇		Thirst		11	488	18	
+謁		Audience		15	489	18	
+褐		Brown		13	490	18	
+喝		Hoarse<br>ronco		11	491	18	
+葛		"Kudzu<br><img alt=""Our State Great Eight: Thoughts on Kudzu, The South's Leafy Green Invader |  Our State"" src=""great-8-kudzu.jpg"">"		11	492	18	
+旨		Delicious		6	493	18	
+脂		Fat		10	494	18	
+詣		"Visit A Shrine<br><img alt=""How to visit a temple or shrine like a Tokyoite"" src=""image.jpg"">"		13	495	18	
+壱		I (One)		7	496	18	
+毎		Every		6	497	18	
+敏		Cleverness<br><div>&nbsp;= <em>la capacidad de reaccionar con rapidez e inteligencia.</em></div>		10	498	18	
+梅		"Plum<br><img alt=""日本一の梅「南高梅」ってどんな梅？その魅力を詳しく解説 | 日直当番からの暮らし日記"" src=""nanko-ume01.jpg"">"		10	499	18	
+海		Sea		9	500	18	
+乞		Beg		3	501	18	
+乾		Drought<br>sequia		11	502	18	
+腹		Abdomen		13	503	18	
+複		Duplicate		14	504	18	
+欠		Lack		4	505	18	
+吹		"Blow<br><strong>""blow"" (soplar)</strong>&nbsp;"		7	506	18	
+炊		Cook		8	507	18	
+歌		Song		14	508	18	
+軟		Soft<br><strong>suave / blando / flexible”</strong>.		11	509	18	
+次		Next		6	510	18	
+茨		"Briar<br><strong>zarza / espino / briar</strong>.<br><img alt=""薔薇(ばら)」と「茨(いばら)」の違いは? | 1分で読める!! [ 違いは? ]"" src=""prickles.jpg"">"		9	511	18	
+資		Assets		13	512	18	
+姿		Figure		9	513	18	
+諮		Consult With		16	514	18	
+賠		Compensation		15	515	19	
+培		Cultivate		11	516	19	
+剖		Divide		10	517	19	
+音		Sound		9	518	19	
+暗		Darkness		13	519	19	
+韻		Rhyme		19	520	19	
+識		Discriminating		19	521	19	
+鏡		Mirror		19	522	19	
+境		Boundary		14	523	19	
+亡		Deceased		3	524	19	
+盲		Blind		8	525	19	
+妄		Delusion<br><strong>Creencia falsa o errónea</strong>		6	526	19	
+荒		Laid Waste<br><strong>“reducido a ruinas” / “arrasado” / “devastado”</strong>.		9	527	19	
+望		Ambition		11	528	19	
+方		Direction		4	529	19	
+妨		Disturb		7	530	19	
+坊		Boy		7	531	19	
+芳		Perfumed		7	532	19	
+肪		Obese		8	533	19	
+訪		Call On		11	534	19	
+放		Set Free		8	535	19	
+激		Violent		16	536	19	
+脱		Undress		11	537	19	
+説		Explanation		11	538	19	
+鋭		Pointed<br>puntiagudo		15	539	19	
+曽		Formerly<br><em>anteriormente, en el pasado</em>.		11	540	19	
+増		Increase		14	541	19	
+贈		Presents		18	542	19	
+東		East		8	543	19	
+棟		Ridgepole<br><strong>viga horizontal más alta</strong> de un techo		12	544	19	
+凍		Frozen		10	545	19	
+妊		Pregnancy		7	546	19	
+廷		Courts (corte de la justicia)		7	547	19	
+染		Dye<br>tinte		9	548	20	
+燃		Burn		16	549	20	
+賓		V.I.P.		15	550	20	
+歳		Year-End		13	551	20	
+県		Prefecture		9	552	20	
+栃		"Horse Chestnut<br><div><em>castaño de Indias</em>.</div>
+<div></div><img alt=""栃の実〈自然採取〉【生・乾燥】 | 天空彩園"" src=""01SEINTHCNT-01.jpg""><br>"		9	553	20	
+地		Ground		6	554	21	
+池		Pond<br>estanqueq		6	555	21	
+虫		Insect		6	556	21	
+蛍		Lightning Bug		11	557	21	
+蛇		Snake		11	558	21	
+虹		Rainbow<br>arcoíris		9	559	21	
+蝶		Butterfly		15	560	21	
+独		Single		9	561	21	
+蚕		"Silkworm<br>gusano de seda<br><img alt=""又到一年养蚕时，分享下我儿时的养蚕经"" src=""2e4f3ce5-d28b-4033-bb57-3e274a75c605.png"">"		10	562	21	
+風		Wind		9	563	21	
+己		Self		3	564	21	
+起		Rouse<br>despertar, levantar, ponerse en pie		10	565	21	
+妃		Queen		6	566	21	
+改		Reformation		7	567	21	
+記		Scribe<br><em>escriba / registrar</em>)		10	568	21	
+包		Wrap<br>envolver		5	569	21	
+胞		Placenta		9	570	21	
+砲		"Cannon<br><img alt=""ロシア軍、70年前のカノン砲を在庫から大量に引っ張り出す 砲弾は北朝鮮製 | Forbes JAPAN 公式サイト（フォーブス ジャパン）"" src=""main_image_31119c1d1ab7a4ed02f8bbe8c3a39c3ca5f8da55.jpg""><br>Cañón"		10	571	21	
+泡		Bubble		8	572	21	
+亀		Tortoise		11	573	21	
+電		Electricity		13	574	21	
+竜		Dragon		10	575	21	
+滝		Waterfall		13	576	21	
+豚		Pork		11	577	21	
+逐		"Pursue<br>--------<br><img src=""paste-67c06002b70d23a9365dfcf34234474df021babb.jpg""><br>sow&nbsp;<img alt=""sow - Wiktionary, the free dictionary"" src=""1200px-Sow_and_five_piglets.jpg"">"		10	578	21	
+遂		Consummate<br>llevar a cabo, cumplir, consumar		12	579	21	
+家		House		10	580	21	
+嫁		Marry Into		13	581	21	
+豪		Overpowering		14	582	21	
+腸		Intestines		13	583	21	
+場		"Location<br>--------------<br><img src=""paste-a5029abada221bb1f3b1b079d8adfe7322e69b29.jpg""><br>piggy bank<br><img alt=""Piggy Bank Drawing Stock Illustrations – 6,100 Piggy Bank Drawing Stock  Illustrations, Vectors &amp; Clipart - Dreamstime"" src=""cute-cartoon-piggy-bank-drawing-funny-piggybank-dollar-coin-saving-money-vector-illustration-cute-cartoon-piggy-ban.jpg""><br>"		12	584	21	
+湯		Hot Water		12	585	21	
+羊		Sheep		6	586	21	
+美		Beauty		9	587	21	
+洋		Ocean		9	588	21	
+詳		Detailed		13	589	21	
+鮮		Fresh		17	590	21	
+達		Accomplished		12	591	21	
+羨		Envious<br>envidiar		13	592	21	
+差		Distinction<br>diferencia, distinción, discrepancia		10	593	21	
+着		Don		12	594	21	
+唯		Solely<br><strong>“solely / only / uniquely”</strong>.		11	595	21	
+堆		"Piled High<br>accumulate<br>------<br>turkey<br><img src=""paste-96de5d20bf006724f0a6ae2aef6045071e654026.jpg""><br><img alt=""Prime Video: Team Radical Turkey Hunting"" src=""fbc1d833a55a067f3bcb01684160a79481b54ae2644a94481601910ea7448341.jpg"">"		11	596	21	
+椎		Sweet Oak<br><strong>“roble dulce”</strong>.		12	597	21	
+誰		Who		15	598	21	
+焦		Char<br><strong>quemar, chamuscar, carbonizar</strong>		12	599	21	
+礁		"Reef<br><img alt=""礁- 維基百科，自由的百科全書"" src=""1200px-Skerry_in_shallow_water.jpg""><br>"		17	600	21	
+集		Gather		12	601	21	
+准		Quasi-<br>Se usa mucho como prefijo para indicar algo <strong>casi equivalente</strong> a otra cosa.		10	602	21	
+進		Advance		11	603	21	
+雑		Miscellaneous<br>mezclado / variado / misceláneo		14	604	21	
+雌		Female		14	605	21	
+準		Semi-		13	606	21	
+奮		Stirred Up<br><strong>“agitarse, entusiasmarse, esforzarse con energía”</strong>		16	607	21	
+奪		Rob		14	608	21	
+確		Assurance<br><strong>“seguro, certeza, asegurar</strong>		15	609	21	
+午		Noon		4	610	21	
+許		Permit		11	611	21	
+歓		Delight<br>“alegría, júbilo, deleite”		15	612	21	
+権		Authority		15	613	21	
+観		Outlook<br>o <strong>“mirada, perspectiva, visión, outlook”</strong>.		18	614	21	
+羽		Feathers		6	615	21	
+習		Learn		11	616	21	
+翌		The Following		11	617	21	
+曜		Weekday		18	618	21	
+濯		Laundry		17	619	21	
+曰		Sayeth<br>“decir / sayeth”		4	620	22	
+困		<em>quandary / to be troubled</em>.		7	621	22	
+固		<strong>“endurecer, hacer firme, sólido”</strong> → <em>harden / solidify</em>.		8	622	22	
+錮		Weld<br><strong>“encarcelar, confinar, soldar (en sentido de encerrar con metal)”</strong>.		16	623	22	
+国		Country		8	624	22	
+団		Group		6	625	22	
+因		Cause		6	626	22	
+姻		Matrimony		9	627	22	
+咽		Windpipe<br>“garganta / tráquea / windpipe		9	628	22	
+園		Park		13	629	22	
+回		<strong>times</strong>.		6	630	22	
+壇		Podium		16	631	22	
+店		Store		8	632	22	
+庫		Warehouse<br><div><strong>“almacén / depósito / warehouse”</strong>.</div>		10	633	22	
+庭		<strong>“patio, jardín, courtyard”</strong>.		10	634	22	
+庁		Government Office		5	635	22	
+床		Bed		7	636	22	
+麻		Hemp<br>El kanji <strong>麻</strong> significa <strong>“cáñamo / hemp”</strong>.<br>El <strong>cáñamo</strong> es una <strong>planta</strong> de la familia del cannabis		11	637	22	
+磨		Grind<br><strong>“pulir, afilar, moler, grind”</strong>.		16	638	22	
+心		Heart		4	639	22	
+忘		Forget		7	640	22	
+恣		Selfish		10	641	22	
+忍		Endure<br><strong>“soportar, aguantar, endure / endurecerse / paciencia”</strong>.		7	642	22	
+認		Acknowledge<br>“reconocer, admitir, reconocer con la mente		14	643	22	
+忌		Mourning<br><strong>luto, duelo, abstenerse, mourning”</strong>.		7	644	22	
+志		Intention		7	645	22	
+誌		Document		14	646	22	
+芯		"Wick<br><div>a <strong>“mecha (de vela, lámpara) / núcleo / wick”</strong>.</div>
+
+<h3></h3>"		7	647	22	
+忠		Loyalty		8	648	22	
+串		<strong>“brocheta / pincho”</strong>,		7	649	22	
+患		Afflicted<br><em>afflicted</em>, <em>suffering</em>, or <em>troubled</em>.		11	650	22	
+思		Think		9	651	22	
+恩		"Grace<br><strong>""gracia""</strong> o <strong>""benevolencia</strong>"		10	652	22	
+応		Apply		7	653	22	
+意		Idea		13	654	22	
+臆		"Cowardice<br><strong>""cobardía""</strong> o <strong>""timidez excesiva""</strong>"		17	655	22	
+想		Concept<br><strong>concepto</strong>		13	656	22	
+息		Breath		10	657	22	
+憩		"Recess<br><strong>descanso""</strong>, <strong>""reposo""</strong> o <strong>""relajación</strong>"		16	658	22	
+恵		Favor		10	659	22	
+恐		Fear		10	660	22	
+惑		"Beguile<br><strong>""embaucar""</strong> o <strong>""seducir""</strong>"		12	661	22	
+感		Emotion		13	662	22	
+憂		Melancholy		15	663	22	
+寡		Widow<br>viuda		14	664	22	
+忙		Busy		6	665	22	
+悦		Ecstasy		10	666	22	
+恒		Constancy		9	667	22	
+悼		Lament		11	668	22	
+悟		"Enlightenment<br><strong>""sabiduría""</strong>, <strong>""iluminación""</strong>, o <strong>""comprensión profunda""</strong>.&nbsp;"		10	669	22	
+怖		"Dreadful<br><strong>terrible""</strong> o <strong>""horrible""</strong>."		8	670	22	
+慌		Disconcerted<br><strong>Disconcerted</strong>: <strong>Desconcertado</strong>, <strong>perplejo</strong>, <strong>confuso</strong>.		12	671	22	
+悔		Repent<br><strong>arrepentirse</strong>		9	672	22	
+憎		Hate		14	673	22	
+慣		Accustomed		14	674	22	
+愉		Pleasure		12	675	22	
+惰		Lazy		12	676	22	
+慎		Humility		13	677	22	
+憾		"Remorse<br>remordimiento"""		16	678	22	
+憶		Recollection		16	679	22	
+惧		"Disquieting<br><strong>""inquietante""</strong> o <strong>""preocupante""</strong>"		11	680	22	
+憧		"Yearn<br><strong>""anhelar""</strong> o <strong>""desear intensamente""</strong>"		15	681	22	
+憬		"Hanker<br><strong>""ansiar""</strong> o <strong>""desear intensamente</strong>"		15	682	22	
+慕		"Pining<br>""anhelo"		14	683	22	
+添		"Annexed<br><strong>anexado""</strong> o <strong>""adjudicado""</strong>"		11	684	22	
+必		Invariably<br>inevitablemente		5	685	22	
+泌		Ooze<br>derramarse lentamente		8	686	22	
+手		Hand		4	687	23	
+看		"Watch Over<br><strong>""vigilar""</strong>,"		9	688	23	
+摩		"Chafe<br><strong>""rozar""</strong>, <strong>""frotar""</strong> o <strong>""irritar por fricción""</strong>"		15	689	23	
+我		Ego		7	690	23	
+義		"Righteousness<br><strong>""justicia""</strong>,"		13	691	23	
+議		Deliberation<br><strong>pensar cuidadosamente</strong> sobre algo, o de <strong>discutir</strong> y <strong>considerar</strong> diferentes opciones antes de tomar una decisión.		20	692	23	
+犠		Sacrifice		17	693	23	
+抹		"Rub<br><strong>""frotar""</strong>, <strong>""fregar""</strong> o <strong>""borrar</strong>"		8	694	23	
+拭		"Wipe<br><div><strong>pasar algo (como un paño, servilleta, trapo, la mano, etc.) sobre una superficie para limpiarla, secarla o quitar algo de encima</strong>.</div>
+<div></div>"		9	695	23	
+拉		Yank<br>= <strong>tirar bruscamente de algo</strong>		8	696	23	
+抱		Embrace		8	697	23	
+搭		Board<br><strong>subirse a un vehículo, embarcarse</strong>).		12	698	23	
+抄		Extract		7	699	23	
+抗		Confront<br><strong>luchar contra</strong> (to fight against)		7	700	23	
+批		Criticism		7	701	23	
+招		Beckon<br>hacer señas / llamar con un gesto / atrae		8	702	23	
+拓		Clear The Land		8	703	23	
+拍		Clap		8	704	23	
+打		Strike		5	705	23	
+拘		Arrest		8	706	23	
+捨		Discard		11	707	23	
+拐		Kidnap<br>secuestrar		8	708	23	
+摘		Pinch<br>pellizcar con los dedos”		14	709	23	
+挑		Challenge		9	710	23	
+指		Finger		9	711	23	
+持		Hold		9	712	23	
+拶		Imminent<br><strong>que está a punto de suceder muy pronto</strong>, algo que se avecina y no se puede evitar fácilmente.		9	713	23	
+括		Fasten<br>“atar / sujetar”		9	714	23	
+揮		Brandish<br><strong>blandir/agitar</strong>,		12	715	23	
+推		Conjecture		11	716	23	
+揚		Hoist<br><strong>izar / levantar / alzar</strong>		12	717	23	
+提		Propose		12	718	23	
+損		Damage		13	719	23	
+拾		Pick Up		9	720	23	
+担		Shouldering<br><strong>cargar sobre los hombros / responsabilizarse</strong>		8	721	23	
+拠		Foothold<br><strong>punto de apoyo / base / fundamento</strong>		8	722	23	
+描		Sketch		11	723	23	
+操		Maneuver<br>maniobrar / controlar / manipular		16	724	23	
+接		Touch		11	725	23	
+掲		Put Up A Notice<br>colocar un aviso / publicar un anuncio		11	726	23	
+掛		Hang		11	727	23	
+捗		Make Headway<br>hacer progresos		10	728	23	
+研		Polish<br><strong>pulir / afilar / perfeccionar</strong>		9	729	23	
+戒		Commandment<br>mandamiento / advertencia / precepto		7	730	23	
+弄		Tinker With<br>→ <strong>trastear con / juguetear con / manipular</strong>		7	731	23	
+械		Contraption<br><strong>artefacto / aparato / máquina</strong>		11	732	23	
+鼻		Nose		14	733	23	
+刑		Punish		6	734	23	
+型		Mould<br><strong>molde / patrón / tipo</strong>		9	735	23	
+才		Genius		3	736	23	
+財		Property		10	737	23	
+材		Lumber<br><strong>madera / material</strong>		7	738	23	
+存		Suppose		6	739	23	
+在		Exist		6	740	23	
+乃		From		2	741	23	
+携		Portable		13	742	23	
+及		Reach Out<br><strong>alcanzar / extenderse a</strong>		3	743	23	
+吸		Suck		6	744	23	
+扱		Handle		6	745	23	
+丈		Length		3	746	23	
+史		History		5	747	23	
+吏		Officer<br><strong>funcionario / oficial</strong>		6	748	23	
+更		Grow Late<br>hacerse tarde / avanzar en el tiempo		7	749	23	
+硬		Stiff<br><strong>duro / rígido / firme</strong>		12	750	23	
+梗		Spiny<br>espinoso		11	751	23	
+又		Again		2	752	23	
+双		Pair		4	753	23	
+桑		Mulberry<br>árbol de moras, morera.		10	754	23	
+隻		Vessels<br>Barco		10	755	23	
+護		Safeguard<br><strong>proteger, defender, resguardar algo contra daño o peligro</strong>.		20	756	23	
+獲		Seize<br>Capturar, atrapar.		16	757	23	
+奴		Guy		5	758	23	
+怒		Angry		9	759	23	
+友		Friend		4	760	23	
+抜		Slip Out<br>(<em>escaparse, deslizarse afuera</em>).		7	761	23	
+投		Throw		7	762	23	
+没		Drown<br>ahogarse		7	763	23	
+股		Thigh<br>muslo		8	764	23	
+設		Establishment<br>(<em>fundación, instalación,</em>		11	765	23	
+撃		Beat<br>golpear		15	766	23	
+殻		Husk<br>cáscara		11	767	23	
+支		Branch<br>rama		4	768	23	
+技		Skill		7	769	23	
+枝		"Bough<br>rama grande<br><img alt=""枯枝png图片免费下载-素材7NikagePW-新图网"" src=""0bb1ea180ffa31c72c9a958bfa0fc69d_74053_800_542.jpg!con"">"		8	770	23	
+肢		Limb<br><strong>extremidad del cuerpo</strong> → puede ser <strong>brazo o pierna</strong>.		8	771	23	
+茎		Stalk<br>tallo		8	772	23	
+怪		Suspicious		8	773	23	
+軽		Lightly<br>ligero		12	774	23	
+叔		Uncle		8	775	23	
+督		Coach		13	776	23	
+寂		Loneliness		11	777	23	
+淑		Graceful<br>Elegante, refinado, armonioso, agraciado		11	778	23	
+反		Anti-		4	779	23	
+坂		Slope		7	780	23	
+板		Plank<br>tabla		8	781	23	
+返		Return		7	782	23	
+販		Marketing		11	783	23	
+爪		Claw<br>UÑA		4	784	23	
+妥		Gentle		7	785	23	
+乳		Milk		8	786	23	
+浮		Floating		10	787	23	
+淫		Lewd<br>Lasivo		11	788	23	
+将		Leader		10	789	23	
+奨		"Exhort<br>el leader tiene un perro grande que lo hacer ""animar""<br>= <strong>instar con fuerza, animar,&nbsp;</strong>"		13	790	23	
+采		Grab		8	791	23	
+採		Pick		11	792	23	
+菜		Vegetable		11	793	23	
+受		Accept		8	794	23	
+授		Impart<br><strong>dar, transmitir, enseñar, otorgar</strong>		11	795	23	
+愛		Love		13	796	23	
+曖		Unclear		17	797	23	
+払		Pay		5	798	23	
+広		Wide		5	799	23	
+勾		Hooked<br>en forma de gancho, curvado o doblado hacia atrás		4	800	23	
+拡		Broaden		8	801	23	
+鉱		Mineral		13	802	23	
+弁		Valve		5	803	23	
+雄		Male		12	804	23	
+台		Pedestal		5	805	23	
+怠		Neglect		9	806	23	
+治		Reign		8	807	23	
+冶		Metallurgy		7	808	23	
+始		Commence		8	809	23	
+胎		Womb		9	810	23	
+窓		Window		11	811	23	
+去		Gone		5	812	23	
+法		Method		8	813	23	
+会		Meeting		6	814	23	
+至		Climax		6	815	23	
+室		Room		9	816	23	
+到		Arrival		8	817	23	
+致		Doth		10	818	23	
+互		Mutually		4	819	23	
+棄		Abandon		13	820	23	
+育		Bring Up		8	821	23	
+撤		Remove		15	822	23	
+充		Allot		6	823	23	
+銃		Gun		14	824	23	
+硫		Sulfur		12	825	23	
+流		Current		10	826	23	
+允		License		4	827	23	
+唆		Tempt		10	828	23	
+出		Exit		5	829	24	
+山		Mountain		3	830	24	
+拙		Bungling		8	831	24	
+岩		Boulder		8	832	24	
+炭		Charcoal		9	833	24	
+岐		Branch Off		7	834	24	
+峠		Mountain Pass		9	835	24	
+崩		Crumble		11	836	24	
+密		Secrecy		11	837	24	
+蜜		Honey		12	838	24	
+嵐		Storm		12	839	24	
+崎		Promontory		11	840	24	
+崖		Bluffs		11	841	24	
+入		Enter		2	842	24	
+込		Crowded		5	843	24	
+分		Part		4	844	24	
+貧		Poverty		11	845	24	
+頒		Partition		13	846	24	
+公		Public		4	847	24	
+松		Pine Tree		8	848	24	
+翁		Venerable Old Man		10	849	24	
+訟		Sue		11	850	24	
+谷		Valley		7	851	24	
+浴		Bathe		10	852	24	
+容		Contain		10	853	24	
+溶		Melt		13	854	24	
+欲		Longing		11	855	24	
+裕		Abundant		12	856	24	
+鉛		Lead (Metal)		13	857	24	
+沿		Run Alongside		8	858	24	
+賞		Prize		15	859	25	
+党		Party		10	860	25	
+堂		Hall		11	861	25	
+常		Usual		11	862	25	
+裳		Skirt		14	863	25	
+掌		Manipulate		12	864	25	
+皮		Pelt		5	865	25	
+波		Waves		8	866	25	
+婆		Old Woman		11	867	25	
+披		Expose		8	868	25	
+破		Rend		10	869	25	
+被		Incur		10	870	25	
+残		Remainder		10	871	25	
+殉		Martyrdom		10	872	25	
+殊		Particularly		10	873	25	
+殖		Augment		12	874	25	
+列		File		6	875	25	
+裂		Split		12	876	25	
+烈		Ardent		10	877	25	
+死		Death		6	878	25	
+葬		Interment		12	879	25	
+瞬		Wink		18	880	25	
+耳		Ear		6	881	25	
+取		Take		8	882	25	
+趣		Gist		15	883	25	
+最		Utmost		12	884	25	
+撮		Snapshot		15	885	25	
+恥		Shame		10	886	25	
+職		Post		18	887	25	
+聖		Holy		13	888	25	
+敢		Daring		12	889	25	
+聴		Listen		17	890	25	
+懐		Pocket		16	891	25	
+慢		Ridicule		14	892	25	
+漫		Loose		14	893	25	
+買		Buy		12	894	25	
+置		Placement		13	895	25	
+罰		Penalty		14	896	25	
+寧		Rather		14	897	25	
+濁		Voiced		16	898	25	
+環		Ring		17	899	25	
+還		Send Back		16	900	25	
+夫		Husband		4	901	25	
+扶		Aid		7	902	25	
+渓		Mountain Stream		11	903	25	
+規		Standard		11	904	25	
+替		Exchange		12	905	25	
+賛		Approve		15	906	25	
+潜		Submerge		15	907	25	
+失		Lose		5	908	25	
+鉄		Iron		13	909	25	
+迭		Alternate		8	910	25	
+臣		Retainer		7	911	25	
+姫		Princess		10	912	25	
+蔵		Storehouse		15	913	25	
+臓		Entrails		19	914	25	
+賢		Intelligent		16	915	25	
+腎		Kidney		13	916	25	
+堅		Strict		12	917	25	
+臨		Look To		18	918	25	
+覧		Perusal		17	919	25	
+巨		Gigantic		5	920	25	
+拒		Repel		8	921	25	
+力		Power		2	922	25	
+男		Man		7	923	25	
+労		Labor		7	924	25	
+募		Recruit		12	925	25	
+劣		Inferiority		6	926	25	
+功		Achievement		5	927	25	
+勧		Persuade		13	928	25	
+努		Toil		7	929	25	
+勃		Uprising		9	930	25	
+励		Encourage		7	931	25	
+加		Add		5	932	25	
+賀		Congratulations		12	933	25	
+架		Erect		9	934	25	
+脇		Armpit		10	935	25	
+脅		Threaten		10	936	25	
+協		Co-		8	937	25	
+行		Going		6	938	25	
+律		Rhythm		9	939	25	
+復		Restore		12	940	25	
+得		Gain		11	941	25	
+従		Accompany		10	942	25	
+徒		Junior		10	943	25	
+待		Wait		9	944	25	
+往		Journey		8	945	25	
+征		Subjugate		8	946	25	
+径		Diameter		8	947	25	
+彼		He		8	948	25	
+役		Duty		7	949	25	
+徳		Benevolence		14	950	25	
+徹		Penetrate		15	951	25	
+徴		Indications		14	952	25	
+懲		Penal		18	953	25	
+微		Delicate		13	954	25	
+街		Boulevard		12	955	25	
+桁		Girder		10	956	25	
+衡		Equilibrium		16	957	25	
+稿		Draft		15	958	26	
+稼		Earnings		15	959	26	
+程		Extent		12	960	26	
+税		Tax		12	961	26	
+稚		Immature		13	962	26	
+和		Harmony		8	963	26	
+移		Shift		11	964	26	
+秒		Second		9	965	26	
+秋		Autumn		9	966	26	
+愁		Distress		13	967	26	
+私		Private		7	968	26	
+秩		Regularity		10	969	26	
+秘		Secret		10	970	26	
+称		Appellation		10	971	26	
+利		Profit		7	972	26	
+梨		Pear Tree		11	973	26	
+穫		Harvest		18	974	26	
+穂		Ear of A Plant		15	975	26	
+稲		Rice Plant		14	976	26	
+香		Incense		9	977	26	
+季		Seasons		8	978	26	
+委		Committee		8	979	26	
+秀		Excel		7	980	26	
+透		Transparent		10	981	26	
+誘		Entice		14	982	26	
+稽		Training		15	983	26	
+穀		Cereals		14	984	26	
+菌		Germ		11	985	26	
+萎		Numb		11	986	26	
+米		Rice		6	987	26	
+粉		Flour		10	988	26	
+粘		Sticky		11	989	26	
+粒		Grains		11	990	26	
+粧		Cosmetics		12	991	26	
+迷		Astray		9	992	26	
+粋		Chic		10	993	26	
+謎		Riddle		16	994	26	
+糧		Provisions		18	995	26	
+菊		Chrysanthemum		11	996	26	
+奥		Core		12	997	26	
+数		Number		13	998	26	
+楼		Watchtower		13	999	26	
+類		Sort		18	1000	26	
+漆		Lacquer		14	1001	26	
+膝		Knee		13	1002	26	
+様		Esq.		14	1003	26	
+求		Request		7	1004	26	
+球		Ball		11	1005	26	
+救		Salvation		11	1006	26	
+竹		Bamboo		6	1007	26	
+笑		Laugh		10	1008	26	
+笠		Bamboo Hat		11	1009	26	
+笹		Bamboo Grass		11	1010	26	
+箋	䇳	Stationery		12	1011	26	
+筋		Muscle		12	1012	26	
+箱		Box		15	1013	26	
+筆		Writing Brush		12	1014	26	
+筒		Cylinder		12	1015	26	
+等		Etc.		12	1016	26	
+算		Calculate		14	1017	26	
+答		Solution		12	1018	26	
+策		Scheme		12	1019	26	
+簿		Register		19	1020	26	
+築		Fabricate		16	1021	26	
+篭	籠	Basket		16	1022	26	
+人		Person		2	1023	27	
+佐		Assistant		7	1024	27	
+侶		Partner		9	1025	27	
+但		However		7	1026	27	
+住		Dwell		7	1027	27	
+位		Rank		7	1028	27	
+仲		Go-Between		6	1029	27	
+体		Body		7	1030	27	
+悠		Remote		11	1031	27	
+件		Affair		6	1032	27	
+仕		Attend		5	1033	27	
+他		Other		5	1034	27	
+伏		Prostrated		6	1035	27	
+伝		Transmit		6	1036	27	
+仏		Buddha		4	1037	27	
+休		Rest		6	1038	27	
+仮		Provisional		6	1039	27	
+伎		Performing Artist		6	1040	27	
+伯		Chief		7	1041	27	
+俗		Vulgar		9	1042	27	
+信		Faith		9	1043	27	
+佳		Excellent		8	1044	27	
+依		Reliant		8	1045	27	
+例		Example		8	1046	27	
+個		Individual		10	1047	27	
+健		Healthy		11	1048	27	
+側		Side		11	1049	27	
+侍		Waiter		8	1050	27	
+停		Halt		11	1051	27	
+値		Price		10	1052	27	
+倣		Emulate		10	1053	27	
+傲		Arrogance		13	1054	27	
+倒		Overthrow		10	1055	27	
+偵		Spy		11	1056	27	
+僧		Buddhist Priest		13	1057	27	
+億		Hundred Million		15	1058	27	
+儀		Ceremony		15	1059	27	
+償		Reparation		17	1060	27	
+仙		Hermit		5	1061	27	
+催		Sponsor		13	1062	27	
+仁		Humanity		4	1063	27	
+侮		Scorn		8	1064	27	
+使		Use		8	1065	27	
+便		Convenience		9	1066	27	
+倍		Double		10	1067	27	
+優		Tenderness		17	1068	27	
+伐		Fell		6	1069	27	
+宿		Inn		11	1070	27	
+傷		Wound		13	1071	27	
+保		Protect		9	1072	27	
+褒		Praise		15	1073	27	
+傑		Greatness		13	1074	27	
+付		Adhere		5	1075	27	
+符		Token		11	1076	27	
+府		Municipality		8	1077	27	
+任		Responsibility		6	1078	27	
+賃		Fare		13	1079	27	
+代		Substitute		5	1080	27	
+袋		Sack		11	1081	27	
+貸		Lend		12	1082	27	
+化		Change		4	1083	27	
+花		Flower		7	1084	27	
+貨		Freight		11	1085	27	
+傾		Lean		13	1086	27	
+何		What		7	1087	27	
+荷		Baggage		10	1088	27	
+俊		Sagacious		9	1089	27	
+傍		Bystander		12	1090	27	
+俺		Myself		10	1091	27	
+久		Long Time		3	1092	27	
+畝		Furrow		10	1093	27	
+囚		Captured		5	1094	27	
+内		Inside		4	1095	27	
+丙		Third Class		5	1096	27	
+柄		Design		9	1097	27	
+肉		Meat		6	1098	27	
+腐		Rot		14	1099	27	
+座		Sit		10	1100	27	
+挫		Sprain		10	1101	27	
+卒		Graduate		8	1102	27	
+傘		Umbrella		12	1103	27	
+匁		Monme		4	1104	28	
+以		By Means Of		5	1105	28	
+似		Similar		7	1106	28	
+併		Join		8	1107	28	
+瓦		Tile		5	1108	28	
+瓶		Flower Pot		11	1109	28	
+宮		Shinto Shrine		10	1110	28	
+営		Occupation		12	1111	28	
+善		Virtuous		12	1112	28	
+膳		Dining Tray		16	1113	28	
+年		Year		6	1114	28	
+夜		Night		8	1115	28	
+液		Fluid		11	1116	28	
+塚		Hillock		12	1117	28	
+幣		Cash		15	1118	28	
+蔽		Cover Over		16	1119	28	
+弊		Abuse		15	1120	28	
+喚		Yell		12	1121	28	
+換		Interchange		12	1122	28	
+融		Dissolve		16	1123	28	
+施		Alms		9	1124	29	
+旋		Rotation		11	1125	29	
+遊		Play		12	1126	29	
+旅		Trip		10	1127	29	
+勿		Not		4	1128	29	
+物		Thing		8	1129	29	
+易		Easy		8	1130	29	
+賜		Grant		15	1131	29	
+尿		Urine		7	1132	29	
+尼		Nun		5	1133	29	
+尻		Buttocks		5	1134	29	
+泥		Mud		8	1135	29	
+塀		Fence		12	1136	29	
+履		Footgear		15	1137	29	
+屋		Roof		9	1138	29	
+握		Grip		12	1139	29	
+屈		Yield		8	1140	29	
+掘		Dig		11	1141	29	
+堀		Ditch		11	1142	29	
+居		Reside		8	1143	29	
+据		Set		11	1144	29	
+裾		Hem		14	1145	29	
+層		Stratum		14	1146	29	
+局		Bureau		7	1147	29	
+遅		Slow		12	1148	29	
+漏		Leak		14	1149	29	
+刷		Printing		8	1150	29	
+尺		Shaku		4	1151	29	
+尽		Exhaust		6	1152	29	
+沢		Swamp		7	1153	29	
+訳		Translate		11	1154	29	
+択		Choose		7	1155	29	
+昼		Daytime		9	1156	29	
+戸		Door		4	1157	29	
+肩		Shoulder		8	1158	29	
+房		Tassel		8	1159	29	
+扇		Fan		10	1160	29	
+炉		Hearth		8	1161	29	
+戻		Re-		7	1162	29	
+涙		Tears		10	1163	29	
+雇		Employ		12	1164	29	
+顧		Look Back		21	1165	29	
+啓		Disclose		11	1166	29	
+示		Show		5	1167	30	
+礼		Salutation		5	1168	30	
+祥		Auspicious		10	1169	30	
+祝		Celebrate		9	1170	30	
+福		Blessing		13	1171	30	
+祉		Welfare		8	1172	30	
+社		Company		7	1173	30	
+視		Inspection		11	1174	30	
+奈		Nara		8	1175	30	
+尉		Military Officer		11	1176	30	
+慰		Consolation		15	1177	30	
+款		Goodwill		12	1178	30	
+禁		Prohibition		13	1179	30	
+襟		Collar		18	1180	30	
+宗		Religion		8	1181	30	
+崇		Adore		11	1182	30	
+祭		Ritual		11	1183	30	
+察		Guess		14	1184	30	
+擦		Grate		17	1185	30	
+由		Wherefore		5	1186	30	
+抽		Pluck		8	1187	30	
+油		Oil		8	1188	30	
+袖		Sleeve		10	1189	30	
+宙		Mid-Air		8	1190	30	
+届		Deliver		8	1191	30	
+笛		Flute		11	1192	30	
+軸		Axis		12	1193	30	
+甲		Armor		5	1194	30	
+押		Push		8	1195	30	
+岬		Headland		8	1196	30	
+挿		Insert		10	1197	30	
+申		Speaketh		5	1198	30	
+伸		Expand		7	1199	30	
+神		Gods		9	1200	30	
+捜		Search		10	1201	30	
+果		Fruit		8	1202	30	
+菓		Confectionary		11	1203	30	
+課		Chapter		15	1204	30	
+裸		Naked		13	1205	30	
+斤		Ax		4	1206	31	
+析		Chop		8	1207	31	
+所		Place		8	1208	31	
+祈		Pray		8	1209	31	
+近		Near		7	1210	31	
+折		Fold		7	1211	31	
+哲		Philosophy		10	1212	31	
+逝		Departed		10	1213	31	
+誓		Vow		14	1214	31	
+斬		Chop Off		11	1215	31	
+暫		Temporarily		15	1216	31	
+漸		Steadily		14	1217	31	
+断		Severance		11	1218	31	
+質		Substance		15	1219	31	
+斥		Reject		5	1220	31	
+訴		Accusation		12	1221	31	
+昨		Yesterday		9	1222	31	
+詐		Lie		12	1223	31	
+作		Make		7	1224	31	
+雪		Snow		11	1225	31	
+録		Record		16	1226	31	
+剥	剝	Peel Off		10	1227	31	
+尋		Inquire		12	1228	31	
+急		Hurry		9	1229	31	
+穏		Calm		16	1230	31	
+侵		Encroach		9	1231	31	
+浸		Immersed		10	1232	31	
+寝		Lie Down		13	1233	31	
+婦		Lady		11	1234	31	
+掃		Sweep		11	1235	31	
+当		Hit		6	1236	31	
+彙		Glossary		13	1237	31	
+争		Contend		6	1238	31	
+浄		Clean		9	1239	31	
+事		Matter		8	1240	31	
+唐		T’Ang		10	1241	31	
+糖		Sugar		16	1242	31	
+康		Sane		11	1243	31	
+逮		Apprehend		11	1244	31	
+伊		Italy		6	1245	31	
+君		Old Boy		7	1246	31	
+群		Flock		13	1247	31	
+耐		"#Name?"		9	1248	31	
+需		Demand		14	1249	31	
+儒		Confucian		16	1250	31	
+端		Edge		14	1251	31	
+両		Both		6	1252	31	
+満		Full		12	1253	31	
+画		Brush-Stroke		8	1254	31	
+歯		Tooth		12	1255	31	
+曲		Bend		6	1256	31	
+曹		Cadet		11	1257	31	
+遭		Encounter		14	1258	31	
+漕		Rowing		14	1259	31	
+槽		Vat		15	1260	31	
+斗		Big Dipper		4	1261	31	
+料		Fee		10	1262	31	
+科		Department		9	1263	31	
+図		Map		7	1264	31	
+用		Utilize		5	1265	31	
+庸		Comfortable		11	1266	31	
+備		Equip		12	1267	31	
+昔		Once Upon A Time		8	1268	32	
+錯		Confused		16	1269	32	
+借		Borrow		10	1270	32	
+惜		Pity		11	1271	32	
+措		Set Aside		11	1272	32	
+散		Scatter		12	1273	32	
+廿		Twenty		4	1274	32	
+庶		Commoner		11	1275	32	
+遮		Intercept		14	1276	32	
+席		Seat		10	1277	32	
+度		Degrees		9	1278	32	
+渡		Transit		12	1279	32	
+奔		Bustle		8	1280	32	
+噴		Erupt		15	1281	32	
+墳		Tomb		15	1282	32	
+憤		Aroused		15	1283	32	
+焼		Bake		12	1284	32	
+暁		Daybreak		12	1285	32	
+半		Half		5	1286	32	
+伴		Consort		7	1287	32	
+畔		Paddy Ridge		10	1288	32	
+判		Judgment		7	1289	32	
+拳		Fist		10	1290	32	
+券		Ticket		8	1291	32	
+巻		Scroll		9	1292	32	
+圏		Sphere		12	1293	32	
+勝		Victory		12	1294	32	
+藤		Wisteria		18	1295	32	
+謄		Facsimile		17	1296	32	
+片		One-Sided		4	1297	32	
+版		Printing Block		8	1298	32	
+之		Of		3	1299	32	
+乏		Destitution		4	1300	32	
+芝		Turf		6	1301	32	
+不		Negative		4	1302	32	
+否		Negate		7	1303	32	
+杯		Cupfuls		8	1304	32	
+矢		Dart		5	1305	33	
+矯		Rectify		17	1306	33	
+族		Tribe		11	1307	33	
+知		Know		8	1308	33	
+智		Wisdom		12	1309	33	
+挨		Shove		10	1310	33	
+矛		Halberd		5	1311	33	
+柔		Tender		9	1312	33	
+務		Task		11	1313	33	
+霧		Fog		19	1314	33	
+班		Squad		10	1315	33	
+帰		Homecoming		10	1316	33	
+弓		Bow		3	1317	33	
+引		Pull		4	1318	33	
+弔		Condolences		4	1319	33	
+弘		Vast		5	1320	33	
+強		Strong		11	1321	33	
+弥		More And More		8	1322	33	
+弱		Weak		10	1323	33	
+溺		Drowning		13	1324	33	
+沸		Seethe		8	1325	33	
+費		Expense		12	1326	33	
+第		No.		11	1327	33	
+弟		Younger Brother		7	1328	33	
+巧		Adroit		5	1329	33	
+号		Nickname		5	1330	33	
+朽		Decay		6	1331	33	
+誇		Boast		13	1332	33	
+顎		Chin		18	1333	33	
+汚		Dirty		6	1334	33	
+与		Bestow		3	1335	33	
+写		Copy		5	1336	33	
+身		Somebody		7	1337	34	
+射		Shoot		10	1338	34	
+謝		Apologize		17	1339	34	
+老		Old Man		6	1340	34	
+考		Consider		6	1341	34	
+孝		Filial Piety		7	1342	34	
+教		Teach		11	1343	34	
+拷		Torture		9	1344	34	
+者		Someone		8	1345	34	
+煮		Boil		12	1346	34	
+著		Renowned		11	1347	34	
+箸		Chopsticks		15	1348	34	
+署		Signature		13	1349	34	
+暑		Sultry		12	1350	34	
+諸		Various		15	1351	34	
+猪		Boar		11	1352	34	
+渚		Strand		11	1353	34	
+賭		Gamble		15	1354	34	
+峡		Gorge		9	1355	34	
+狭		Cramped		9	1356	34	
+挟		Sandwiched		9	1357	34	
+頬	頰	Cheek		15	1358	34	
+追		Chase		9	1359	34	
+阜		Large Hill		8	1360	34	
+師		Expert		10	1361	34	
+帥		Commander		9	1362	34	
+官		Bureaucrat		8	1363	34	
+棺		Coffin		12	1364	34	
+管		Pipe		14	1365	34	
+父		Father		4	1366	34	
+釜		Cauldron		10	1367	34	
+交		Mingle		6	1368	34	
+効		Merit		8	1369	34	
+較		Contrast		13	1370	34	
+校		Exam		10	1371	34	
+足		Leg		7	1372	34	
+促		Stimulate		9	1373	34	
+捉		Nab		10	1374	34	
+距		Long-Distance		12	1375	34	
+路		Path		13	1376	34	
+露		Dew		21	1377	34	
+跳		Hop		13	1378	34	
+躍		Leap		21	1379	34	
+践		Tread		13	1380	34	
+踏		Step		15	1381	34	
+踪		Trail		13	1382	34	
+骨		Skeleton		10	1383	34	
+滑		Slippery		13	1384	34	
+髄		Marrow		19	1385	34	
+禍		Calamity		13	1386	34	
+渦		Whirlpool		12	1387	34	
+鍋		Pot		17	1388	34	
+過		Overdo		12	1389	34	
+阪		Heights		7	1390	35	
+阿		Africa		8	1391	35	
+際		Occasion		14	1392	35	
+障		Hinder		14	1393	35	
+隙		Chink		13	1394	35	
+随		Follow		12	1395	35	
+陪		Auxiliary		11	1396	35	
+陽		Sunshine		12	1397	35	
+陳		Line Up		11	1398	35	
+防		Ward Off		7	1399	35	
+附		Affixed		8	1400	35	
+院		Inst.		10	1401	35	
+陣		Camp		10	1402	35	
+隊		Regiment		12	1403	35	
+墜		Crash		15	1404	35	
+降		Descend		10	1405	35	
+階		Story		12	1406	35	
+陛		Highness		10	1407	35	
+隣		Neighboring		16	1408	35	
+隔		Isolate		13	1409	35	
+隠		Conceal		14	1410	35	
+堕		Degenerate		12	1411	35	
+陥		Collapse		10	1412	35	
+穴		Hole		5	1413	35	
+空		Empty		8	1414	35	
+控		Withdraw		11	1415	35	
+突		Stab		8	1416	35	
+究		Research		7	1417	35	
+窒		Plug Up		11	1418	35	
+窃		Stealth		9	1419	35	
+窟		Cavern		13	1420	35	
+窪		Depression		14	1421	35	
+搾		Squeeze		13	1422	35	
+窯		Kiln		15	1423	35	
+窮		Hard Up		15	1424	35	
+探		Grope		11	1425	35	
+深		Deep		11	1426	35	
+丘		Hill		5	1427	35	
+岳		Point		8	1428	35	
+兵		Soldier		7	1429	35	
+浜		Seacoast		10	1430	35	
+糸		Thread		6	1431	36	
+織		Weave		18	1432	36	
+繕		Darning		18	1433	36	
+縮		Shrink		17	1434	36	
+繁		Luxuriant		16	1435	36	
+縦		Vertical		16	1436	36	
+緻		Fine		16	1437	36	
+線		Line		15	1438	36	
+綻		Come Apart At The Seams		14	1439	36	
+締		Tighten		15	1440	36	
+維		Fiber		14	1441	36	
+羅		Gauze		19	1442	36	
+練		Practice		14	1443	36	
+緒		Thong		14	1444	36	
+続		Continue		13	1445	36	
+絵		Picture		12	1446	36	
+統		Overall		12	1447	36	
+絞		Strangle		12	1448	36	
+給		Salary		12	1449	36	
+絡		Entwine		12	1450	36	
+結		Tie		12	1451	36	
+終		End		11	1452	36	
+級		Class		9	1453	36	
+紀		Chronicle		9	1454	36	
+紅		Crimson		9	1455	36	
+納		Settlement		10	1456	36	
+紡		Spinning		10	1457	36	
+紛		Distract		10	1458	36	
+紹		Introduce		11	1459	36	
+経		Sūtra		11	1460	36	
+紳		Sire		11	1461	36	
+約		Promise		9	1462	36	
+細		Dainty		11	1463	36	
+累		Accumulate		11	1464	36	
+索		Cord		10	1465	36	
+総		General		14	1466	36	
+綿		Cotton		14	1467	36	
+絹		Silk		13	1468	36	
+繰		Winding		19	1469	36	
+継		Inherit		13	1470	36	
+緑		Green		14	1471	36	
+縁		Affinity		15	1472	36	
+網		Netting		14	1473	36	
+緊		Tense		15	1474	36	
+紫		Purple		12	1475	36	
+縛		Truss		16	1476	36	
+縄		Straw Rope		15	1477	36	
+幼		Infancy		5	1478	36	
+後		Behind		9	1479	36	
+幽		Faint		9	1480	36	
+幾		How Many		12	1481	36	
+機		Mechanism		16	1482	36	
+畿		Capital Suburbs		15	1483	36	
+玄		Mysterious		5	1484	36	
+畜		Livestock		10	1485	36	
+蓄		Amass		13	1486	36	
+弦		Bowstring		8	1487	36	
+擁		Hug		16	1488	36	
+滋		Nourishing		12	1489	36	
+慈		Mercy		13	1490	36	
+磁		Magnet		14	1491	36	
+系		Lineage		7	1492	36	
+係		Person In Charge		9	1493	36	
+孫		Grandchild		10	1494	36	
+懸		Suspend		20	1495	36	
+遜		Modest		13	1496	36	
+却		Instead		7	1497	37	
+脚		Shins		11	1498	37	
+卸		Wholesale		9	1499	37	
+御		Honorable		12	1500	37	
+服		Clothing		8	1501	37	
+命		Fate		8	1502	37	
+令		Orders		5	1503	37	
+零		Zero		13	1504	37	
+齢		Age		17	1505	37	
+冷		Cool		7	1506	37	
+領		Jurisdiction		14	1507	37	
+鈴		Small Bell		13	1508	37	
+勇		Courage		9	1509	37	
+湧		Bubble Up		12	1510	37	
+通		Traffic		10	1511	37	
+踊		Jump		14	1512	37	
+疑		Doubt		14	1513	37	
+擬		Mimic		17	1514	37	
+凝		Congeal		16	1515	37	
+範		Pattern		15	1516	37	
+犯		Crime		5	1517	37	
+氾		Widespread		5	1518	37	
+厄		Unlucky		4	1519	37	
+危		Dangerous		6	1520	37	
+宛		Address		8	1521	37	
+腕		Arm		12	1522	37	
+苑		Garden		8	1523	37	
+怨		Grudge		9	1524	37	
+柳		Willow		9	1525	37	
+卵		Egg		7	1526	37	
+留		Detain		10	1527	37	
+瑠		Marine Blue		14	1528	37	
+貿		Trade		12	1529	37	
+印		Stamp		6	1530	37	
+臼		Mortar		6	1531	37	
+毀		Break		13	1532	37	
+興		Entertain		16	1533	37	
+酉		Sign of The Bird		7	1534	38	
+酒		Saké		10	1535	38	
+酌		Bartending		10	1536	38	
+酎		Hooch		10	1537	38	
+酵		Fermentation		14	1538	38	
+酷		Cruel		14	1539	38	
+酬		Repay		13	1540	38	
+酪		Dairy Products		13	1541	38	
+酢		Vinegar		12	1542	38	
+酔		Drunk		11	1543	38	
+配		Distribute		10	1544	38	
+酸		Acid		14	1545	38	
+猶		Waver		12	1546	38	
+尊		Revered		12	1547	38	
+豆		Beans		7	1548	38	
+頭		Head		16	1549	38	
+短		Short		12	1550	38	
+豊		Bountiful		13	1551	38	
+鼓		Drum		13	1552	38	
+喜		Rejoice		12	1553	38	
+樹		Timber-Trees		16	1554	38	
+皿		Dish		5	1555	38	
+血		Blood		6	1556	38	
+盆		Basin		9	1557	38	
+盟		Alliance		13	1558	38	
+盗		Steal		11	1559	38	
+温		Warm		12	1560	38	
+蓋		Lid		14	1561	38	
+監		Oversee		15	1562	38	
+濫		Overflow		18	1563	38	
+鑑		Specimen		23	1564	38	
+藍		Indigo		18	1565	38	
+猛		Fierce		11	1566	38	
+盛		Boom		11	1567	38	
+塩		Salt		13	1568	38	
+銀		Silver		14	1569	38	
+恨		Resentment		9	1570	38	
+根		Root		10	1571	38	
+即		Instant		7	1572	38	
+爵		Baron		17	1573	38	
+節		Node		13	1574	38	
+退		Retreat		9	1575	38	
+限		Limit		9	1576	38	
+眼		Eyeball		11	1577	38	
+良		Good		7	1578	38	
+朗		Melodious		10	1579	38	
+浪		Wandering		10	1580	38	
+娘		Daughter		10	1581	38	
+食		Eat		9	1582	38	
+飯		Meal		12	1583	38	
+飲		Drink		12	1584	38	
+飢		Hungry		10	1585	38	
+餓		Starve		15	1586	38	
+飾		Decorate		13	1587	38	
+餌		Feed		14	1588	38	
+館		Bldg.		16	1589	38	
+餅		Mochi		14	1590	38	
+養		Foster		15	1591	38	
+飽		Sated		13	1592	38	
+既		Previously		10	1593	38	
+概		Outline		14	1594	38	
+慨		Rue		13	1595	38	
+平		Even		5	1596	39	
+呼		Call		8	1597	39	
+坪		Two-Mat Area		8	1598	39	
+評		Evaluate		12	1599	39	
+刈		Reap		4	1600	39	
+刹		Moment		8	1601	39	
+希		Hope		7	1602	39	
+凶		Villain		4	1603	39	
+胸		Bosom		10	1604	39	
+離		Detach		18	1605	39	
+璃		Crystal		14	1606	39	
+殺		Kill		10	1607	39	
+爽		Bracing		11	1608	39	
+純		Genuine		10	1609	39	
+頓		Immediate		13	1610	39	
+鈍		Dull		12	1611	39	
+辛		Spicy		7	1612	39	
+辞		Resign		13	1613	39	
+梓		Catalpa		11	1614	39	
+宰		Superintend		10	1615	39	
+壁		Wall		16	1616	39	
+璧		Holed Gem		18	1617	39	
+避		Evade		16	1618	39	
+新		New		13	1619	39	
+薪		Firewood		16	1620	39	
+親		Parent		16	1621	39	
+幸		Happiness		8	1622	39	
+執		Tenacious		11	1623	39	
+摯		Clasp		15	1624	39	
+報		Report		12	1625	39	
+叫		Shout		6	1626	39	
+糾		Twist		9	1627	39	
+収		Income		4	1628	39	
+卑		Lowly		9	1629	39	
+碑		Tombstone		14	1630	39	
+陸		Land		11	1631	39	
+睦		Intimate		13	1632	39	
+勢		Forces		13	1633	39	
+熱		Heat		15	1634	39	
+菱		Diamond		11	1635	39	
+陵		Mausoleum		11	1636	39	
+亥		Sign of The Hog		6	1637	39	
+核		Nucleus		10	1638	39	
+刻		Engrave		8	1639	39	
+該		Above-Stated		13	1640	39	
+骸		Remains		16	1641	39	
+劾		Censure		8	1642	39	
+述		Mention		8	1643	39	
+術		Art		11	1644	39	
+寒		Cold		12	1645	39	
+塞		Block Up		13	1646	39	
+醸		Brew		20	1647	39	
+譲		Defer		20	1648	39	
+壌		Lot		16	1649	39	
+嬢		Lass		16	1650	39	
+毒		Poison		8	1651	40	
+素		Elementary		10	1652	40	
+麦		Barley		7	1653	40	
+青		Blue		8	1654	40	
+精		Refined		14	1655	40	
+請		Solicit		15	1656	40	
+情		Feelings		11	1657	40	
+晴		Clear Up		12	1658	40	
+清		Pure		11	1659	40	
+静		Quiet		14	1660	40	
+責		Blame		11	1661	40	
+績		Exploits		17	1662	40	
+積		Volume		16	1663	40	
+債		Bond		13	1664	40	
+漬		Pickling		14	1665	40	
+表		Surface		8	1666	40	
+俵		Bag		10	1667	40	
+潔		Undefiled		15	1668	40	
+契		Pledge		9	1669	40	
+喫		Consume		12	1670	40	
+害		Harm		10	1671	40	
+轄		Control		17	1672	40	
+割		Proportion		12	1673	40	
+憲		Constitution		16	1674	40	
+生		Life		5	1675	40	
+星		Star		9	1676	40	
+醒		Awakening		16	1677	40	
+姓		Surname		8	1678	40	
+性		Sex		8	1679	40	
+牲		Animal Sacrifice		9	1680	40	
+産		Products		11	1681	40	
+隆		Hump		11	1682	40	
+峰		Summit		10	1683	40	
+蜂		Bee		13	1684	40	
+縫		Sew		16	1685	40	
+拝		Worship		8	1686	40	
+寿		Longevity		7	1687	40	
+鋳		Casting		15	1688	40	
+籍		Enroll		20	1689	40	
+春		Springtime		9	1690	40	
+椿		Camellia		13	1691	40	
+泰		Peaceful		10	1692	40	
+奏		Play Music		9	1693	40	
+実		Reality		8	1694	40	
+奉		Dedicate		8	1695	40	
+俸		Stipend		10	1696	40	
+棒		Rod		12	1697	40	
+謹		Discreet		17	1698	40	
+僅		Trifle		12	1699	40	
+勤		Diligence		12	1700	40	
+漢		Sino-		13	1701	40	
+嘆		Sigh		13	1702	40	
+難		Difficult		18	1703	40	
+華		Splendor		10	1704	40	
+垂		Droop		8	1705	40	
+唾		Saliva		11	1706	40	
+睡		Drowsy		13	1707	40	
+錘		Spindle		16	1708	40	
+乗		Ride		9	1709	40	
+剰		Surplus		11	1710	40	
+今		Now		4	1711	41	
+含		Include		7	1712	41	
+貪		Covet		11	1713	41	
+吟		Versify		7	1714	41	
+念		Wish		8	1715	41	
+捻		Wrench		11	1716	41	
+琴		Harp		12	1717	41	
+陰		Shade		11	1718	41	
+予		Beforehand		4	1719	41	
+序		Preface		7	1720	41	
+預		Deposit		13	1721	41	
+野		Plains		11	1722	41	
+兼		Concurrently		10	1723	41	
+嫌		Dislike		13	1724	41	
+鎌		Sickle		18	1725	41	
+謙		Self-Effacing		17	1726	41	
+廉		Bargain		13	1727	41	
+西		West		6	1728	41	
+価		Value		8	1729	41	
+要		Need		9	1730	41	
+腰		Loins		13	1731	41	
+票		Ballot		11	1732	41	
+漂		Drift		14	1733	41	
+標		Signpost		15	1734	41	
+栗		Chestnut		10	1735	41	
+慄		Shudder		13	1736	41	
+遷		Transition		15	1737	41	
+覆		Capsize		18	1738	41	
+煙		Smoke		13	1739	41	
+南		South		9	1740	41	
+楠		Camphor Tree		13	1741	41	
+献		Offering		13	1742	41	
+門		Gates		8	1743	42	
+問		Question		11	1744	42	
+閲		Review		15	1745	42	
+閥		Clique		14	1746	42	
+間		Interval		12	1747	42	
+闇		Pitch Dark		17	1748	42	
+簡		Simplicity		18	1749	42	
+開		Open		12	1750	42	
+閉		Closed		11	1751	42	
+閣		Tower		14	1752	42	
+閑		Leisure		12	1753	42	
+聞		Hear		14	1754	42	
+潤		Wet		15	1755	42	
+欄		Column		20	1756	42	
+闘		Fight		18	1757	42	
+倉		Godown		10	1758	42	
+創		Genesis		12	1759	42	
+非		Un-		8	1760	42	
+俳		Haiku		10	1761	42	
+排		Repudiate		11	1762	42	
+悲		Sad		12	1763	42	
+罪		Guilt		13	1764	42	
+輩		Comrade		15	1765	42	
+扉		Front Door		12	1766	42	
+侯		Marquis		9	1767	42	
+喉		Throat		12	1768	42	
+候		Climate		10	1769	42	
+決		Decide		7	1770	42	
+快		Cheerful		7	1771	42	
+偉		Admirable		12	1772	42	
+違		Difference		13	1773	42	
+緯		Horizontal		16	1774	42	
+衛		Defense		16	1775	42	
+韓		Korea		18	1776	42	
+干		Dry		3	1777	43	
+肝		Liver		7	1778	43	
+刊		Publish		5	1779	43	
+汗		Sweat		6	1780	43	
+軒		Flats		10	1781	43	
+岸		Beach		8	1782	43	
+幹		Tree Trunk		13	1783	43	
+芋		Potato		6	1784	43	
+宇		Eaves		6	1785	43	
+余		Too Much		7	1786	43	
+除		Exclude		10	1787	43	
+徐		Gradually		10	1788	43	
+叙		Confer		9	1789	43	
+途		Route		10	1790	43	
+斜		Diagonal		11	1791	43	
+塗		Paint		13	1792	43	
+束		Bundle		7	1793	43	
+頼		Trust		16	1794	43	
+瀬		Rapids		19	1795	43	
+勅		Imperial Order		9	1796	43	
+疎		Alienate		12	1797	43	
+辣		Bitter		14	1798	43	
+速		Quick		10	1799	43	
+整		Organize		16	1800	43	
+剣		Saber		10	1801	43	
+険		Precipitous		11	1802	43	
+検		Examination		12	1803	43	
+倹		Frugal		10	1804	43	
+重		Heavy		9	1805	43	
+動		Move		11	1806	43	
+腫		Tumor		13	1807	43	
+勲		Meritorious Deed		15	1808	43	
+働		Work		13	1809	43	
+種		Species		14	1810	43	
+衝		Collide		15	1811	43	
+薫		Fragrant		16	1812	43	
+病		Ill		10	1813	44	
+痴		Stupid		13	1814	44	
+痘		Pox		12	1815	44	
+症		Symptoms		10	1816	44	
+瘍		Carbuncle		14	1817	44	
+痩		Lose Weight		15	1818	44	
+疾		Rapidly		10	1819	44	
+嫉		Envy		13	1820	44	
+痢		Diarrhea		12	1821	44	
+痕		Scar		11	1822	44	
+疲		Tired		10	1823	44	
+疫		Epidemic		9	1824	44	
+痛		Pain		12	1825	44	
+癖		Mannerism		18	1826	44	
+匿		Hide		10	1827	44	
+匠		Artisan		6	1828	44	
+医		Doctor		7	1829	44	
+匹		Equal		4	1830	44	
+区		Ward		4	1831	44	
+枢		Hinge		8	1832	44	
+殴		Assault		8	1833	44	
+欧		Europe		8	1834	44	
+抑		Repress		7	1835	44	
+仰		Faceup		6	1836	44	
+迎		Welcome		7	1837	44	
+登		Ascend		12	1838	44	
+澄		Lucidity		15	1839	44	
+発		Discharge		9	1840	44	
+廃		Abolish		12	1841	44	
+僚		Colleague		14	1842	44	
+瞭		Obvious		17	1843	44	
+寮		Dormitory		15	1844	44	
+療		Heal		17	1845	44	
+彫		Carve		11	1846	45	
+形		Shape		7	1847	45	
+影		Shadow		15	1848	45	
+杉		Cedar		7	1849	45	
+彩		Coloring		11	1850	45	
+彰		Patent		14	1851	45	
+彦		Lad		9	1852	45	
+顔		Face		18	1853	45	
+須		Ought		12	1854	45	
+膨		Swell		16	1855	45	
+参		Visit		8	1856	45	
+惨		Wretched		11	1857	45	
+修		Discipline		10	1858	45	
+珍		Rare		9	1859	45	
+診		Checkup		12	1860	45	
+文		Sentence		4	1861	45	
+対		Vis-À-Vis		7	1862	45	
+紋		Family Crest		10	1863	45	
+蚊		Mosquito		10	1864	45	
+斑		Speckled		12	1865	45	
+斉		Adjusted		8	1866	45	
+剤		Dose		10	1867	45	
+済		Finish		11	1868	45	
+斎		Purification		11	1869	45	
+粛		Solemn		11	1870	45	
+塁		Bases		12	1871	45	
+楽		Music		13	1872	45	
+薬		Medicine		16	1873	45	
+率		Ratio		11	1874	45	
+渋		Astringent		11	1875	45	
+摂		Vicarious		13	1876	45	
+央		Center		5	1877	45	
+英		England		8	1878	45	
+映		Reflect		9	1879	45	
+赤		Red		7	1880	45	
+赦		Pardon		11	1881	45	
+変		Unusual		9	1882	45	
+跡		Tracks		13	1883	45	
+蛮		Barbarian		12	1884	45	
+恋		Romance		10	1885	45	
+湾		Gulf		12	1886	45	
+黄		Yellow		11	1887	45	
+横		Sideways		15	1888	45	
+把		Grasp		7	1889	45	
+色		Color		6	1890	45	
+絶		Discontinue		12	1891	45	
+艶		Glossy		19	1892	45	
+肥		Fertilizer		8	1893	45	
+甘		Sweet		5	1894	46	
+紺		Navy Blue		11	1895	46	
+某		So-And-So		9	1896	46	
+謀		Conspire		16	1897	46	
+媒		Mediator		12	1898	46	
+欺		Deceit		12	1899	46	
+棋		Chess Piece		12	1900	46	
+旗		National Flag		14	1901	46	
+期		Period		12	1902	46	
+碁		Go		13	1903	46	
+基		Fundamentals		11	1904	46	
+甚		Tremendously		9	1905	46	
+勘		Intuition		11	1906	46	
+堪		Withstand		12	1907	46	
+貴		Precious		12	1908	46	
+遺		Bequeath		15	1909	46	
+遣		Dispatch		13	1910	46	
+潰		Defile		15	1911	46	
+舞		Dance		15	1912	46	
+無		Nothingness		12	1913	46	
+組		Association		11	1914	47	
+粗		Coarse		11	1915	47	
+租		Tariff		10	1916	47	
+狙		Aim At		8	1917	47	
+祖		Ancestor		9	1918	47	
+阻		Thwart		8	1919	47	
+査		Investigate		9	1920	47	
+助		Help		7	1921	47	
+宜		Best Regards		8	1922	47	
+畳		Tatami Mat		12	1923	47	
+並		Row		8	1924	47	
+普		Universal		12	1925	47	
+譜		Musical Score		19	1926	47	
+湿		Damp		12	1927	47	
+顕		Appear		18	1928	47	
+繊		Slender		17	1929	47	
+霊		Spirits		15	1930	47	
+業		Profession		13	1931	47	
+撲		Slap		15	1932	47	
+僕		Me		14	1933	47	
+共		Together		6	1934	47	
+供		Submit		8	1935	47	
+異		Uncommon		11	1936	47	
+翼		Wing		17	1937	47	
+戴		Accept Humbly		17	1938	47	
+洪		Deluge		9	1939	47	
+港		Harbor		12	1940	47	
+暴		Outburst		15	1941	47	
+爆		Bomb		19	1942	47	
+恭		Respect		10	1943	47	
+選		Elect		15	1944	47	
+殿		Mr.		13	1945	47	
+井		Well		4	1946	48	
+丼		Donburi		5	1947	48	
+囲		Surround		7	1948	48	
+耕		Till		10	1949	48	
+亜		Asia		7	1950	48	
+悪		Bad		11	1951	48	
+円		Circle		4	1952	48	
+角		Angle		7	1953	48	
+触		Contact		13	1954	48	
+解		Unravel		13	1955	48	
+再		Again		6	1956	48	
+講		Lecture		17	1957	48	
+購		Subscription		17	1958	48	
+構		Posture		14	1959	48	
+溝		Gutter		13	1960	48	
+論		Argument		15	1961	48	
+倫		Ethics		10	1962	48	
+輪		Wheel		15	1963	48	
+偏		Partial		11	1964	48	
+遍		Everywhere		12	1965	48	
+編		Compilation		15	1966	48	
+冊		Tome		5	1967	48	
+柵		Palisade		9	1968	48	
+典		Code		8	1969	48	
+氏		Family Name		4	1970	49	
+紙		Paper		10	1971	49	
+婚		Marriage		11	1972	49	
+低		Lower		7	1973	49	
+抵		Resist		8	1974	49	
+底		Bottom		8	1975	49	
+民		People		5	1976	49	
+眠		Sleep		10	1977	49	
+捕		Catch		10	1978	49	
+哺		Suckle		10	1979	49	
+浦		Bay		10	1980	49	
+蒲		Bullrush		13	1981	49	
+舗		Shop		15	1982	49	
+補		Supplement		12	1983	49	
+邸		Residence		8	1984	49	
+郭		Enclosure		11	1985	49	
+郡		County		10	1986	49	
+郊		Outskirts		9	1987	49	
+部		Section		11	1988	49	
+都		Metropolis		11	1989	49	
+郵		Mail		11	1990	49	
+邦		Home Country		7	1991	49	
+那		Interrogative		6	1992	49	
+郷		Hometown		11	1993	49	
+響		Echo		20	1994	49	
+郎		Son		9	1995	49	
+廊		Corridor		12	1996	49	
+盾		Shield		9	1997	50	
+循		Sequential		12	1998	50	
+派		Faction		9	1999	50	
+脈		Vein		10	2000	50	
+衆		Masses		12	2001	50	
+逓		Parcel Post		10	2002	50	
+段		Grade		9	2003	50	
+鍛		Forge		17	2004	50	
+后		Empress		6	2005	50	
+幻		Phantasm		4	2006	50	
+司		Director		5	2007	50	
+伺		Pay Respects		7	2008	50	
+詞		Parts of Speech		12	2009	50	
+飼		Domesticate		13	2010	50	
+嗣		Heir		13	2011	50	
+舟		Boat		6	2012	50	
+舶		Liner		11	2013	50	
+航		Navigate		10	2014	50	
+舷		Gunwale		11	2015	50	
+般		Carrier		10	2016	50	
+盤		Tray		15	2017	50	
+搬		Conveyor		13	2018	50	
+船		Ship		11	2019	50	
+艦		Warship		21	2020	50	
+艇		Rowboat		13	2021	50	
+瓜		Melon		6	2022	50	
+弧		Arc		9	2023	50	
+孤		Orphan		9	2024	50	
+繭		Cocoon		18	2025	51	
+益		Benefit		10	2026	51	
+暇		Spare Time		13	2027	51	
+敷		Spread		15	2028	51	
+来		Come		7	2029	51	
+気		Spirit		6	2030	51	
+汽		Vapor		7	2031	51	
+飛		Fly		9	2032	51	
+沈		Sink		7	2033	51	
+枕		Pillow		8	2034	51	
+妻		Wife		8	2035	51	
+凄		Nifty		10	2036	51	
+衰		Decline		10	2037	51	
+衷		Inmost		9	2038	51	
+面		Mask		9	2039	51	
+麺		Noodles		16	2040	51	
+革		Leather		9	2041	51	
+靴		Shoes		13	2042	51	
+覇		Hegemony		19	2043	51	
+声		Voice		7	2044	51	
+眉		Eyebrow		9	2045	51	
+呉		Give		7	2046	51	
+娯		Recreation		10	2047	51	
+誤		Mistake		14	2048	51	
+蒸		Steam		13	2049	51	
+承		Acquiesce		8	2050	51	
+函		Bin		8	2051	51	
+極		Poles		12	2052	51	
+牙		Tusk		4	2053	52	
+芽		Bud		8	2054	52	
+邪		Wicked		8	2055	52	
+雅		Gracious		13	2056	52	
+釈		Interpretation		12	2057	52	
+番		Turn		12	2058	52	
+審		Hearing		15	2059	52	
+翻		Flip		18	2060	52	
+藩		Clan		18	2061	52	
+毛		Fur		4	2062	52	
+耗		Decrease		10	2063	52	
+尾		Tail		7	2064	52	
+宅		Home		6	2065	52	
+託		Consign		10	2066	52	
+為		Do		9	2067	52	
+偽		Falsehood		11	2068	52	
+畏		Apprehensive		9	2069	52	
+長		Long		8	2070	52	
+張		Lengthen		11	2071	52	
+帳		Notebook		11	2072	52	
+脹		Dilate		12	2073	52	
+髪		Hair of The Head		14	2074	52	
+展		Unfold		10	2075	52	
+喪		Miss		12	2076	52	
+巣		Nest		11	2077	53	
+単		Simple		9	2078	53	
+戦		War		13	2079	53	
+禅		Zen		13	2080	53	
+弾		Bullet		12	2081	53	
+桜		Cherry Tree		10	2082	53	
+獣		Animal		16	2083	53	
+脳		Brain		11	2084	53	
+悩		Trouble		10	2085	53	
+厳		Stern		17	2086	53	
+鎖		Chain		18	2087	53	
+挙		Raise		10	2088	53	
+誉		Reputation		13	2089	53	
+猟		Game Hunting		11	2090	53	
+鳥		Bird		11	2091	53	
+鳴		Chirp		14	2092	53	
+鶴		Crane		21	2093	53	
+烏		Crow		10	2094	53	
+蔦		Vine		14	2095	53	
+鳩		Pigeon		13	2096	53	
+鶏		Chicken		19	2097	53	
+島		Island		10	2098	53	
+暖		Warmth		13	2099	53	
+媛		Beautiful Woman		12	2100	53	
+援		Abet		12	2101	53	
+緩		Slacken		15	2102	53	
+属		Belong		12	2103	53	
+嘱		Entrust		15	2104	53	
+偶		Accidentally		11	2105	53	
+遇		Interview		12	2106	53	
+愚		Foolish		13	2107	53	
+隅		Corner		12	2108	53	
+逆		Inverted		9	2109	53	
+塑		Model		13	2110	53	
+遡		Go Upstream		14	2111	53	
+岡		Mount		8	2112	53	
+鋼		Steel		16	2113	53	
+綱		Hawser		14	2114	53	
+剛		Sturdy		10	2115	53	
+缶		Tin Can		6	2116	53	
+陶		Pottery		11	2117	53	
+揺		Swing		12	2118	53	
+謡		Noh Chanting		16	2119	53	
+鬱		Gloom		29	2120	53	
+就		Concerning		12	2121	53	
+蹴		Kick		19	2122	53	
+懇		Sociable		17	2123	53	
+墾		Groundbreaking		16	2124	53	
+貌		Countenance		14	2125	53	
+免		Excuse		8	2126	53	
+逸		Elude		11	2127	53	
+晩		Nightfall		12	2128	53	
+勉		Exertion		10	2129	53	
+象		Elephant		12	2130	53	
+像		Statue		14	2131	53	
+馬		Horse		10	2132	54	
+駒		Pony		15	2133	54	
+験		Verification		18	2134	54	
+騎		Equestrian		18	2135	54	
+駐		Parking		15	2136	54	
+駆		Drive		14	2137	54	
+駅		Station		14	2138	54	
+騒		Boisterous		18	2139	54	
+駄		Burdensome		14	2140	54	
+驚		Wonder		22	2141	54	
+篤		Fervent		16	2142	54	
+罵		Insult		15	2143	54	
+騰		Inflation		20	2144	54	
+虎		Tiger		8	2145	54	
+虜		Captive		13	2146	54	
+膚		Skin		15	2147	54	
+虚		Void		11	2148	54	
+戯		Frolic		15	2149	54	
+虞		Uneasiness		13	2150	54	
+慮		Prudence		15	2151	54	
+劇		Drama		15	2152	54	
+虐		Tyrannize		9	2153	54	
+鹿		Deer		11	2154	54	
+麓		Foot of A Mountain		19	2155	54	
+薦		Recommend		16	2156	54	
+慶		Jubilation		15	2157	54	
+麗		Lovely		19	2158	54	
+熊		Bear		14	2159	54	
+能		Ability		10	2160	54	
+態		Attitude		14	2161	54	
+寅		Sign of The Tiger		11	2162	55	
+演		Performance		14	2163	55	
+辰		Sign of The Dragon		7	2164	55	
+辱		Embarrass		10	2165	55	
+震		Quake		15	2166	55	
+振		Shake		10	2167	55	
+娠		With Child		10	2168	55	
+唇		Lips		10	2169	55	
+農		Agriculture		13	2170	55	
+濃		Concentrated		16	2171	55	
+送		Send Off		9	2172	55	
+関		Connection		14	2173	55	
+咲		Blossom		9	2174	55	
+鬼		Ghost		10	2175	55	
+醜		Ugly		17	2176	55	
+魂		Soul		14	2177	55	
+魔		Witch		21	2178	55	
+魅		Fascination		15	2179	55	
+塊		Clod		13	2180	55	
+襲		Attack		22	2181	55	
+嚇		Upbraid		17	2182	56	
+朕		Majestic Plural		10	2183	56	
+雰		Atmosphere		12	2184	56	
+箇		Item		14	2185	56	
+錬		Tempering		16	2186	56	
+遵		Abide By		15	2187	56	
+罷		Quit		15	2188	56	
+屯		Barracks		4	2189	56	
+且		Moreover		5	2190	56	
+藻		Seaweed		19	2191	56	
+隷		Slave		16	2192	56	
+癒		Healing		18	2193	56	
+璽		Imperial Seal		19	2194	56	
+潟		Lagoon		15	2195	56	
+丹		Cinnabar		4	2196	56	
+丑		Sign of The Cow		5	2197	56	
+羞		Humiliate		11	2198	56	
+卯		Sign of The Hare		5	2199	56	
+巳		Sign of The Snake		3	2200	56	
+犭	El radical <strong>犭</strong> es la forma “abreviada” o variante lateral del kanji <strong>犬</strong> (“perro”).						
+釘	Nail  Clavo						
+复	Volver repetir 						

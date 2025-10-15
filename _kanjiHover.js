@@ -34,17 +34,43 @@ function findKanji() {
 }
 
 async function getKanjiData() {
-  kanji = [...kanji]
+  const primaryUrlBase = "https://raw.githubusercontent.com/robincajas12/kanji-api/refs/heads/main/kanjis/";
+  const fallbackUrlBase = "https://kanjiapi.dev/v1/kanji/";
+
+  kanji = [...kanji]; // Convert Set to Array
   let kanjiArr = await Promise.all(
     kanji.map(async character => {
-      let res = await fetch('https://kanjiapi.dev/v1/kanji/' + character)
-      return res.json()
-    })
-  )
+      try {
+        // 1. Try fetching from GitHub first
+        const primaryUrl = `${primaryUrlBase}${character}.json`;
+        let res = await fetch(primaryUrl);
 
-  //populate dictionary with kanji as key
-  for (item of kanjiArr) {
-    kanjiDict[item["kanji"]] = buildString(item)
+        if (!res.ok) {
+          // 2. If GitHub fails (e.g., 404), try the fallback API
+          const fallbackUrl = `${fallbackUrlBase}${character}`;
+          res = await fetch(fallbackUrl);
+        }
+
+        // If the second fetch also fails, this will throw and be caught.
+        if (!res.ok) {
+            throw new Error(`Kanji '${character}' not found in either source.`);
+        }
+        
+        return res.json();
+
+      } catch (error) {
+        console.error(error);
+        // Return a null or an error object so Promise.all doesn't fail completely
+        return { kanji: character, error: "Not found" }; 
+      }
+    })
+  );
+
+  // Populate dictionary with kanji as key, filtering out any that failed
+  for (let item of kanjiArr) {
+    if (item && !item.error) {
+        kanjiDict[item["kanji"]] = buildString(item);
+    }
   }
 }
 

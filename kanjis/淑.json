@@ -1,12 +1,9 @@
 {
   "kanji": "淑",
   "meanings": [
-    "GracefulElegante",
-    "refinado",
-    "armonioso",
-    "agraciado"
+    "GracefulElegante, refinado, armonioso, agraciado"
   ],
   "grade": 11,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 778,
+  "jlpt": 23
 }

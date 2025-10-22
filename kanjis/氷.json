@@ -1,9 +1,9 @@
 {
   "kanji": "氷",
   "meanings": [
-    "Icicle\t\"\"\t5\t138\t8\t"
+    "Icicle"
   ],
   "grade": null,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 5,
+  "jlpt": 138
 }

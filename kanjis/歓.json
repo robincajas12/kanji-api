@@ -1,11 +1,9 @@
 {
   "kanji": "歓",
   "meanings": [
-    "Delight“alegría",
-    "júbilo",
-    "deleite”"
+    "Delight“alegría, júbilo, deleite”"
   ],
   "grade": 15,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 612,
+  "jlpt": 21
 }

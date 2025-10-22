@@ -1,11 +1,9 @@
 {
   "kanji": "確",
   "meanings": [
-    "Assurance“seguro",
-    "certeza",
-    "asegurar"
+    "Assurance“seguro, certeza, asegurar"
   ],
   "grade": 15,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 609,
+  "jlpt": 21
 }

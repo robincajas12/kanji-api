@@ -1,11 +1,9 @@
 {
   "kanji": "庭",
   "meanings": [
-    "“patio",
-    "jardín",
-    "courtyard”."
+    "“patio, jardín, courtyard”."
   ],
   "grade": 10,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 634,
+  "jlpt": 22
 }

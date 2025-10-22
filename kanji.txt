@@ -22,7 +22,7 @@
 晶		Sparkle		12	22	2	
 品		Goods		9	23	2	
 呂		Spine		7	24	2	
-昌		Prosperous		8	25	2	
+昌		Prosperous		8	25	2	leech
 早		Early		6	26	2	
 旭		Rising Sun		6	27	2	
 世		Generation		5	28	2	
@@ -172,7 +172,7 @@
 圧		Pressure		5	163	8	
 埼		Cape<br>This refers to LAND,		11	164	8	
 垣		Hedge		9	165	8	
-填	塡	Inlay<br>Incrustado 		13	166	8	leech
+填	塡	Inlay<br>Incrustado 		13	166	8	
 圭		Squared Jewel<br>Joya cuadrada		6	167	8	
 封		Seal<br>Sello		9	168	8	
 涯		Horizon		11	169	8	
@@ -335,7 +335,7 @@ Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfon
 客		Guest		9	315	13	
 額		Forehead		18	316	13	
 夏		Summer		10	317	13	
-処		Dispose<br>deshacerse de algo /		5	318	13	
+処		Lugar / sitio		5	318	13	
 条		"Twig<br><ul><li><div> <strong>ramita</strong> (una rama pequeña de un árbol)</div>
 </li>
 </ul>
@@ -388,7 +388,7 @@ Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfon
 訃		Obituary<br>noticia de fallecimient		9	363	15	
 討		Chastise<br>castigar		10	364	15	
 訓		Instruction		10	365	15	
-詔		Imperial Edict<br><strong>“edicto imperial”</strong> o <strong>“decreto”</strong>,		12	366	15	
+詔		Imperial Edict<br><strong>“edicto imperial”</strong> o <strong>“decreto”</strong>,		12	366	15	leech
 詰		Packed		13	367	15	
 話		Tale<br>cuento, relato).		13	368	15	
 詠		Recitation		12	369	15	
@@ -414,7 +414,7 @@ Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfon
 威		Intimidate		9	389	16	
 滅		Destroy		13	390	16	
 減		Dwindle<br>disminuir		12	391	16	
-蔑		Revile<br>hablar mal de alguien con desprecio).		14	392	16	
+蔑		Revile<br>Despreciar		14	392	16	
 桟		Scaffold<br>andamio		10	393	16	
 銭		Coin		14	394	16	
 浅		Shallow<br>superficial		9	395	16	
@@ -435,7 +435,7 @@ Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfon
 錠		Lock		16	409	17	
 走		Run		7	410	17	
 超		Super<br>		12	411	17	
-赴		Proceed		9	412	17	
+赴		Proceed		9	412	17	leech
 越		Surpass		12	413	17	
 是		<br>“correcto, justo, apropiado		9	414	17	
 題		Topic		18	415	17	
@@ -608,7 +608,7 @@ Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfon
 家		House		10	580	21	
 嫁		Marry Into		13	581	21	
 豪		Overpowering		14	582	21	
-腸		Intestines		13	583	21	
+腸		"Intestines<br><a href=""https://hochanh.github.io/rtk/%E5%A0%B4/index.html""><img src=""paste-a5029abada221bb1f3b1b079d8adfe7322e69b29.jpg""><br>piggy bank</a>"		13	583	21	
 場		"Location<br>--------------<br><img src=""paste-a5029abada221bb1f3b1b079d8adfe7322e69b29.jpg""><br>piggy bank<br><img alt=""Piggy Bank Drawing Stock Illustrations – 6,100 Piggy Bank Drawing Stock  Illustrations, Vectors &amp; Clipart - Dreamstime"" src=""cute-cartoon-piggy-bank-drawing-funny-piggybank-dollar-coin-saving-money-vector-illustration-cute-cartoon-piggy-ban.jpg""><br>"		12	584	21	
 湯		Hot Water		12	585	21	
 羊		Sheep		6	586	21	
@@ -619,10 +619,10 @@ Debajo del sombrero, empieza a <strong>hacer spam (亘)</strong> con un megáfon
 達		Accomplished		12	591	21	
 羨		Envious<br>envidiar		13	592	21	
 差		Distinction<br>diferencia, distinción, discrepancia		10	593	21	
-着		Don		12	594	21	
+着		Don,Vestir		12	594	21	
 唯		Solely<br><strong>“solely / only / uniquely”</strong>.		11	595	21	
 堆		"Piled High<br>accumulate<br>------<br>turkey<br><img src=""paste-96de5d20bf006724f0a6ae2aef6045071e654026.jpg""><br><img alt=""Prime Video: Team Radical Turkey Hunting"" src=""fbc1d833a55a067f3bcb01684160a79481b54ae2644a94481601910ea7448341.jpg"">"		11	596	21	
-椎		Sweet Oak<br><strong>“roble dulce”</strong>.		12	597	21	
+椎		sweet oak,<br>hueso de la espalda		12	597	21	
 誰		Who		15	598	21	
 焦		Char<br><strong>quemar, chamuscar, carbonizar</strong>		12	599	21	
 礁		"Reef<br><img alt=""礁- 維基百科，自由的百科全書"" src=""1200px-Skerry_in_shallow_water.jpg""><br>"		17	600	21	

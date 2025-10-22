@@ -1,12 +1,9 @@
 {
   "kanji": "授",
   "meanings": [
-    "Impartdar",
-    "transmitir",
-    "enseñar",
-    "otorgar"
+    "Impartdar, transmitir, enseñar, otorgar"
   ],
   "grade": 11,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 795,
+  "jlpt": 23
 }

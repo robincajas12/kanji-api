@@ -1,10 +1,9 @@
 {
   "kanji": "抹",
   "meanings": [
-    "\"Rub\"\"frotar\"\"",
-    "\"\"fregar\"\" o \"\"borrar\""
+    "\"Rub\"\"frotar\"\", \"\"fregar\"\" o \"\"borrar\""
   ],
   "grade": 8,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 694,
+  "jlpt": 23
 }

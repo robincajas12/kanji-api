@@ -1,11 +1,9 @@
 {
   "kanji": "焦",
   "meanings": [
-    "Charquemar",
-    "chamuscar",
-    "carbonizar"
+    "Charquemar, chamuscar, carbonizar"
   ],
   "grade": 12,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 599,
+  "jlpt": 21
 }

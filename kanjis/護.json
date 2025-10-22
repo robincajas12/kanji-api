@@ -1,11 +1,9 @@
 {
   "kanji": "護",
   "meanings": [
-    "Safeguardproteger",
-    "defender",
-    "resguardar algo contra daño o peligro."
+    "Safeguardproteger, defender, resguardar algo contra daño o peligro."
   ],
   "grade": 20,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 756,
+  "jlpt": 23
 }

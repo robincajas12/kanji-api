@@ -1,11 +1,9 @@
 {
   "kanji": "漠",
   "meanings": [
-    "Vague莫=“nada”",
-    "“ninguno”",
-    "“extremo” o “no existir”."
+    "Vague莫=“nada”, “ninguno”, “extremo” o “no existir”."
   ],
   "grade": 13,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 245,
+  "jlpt": 10
 }

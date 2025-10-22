@@ -1,11 +1,9 @@
 {
   "kanji": "是",
   "meanings": [
-    "“correcto",
-    "justo",
-    "apropiado"
+    "“correcto, justo, apropiado"
   ],
   "grade": 9,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 414,
+  "jlpt": 17
 }

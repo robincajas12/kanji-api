@@ -1,10 +1,9 @@
 {
   "kanji": "苛",
   "meanings": [
-    "Bullyingacoso",
-    "hostigamiento o maltrato repetido,"
+    "Bullyingacoso, hostigamiento o maltrato repetido,"
   ],
   "grade": 8,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 240,
+  "jlpt": 10
 }

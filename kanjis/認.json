@@ -1,11 +1,9 @@
 {
   "kanji": "認",
   "meanings": [
-    "Acknowledge“reconocer",
-    "admitir",
-    "reconocer con la mente"
+    "Acknowledge“reconocer, admitir, reconocer con la mente"
   ],
   "grade": 14,
-  "freq_mainichi_shinbun": null,
-  "jlpt": null
+  "freq_mainichi_shinbun": 643,
+  "jlpt": 22
 }

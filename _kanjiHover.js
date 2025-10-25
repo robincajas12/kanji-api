@@ -35,7 +35,7 @@ function findKanji() {
 }
 
 async function getKanjiData() {
-  const primaryUrlBase = "https://raw.githubusercontent.com/robincajas12/kanji-api/refs/heads/main/kanjis/";
+  const primaryUrlBase = "https://kanji-api-theta.vercel.app/kanji/";
   const fallbackUrlBase = "https://kanjiapi.dev/v1/kanji/";
 
   kanji = [...kanji]; // Convert Set to Array
@@ -43,7 +43,7 @@ async function getKanjiData() {
     kanji.map(async character => {
       try {
         // 1. Try fetching from GitHub first
-        const primaryUrl = `${primaryUrlBase}${character}.json`;
+        const primaryUrl = `${primaryUrlBase}${character}`;
         let res = await fetch(primaryUrl);
 
         if (!res.ok) {

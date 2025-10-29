@@ -37,26 +37,36 @@ function findKanji() {
 async function getKanjiData() {
   const primaryUrlBase = "https://kanji-api-theta.vercel.app/kanji/";
   const fallbackUrlBase = "https://kanjiapi.dev/v1/kanji/";
+  const localUrlBase = "http://localhost:3000/kanji/"; // ✅ Nueva URL local
 
   kanji = [...kanji]; // Convert Set to Array
   let kanjiArr = await Promise.all(
     kanji.map(async character => {
       try {
-        // 1. Try fetching from GitHub first
-        const primaryUrl = `${primaryUrlBase}${character}`;
-        let res = await fetch(primaryUrl);
+        let res;
+        let data;
+        let urls = [
+          `${primaryUrlBase}${character}`,
+          `${fallbackUrlBase}${character}`,
+          `${localUrlBase}${character}` // ✅ Tercer intento
+        ];
 
-        if (!res.ok) {
-          // 2. If GitHub fails (e.g., 404), try the fallback API
-          const fallbackUrl = `${fallbackUrlBase}${character}`;
-          res = await fetch(fallbackUrl);
+        for (let url of urls) {
+          try {
+            res = await fetch(url);
+            if (res.ok) {
+              data = await res.json();
+              break;
+            }
+          } catch (err) {
+            console.warn(`Error consultando ${url}:`, err);
+          }
         }
 
-        if (!res.ok) {
-          throw new Error(`Kanji '${character}' not found in either source.`);
+        if (!data) {
+          throw new Error(`Kanji '${character}' no encontrado en ninguna fuente.`);
         }
 
-        const data = await res.json();
         return data;
 
       } catch (error) {
@@ -66,13 +76,14 @@ async function getKanjiData() {
     })
   );
 
-  // Populate dictionary with kanji as key
+  // Poblar diccionario
   for (let item of kanjiArr) {
     if (item && item.kanji && !item.error) {
       kanjiDict[item.kanji] = buildString(item);
     }
   }
 }
+
 
 function onKanjiHover(event) {
   let hoverDiv = document.getElementsByClassName("hoverDiv")[0];

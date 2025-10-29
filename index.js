@@ -6,7 +6,7 @@ const cors = require('cors');
 
 const app = express();
 app.use(cors());
-const port = 3001;
+const port = 3000;
 
 // Lee y parsea el archivo kanji.json
 const kanjiData = JSON.parse(fs.readFileSync(path.join(__dirname, 'kanji.json'), 'utf8'));

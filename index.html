@@ -167,7 +167,7 @@
     let currentVerb = null;
 
     getVerbBtn.addEventListener('click', async () => {
-      const response = await fetch('http://localhost:3000/random-verb');
+      const response = await fetch('/random-verb');
       const verb = await response.json();
       currentVerb = verb;
       verbContainer.innerHTML = `
@@ -187,7 +187,7 @@
 
       const userAnswer = conjugationInput.value;
       
-      const response = await fetch('http://localhost:3000/check-conjugation', {
+      const response = await fetch('/check-conjugation', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

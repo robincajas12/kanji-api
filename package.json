@@ -10,8 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
+    "@google/genai": "^1.31.0",
     "cors": "^2.8.5",
     "express": "^5.1.0"
   }

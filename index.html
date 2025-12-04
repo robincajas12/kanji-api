@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Japanese Verb Conjugation Practice</title>
+  <style>
+    /* Reset básico */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #f4f7f6, #e8f0f2);
+      color: #333;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      padding: 30px 20px;
+    }
+
+    h1 {
+      font-size: 2.8em;
+      color: #2c3e50;
+      margin-bottom: 40px;
+      text-align: center;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+    }
+
+    button {
+      background: linear-gradient(145deg, #3498db, #2980b9);
+      color: white;
+      border: none;
+      padding: 14px 30px;
+      font-size: 1.05em;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      margin: 10px 0;
+      box-shadow: 0 6px 12px rgba(0,0,0,0.12);
+    }
+
+    button:hover {
+      background: linear-gradient(145deg, #2980b9, #2471a3);
+      transform: translateY(-3px) scale(1.02);
+    }
+
+    button:active {
+      transform: translateY(0) scale(0.98);
+      background: #21618c;
+    }
+
+    #verb-container {
+      background-color: #ffffff;
+      border-radius: 14px;
+      padding: 30px 20px;
+      margin-bottom: 20px;
+      width: 100%;
+      max-width: 520px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    #verb-container:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+    }
+
+    #verb-container p {
+      margin: 8px 0;
+      font-size: 1.1em;
+      color: #555;
+    }
+
+    #verb-container p:first-child {
+      font-size: 1.6em;
+      font-weight: bold;
+      color: #e74c3c;
+    }
+
+    #verb-container p:last-of-type {
+      font-style: italic;
+      color: #7f8c8d;
+    }
+
+    input[type="text"] {
+      padding: 14px;
+      font-size: 1em;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      width: 100%;
+      max-width: 500px;
+      margin-bottom: 20px;
+      outline: none;
+      transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    input[type="text"]:focus {
+      border-color: #3498db;
+      box-shadow: 0 0 8px rgba(52,152,219,0.3);
+    }
+
+    #result-container {
+      background-color: #ecf0f1;
+      border-radius: 12px;
+      padding: 25px;
+      width: 100%;
+      max-width: 520px;
+      min-height: 100px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+      font-size: 1em;
+      line-height: 1.6;
+      color: #34495e;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    #result-container:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2em;
+        margin-bottom: 30px;
+      }
+      button {
+        padding: 12px 25px;
+        font-size: 0.95em;
+      }
+      #verb-container, input[type="text"], #result-container {
+        max-width: 100%;
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Japanese Verb Conjugation Practice</h1>
+
+  <button id="get-verb-btn">Get Random Verb</button>
+
+  <div id="verb-container"></div>
+  
+  <input type="text" id="conjugation-input" placeholder="Enter conjugation">
+  <button id="check-answer-btn">Check Answer</button>
+
+  <div id="result-container"></div>
+
+  <script>
+    const getVerbBtn = document.getElementById('get-verb-btn');
+    const verbContainer = document.getElementById('verb-container');
+    const conjugationInput = document.getElementById('conjugation-input');
+    const checkAnswerBtn = document.getElementById('check-answer-btn');
+    const resultContainer = document.getElementById('result-container');
+
+    let currentVerb = null;
+
+    getVerbBtn.addEventListener('click', async () => {
+      const response = await fetch('http://localhost:3000/random-verb');
+      const verb = await response.json();
+      currentVerb = verb;
+      verbContainer.innerHTML = `
+        <p>Verb: ${verb.expression}</p>
+        <p>Meaning: ${verb.meaning}</p>
+        <p>Conjugate to: ${verb.conjugationType}</p>
+      `;
+      conjugationInput.value = '';
+      resultContainer.innerHTML = '';
+    });
+
+    checkAnswerBtn.addEventListener('click', async () => {
+      if (!currentVerb) {
+        resultContainer.innerHTML = 'Please get a verb first.';
+        return;
+      }
+
+      const userAnswer = conjugationInput.value;
+      
+      const response = await fetch('http://localhost:3000/check-conjugation', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          verb: currentVerb,
+          answer: userAnswer,
+          conjugationType: currentVerb.conjugationType
+        })
+      });
+      
+      const result = await response.json();
+      resultContainer.innerHTML = result.explanation;
+    });
+  </script>
+
+</body>
+</html>

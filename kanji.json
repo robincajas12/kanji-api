@@ -257,7 +257,7 @@
   {
     "kanji": "旭",
     "meanings": [
-      "Rising Sun9 suns"
+      "Rising Sun9 suns. 9 days"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 27,
@@ -392,7 +392,7 @@
   {
     "kanji": "升",
     "meanings": [
-      "Measuring Box"
+      "Measuring Box, cakss de herramientas para medir"
     ],
     "grade": null,
     "freq_mainichi_shinbun": 4,
@@ -919,7 +919,7 @@
   {
     "kanji": "頂",
     "meanings": [
-      "Place On The Head"
+      "Place On The colocar en la cabeza"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 98,
@@ -937,7 +937,7 @@
   {
     "kanji": "孔",
     "meanings": [
-      "Cavity"
+      "Cavity, cávidad, hueco"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 100,
@@ -964,7 +964,7 @@
   {
     "kanji": "好",
     "meanings": [
-      "Fond Aficionada"
+      "Fond Aficionada,好き"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 103,
@@ -1117,7 +1117,7 @@
   {
     "kanji": "硝",
     "meanings": [
-      "Nitrate"
+      "Nitrate, se parece a una roca"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 120,
@@ -1162,7 +1162,7 @@
   {
     "kanji": "光",
     "meanings": [
-      "Rayrayo"
+      "Rayrayo,&nbsp;光（ひかり）"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 125,
@@ -1216,7 +1216,7 @@
   {
     "kanji": "省",
     "meanings": [
-      "Focus"
+      "Focus,enfocar"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 131,
@@ -1225,7 +1225,7 @@
   {
     "kanji": "厚",
     "meanings": [
-      "Thick"
+      "Thick,&nbsp;厚い(あつい)"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 132,
@@ -1315,7 +1315,7 @@
   {
     "kanji": "原",
     "meanings": [
-      "Meadow prado"
+      "Meadow prado,ORIGIN"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 142,
@@ -1324,7 +1324,7 @@
   {
     "kanji": "願",
     "meanings": [
-      "Petition"
+      "Petition,願い"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 143,
@@ -1396,7 +1396,7 @@
   {
     "kanji": "沙",
     "meanings": [
-      "Grains of Sand"
+      "Grains of Sand, arena"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 151,
@@ -1405,7 +1405,7 @@
   {
     "kanji": "潮",
     "meanings": [
-      "Tidemarea"
+      "Tidemarea, en las mañanas estoy en el agua"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 152,
@@ -1459,11 +1459,20 @@
   {
     "kanji": "泊",
     "meanings": [
-      "Overnight"
+      "\"Overnight,&nbsp;alojarse / pasar la noche,&nbsp;泊まる（とまる）"
     ],
-    "grade": 8,
-    "freq_mainichi_shinbun": 158,
-    "jlpt": 8
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "hospedarse / pasar la noche\"",
+    "meanings": [
+      "8"
+    ],
+    "grade": 158,
+    "freq_mainichi_shinbun": 8,
+    "jlpt": null
   },
   {
     "kanji": "湖",
@@ -1648,7 +1657,7 @@
   {
     "kanji": "災",
     "meanings": [
-      "Disaster"
+      "Disaster, catástrofe"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 179,
@@ -1952,7 +1961,7 @@
   {
     "kanji": "柏",
     "meanings": [
-      "\"Oak\""
+      "\"Oak, nueces de la era de hielo \""
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 211,
@@ -1988,7 +1997,7 @@
   {
     "kanji": "杏",
     "meanings": [
-      "\"Apricot\""
+      "\"Apricot, albaricoque \""
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 215,
@@ -1997,7 +2006,7 @@
   {
     "kanji": "桐",
     "meanings": [
-      "\"Paulownia\""
+      "\"Paulownia, same tree, mismo árbol \""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 216,
@@ -2249,7 +2258,7 @@
   {
     "kanji": "模",
     "meanings": [
-      "Imitation, un duplicado 莫 =“nada”, “ninguno”, “extremo” o “no existir”."
+      "Imitation, un duplicado en los dias dificiles habia un gran arbol"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 244,
@@ -2321,7 +2330,7 @@
   {
     "kanji": "眺",
     "meanings": [
-      "Stare, mirar"
+      "Stare, mirar(ながめる)"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 252,
@@ -2762,7 +2771,7 @@
   {
     "kanji": "迫",
     "meanings": [
-      "Urge"
+      "Urge, have an urge, urgencia"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 300,
@@ -2807,7 +2816,7 @@
   {
     "kanji": "連",
     "meanings": [
-      "Take Along, llevar Carry by a car in a street"
+      "Take Along, llevar,連れ, un carro en la calle"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 305,
@@ -2879,7 +2888,7 @@
   {
     "kanji": "賂",
     "meanings": [
-      "GraftInjerto"
+      "GraftInjerto, Cada camarón/gamba"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 313,
@@ -2897,7 +2906,7 @@
   {
     "kanji": "客",
     "meanings": [
-      "Guest"
+      "Guest, customer"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 315,
@@ -2996,7 +3005,7 @@
   {
     "kanji": "運",
     "meanings": [
-      "Carry"
+      "Carry, suerte"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 325,
@@ -3374,7 +3383,7 @@
   {
     "kanji": "詔",
     "meanings": [
-      "Imperial EdictTratado “edicto imperial” o “decreto”,"
+      "Imperial EdictTratado “edicto imperial” o “decreto”, seducir con palabras"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 366,
@@ -3464,7 +3473,7 @@
   {
     "kanji": "諭",
     "meanings": [
-      "\"RebukeReprender----carnicero\""
+      "\"RebukeReprender, regañar ----carnicero\""
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 376,
@@ -3689,7 +3698,7 @@
   {
     "kanji": "肯",
     "meanings": [
-      "Agreement"
+      "Agreement, acuerdo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 400,
@@ -3770,7 +3779,7 @@
   {
     "kanji": "錠",
     "meanings": [
-      "Lock"
+      "Lock,cerradura"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 409,
@@ -4031,7 +4040,7 @@
   {
     "kanji": "幌",
     "meanings": [
-      "Canopycubierta / lona / carpa"
+      "Canopycubierta / lona / carpa, capa"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 438,
@@ -4193,7 +4202,7 @@
   {
     "kanji": "霜",
     "meanings": [
-      "Frosthelada"
+      "Frosthelada, veo como cae nieve en el árbol"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 455,
@@ -4562,7 +4571,7 @@
   {
     "kanji": "壱",
     "meanings": [
-      "I (One)"
+      "I (One), el gentleman tiene un sombrero y una cuchara"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 496,
@@ -4589,7 +4598,7 @@
   {
     "kanji": "梅",
     "meanings": [
-      "\"Plum\""
+      "\"Plum, ciruela \""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 499,
@@ -4634,7 +4643,7 @@
   {
     "kanji": "複",
     "meanings": [
-      "Duplicate"
+      "Duplicate, todos los dias yo golpeo la ropa duplicada,&nbsp;"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 504,
@@ -4841,7 +4850,7 @@
   {
     "kanji": "荒",
     "meanings": [
-      "Laid WasteDevastado Personas muertas en un rio es un desastre"
+      "Laid WasteDevastado Personas muertas en un rio es un desastre ,荒れる-go wild"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 527,
@@ -4994,7 +5003,7 @@
   {
     "kanji": "棟",
     "meanings": [
-      "Ridgepoleviga horizontal más alta de un techo"
+      "Ridgepoleviga horizontal más alta de un techo, árbol del este"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 544,
@@ -5075,20 +5084,11 @@
   {
     "kanji": "栃",
     "meanings": [
-      "\"Horse Chestnutcastaño de Indias."
+      "\"Horse Chestnutcastaño de Indias.Fantásticos se van a dirección del árbol \""
     ],
-    "grade": null,
-    "freq_mainichi_shinbun": null,
-    "jlpt": null
-  },
-  {
-    "kanji": "\"",
-    "meanings": [
-      "9"
-    ],
-    "grade": 553,
-    "freq_mainichi_shinbun": 20,
-    "jlpt": null
+    "grade": 9,
+    "freq_mainichi_shinbun": 553,
+    "jlpt": 20
   },
   {
     "kanji": "地",
@@ -5417,7 +5417,7 @@
   {
     "kanji": "鮮",
     "meanings": [
-      "Fresh"
+      "Fresh, oveja come pescado"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 590,
@@ -5849,7 +5849,7 @@
   {
     "kanji": "磨",
     "meanings": [
-      "Grind, moler “pulir, afilar, moler, grind”."
+      "Grind, moler “pulir, afilar, moler, grind”.磨く(migaku)"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 638,
@@ -5876,7 +5876,7 @@
   {
     "kanji": "恣",
     "meanings": [
-      "Selfish"
+      "Selfish,"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 641,
@@ -5903,7 +5903,7 @@
   {
     "kanji": "忌",
     "meanings": [
-      "Mourningluto, duelo, abstenerse, mourning”."
+      "Mourning, mi corazonluto, duelo, abstenerse, mourning”."
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 644,
@@ -5921,7 +5921,7 @@
   {
     "kanji": "誌",
     "meanings": [
-      "Document"
+      "Document, El gentlemen Te habla con el corazón"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 646,
@@ -6308,7 +6308,7 @@
   {
     "kanji": "摩",
     "meanings": [
-      "\"Chafe\"\"rozar\"\", \"\"frotar\"\" o \"\"irritar por fricción\"\"\""
+      "\"Chafe\"\"irritar por fricción\"\", en mi casa agarrar árboles con mis manos \""
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 689,
@@ -6416,7 +6416,7 @@
   {
     "kanji": "批",
     "meanings": [
-      "Criticism, juzgar"
+      "Criticism, juzgar , criticar"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 701,
@@ -6668,7 +6668,7 @@
   {
     "kanji": "研",
     "meanings": [
-      "Polish, lijar pulir / afilar / perfeccionar"
+      "Polish, lijar pulir / afilar / perfeccionar, agarrar una roca con las dos manos"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 729,
@@ -6713,7 +6713,7 @@
   {
     "kanji": "刑",
     "meanings": [
-      "Punish"
+      "Punish,castigo"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 734,
@@ -6812,7 +6812,7 @@
   {
     "kanji": "扱",
     "meanings": [
-      "Handle"
+      "Handle, manejar"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 745,
@@ -7037,7 +7037,7 @@
   {
     "kanji": "枝",
     "meanings": [
-      "\"Boughrama grande\""
+      "\"Boughrama grande, Ramificación \""
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 770,
@@ -7226,7 +7226,7 @@
   {
     "kanji": "采",
     "meanings": [
-      "Grab"
+      "Grab, No implica elección, sino acción inmediata de  agarrar, agarro un arbol"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 791,
@@ -7298,7 +7298,7 @@
   {
     "kanji": "広",
     "meanings": [
-      "Wide"
+      "Wide, 広い（ひろい）"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 799,
@@ -7307,7 +7307,7 @@
   {
     "kanji": "勾",
     "meanings": [
-      "Hookeden forma de gancho, curvado o doblado hacia atrás"
+      "Hooked,&nbsp;enganchar / curvar / atraer algo con un ganchoen forma de gancho, curvado o doblado hacia atrás"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 800,
@@ -7514,7 +7514,7 @@
   {
     "kanji": "充",
     "meanings": [
-      "Allotasignar"
+      "Allotasignar,&nbsp;asignar / destinar / repartir"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 823,
@@ -7541,7 +7541,7 @@
   {
     "kanji": "流",
     "meanings": [
-      "Current"
+      "Current.&nbsp;stream"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 826,
@@ -7559,7 +7559,7 @@
   {
     "kanji": "唆",
     "meanings": [
-      "Tempt,tentar inspiración"
+      "Tempt,licencia para pegar a alguien en la boca"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 828,
@@ -7676,7 +7676,7 @@
   {
     "kanji": "崖",
     "meanings": [
-      "BluffsPrecipicio"
+      "BluffsPrecipicio , acantilado"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 841,
@@ -7802,7 +7802,7 @@
   {
     "kanji": "欲",
     "meanings": [
-      "LongingCodicia"
+      "Longing,Codicia,avaricia, desear (欲しい)hoshii"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 855,
@@ -7811,7 +7811,7 @@
   {
     "kanji": "裕",
     "meanings": [
-      "Abundant"
+      "Abundant,"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 856,
@@ -7919,7 +7919,7 @@
   {
     "kanji": "披",
     "meanings": [
-      "Expose"
+      "Expose, exponer"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 868,
@@ -8090,7 +8090,7 @@
   {
     "kanji": "職",
     "meanings": [
-      "Post"
+      "Post, trabajo(lo que hace para vivir)"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 887,
@@ -8135,7 +8135,7 @@
   {
     "kanji": "慢",
     "meanings": [
-      "Ridicule"
+      "Ridicule, Que por su rareza o extravagancia causa risa."
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 892,
@@ -8288,7 +8288,7 @@
   {
     "kanji": "鉄",
     "meanings": [
-      "Iron"
+      "hierro, iron"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 909,
@@ -8423,7 +8423,7 @@
   {
     "kanji": "労",
     "meanings": [
-      "Labor"
+      "Labor, mano de obra"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 924,
@@ -8459,7 +8459,7 @@
   {
     "kanji": "勧",
     "meanings": [
-      "Recomendado, persuadir"
+      "Recomendado, persuadir,convencer, hacer que alguien haga algo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 928,
@@ -8504,7 +8504,7 @@
   {
     "kanji": "賀",
     "meanings": [
-      "Congratulations"
+      "Congratulations, celebrar a alguien"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 933,
@@ -8576,7 +8576,7 @@
   {
     "kanji": "得",
     "meanings": [
-      "Gain"
+      "Gain, obtain"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 941,
@@ -8585,7 +8585,7 @@
   {
     "kanji": "従",
     "meanings": [
-      "Accompany, acompañar"
+      "Accompany, acompañar,obey"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 942,
@@ -8675,7 +8675,7 @@
   {
     "kanji": "徴",
     "meanings": [
-      "Indications"
+      "Indications, (indicaciones de uso)"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 952,
@@ -8738,7 +8738,7 @@
   {
     "kanji": "稼",
     "meanings": [
-      "Earnings"
+      "Earnings,&nbsp;total profit of a company over a period"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 959,
@@ -8747,7 +8747,7 @@
   {
     "kanji": "程",
     "meanings": [
-      "Extent"
+      "Proceso"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 960,
@@ -8783,7 +8783,7 @@
   {
     "kanji": "移",
     "meanings": [
-      "Shift"
+      "Transferir, shift"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 964,
@@ -8810,7 +8810,7 @@
   {
     "kanji": "愁",
     "meanings": [
-      "Distress"
+      "Distress, dolor en el corazón por fin de otoño"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 967,
@@ -8819,7 +8819,7 @@
   {
     "kanji": "私",
     "meanings": [
-      "Private"
+      "Private, watashi"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 968,
@@ -8846,7 +8846,7 @@
   {
     "kanji": "称",
     "meanings": [
-      "Appellation"
+      "Appellation, Llamada , denominación"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 971,
@@ -8855,7 +8855,7 @@
   {
     "kanji": "利",
     "meanings": [
-      "Profit"
+      "Interés, profit"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 972,
@@ -8873,7 +8873,7 @@
   {
     "kanji": "穫",
     "meanings": [
-      "Harvest"
+      "Harvest,Cosecha"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 974,
@@ -8882,7 +8882,7 @@
   {
     "kanji": "穂",
     "meanings": [
-      "Ear of A Plant"
+      "\"Ear of A Plantespiga de una planta\""
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 975,
@@ -8918,7 +8918,7 @@
   {
     "kanji": "委",
     "meanings": [
-      "Committee"
+      "Committee,comité,grupo de personas designadas o elegidas para encargarse de una tarea específica, investigar un asunto, tomar decisiones o representar a un colectivo dentro de una organización, empresa, partido político o evento"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 979,
@@ -8945,7 +8945,7 @@
   {
     "kanji": "誘",
     "meanings": [
-      "Entice"
+      "Entice, atraer, tentación"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 982,
@@ -8972,7 +8972,7 @@
   {
     "kanji": "菌",
     "meanings": [
-      "Germ"
+      "Germ, bacteria"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 985,
@@ -8981,7 +8981,7 @@
   {
     "kanji": "萎",
     "meanings": [
-      "Numb"
+      "adormecer, numb"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 986,
@@ -8999,7 +8999,7 @@
   {
     "kanji": "粉",
     "meanings": [
-      "Flour"
+      "harina, flour"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 988,
@@ -9008,7 +9008,7 @@
   {
     "kanji": "粘",
     "meanings": [
-      "Sticky"
+      "Sticky, pegajoso"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 989,
@@ -9035,7 +9035,7 @@
   {
     "kanji": "迷",
     "meanings": [
-      "Astray"
+      "por mal camino"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 992,
@@ -9044,7 +9044,7 @@
   {
     "kanji": "粋",
     "meanings": [
-      "Chic"
+      "Chic. fashion"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 993,
@@ -9053,7 +9053,7 @@
   {
     "kanji": "謎",
     "meanings": [
-      "Riddle"
+      "Riddle,rompecabezas"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 994,
@@ -9071,7 +9071,7 @@
   {
     "kanji": "菊",
     "meanings": [
-      "Chrysanthemum"
+      "\"Chrysanthemum,&nbsp;\""
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 996,
@@ -9080,7 +9080,7 @@
   {
     "kanji": "奥",
     "meanings": [
-      "Core"
+      "Core,interior"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 997,
@@ -9098,7 +9098,7 @@
   {
     "kanji": "楼",
     "meanings": [
-      "Watchtower"
+      "Watchtower,edificio de varios pisos"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 999,
@@ -9107,7 +9107,7 @@
   {
     "kanji": "類",
     "meanings": [
-      "Sort"
+      "Sort, clasificar, ordenar"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1000,
@@ -9116,7 +9116,7 @@
   {
     "kanji": "漆",
     "meanings": [
-      "Lacquer"
+      "\"Lacquer, laca\""
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1001,
@@ -9125,7 +9125,7 @@
   {
     "kanji": "膝",
     "meanings": [
-      "Knee"
+      "\"Knee,\""
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1002,
@@ -9134,7 +9134,7 @@
   {
     "kanji": "様",
     "meanings": [
-      "Esq."
+      "Esq, Sama"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1003,
@@ -9233,7 +9233,7 @@
   {
     "kanji": "筆",
     "meanings": [
-      "Writing Brush"
+      "Writing Brush,pincel de caligrafía"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1014,
@@ -9278,7 +9278,7 @@
   {
     "kanji": "策",
     "meanings": [
-      "Scheme"
+      "Scheme,estrategia,&nbsp;&nbsp;a plan or program of action"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1019,
@@ -9323,7 +9323,7 @@
   {
     "kanji": "佐",
     "meanings": [
-      "Assistant"
+      "Assistant, ayudante"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1024,
@@ -9332,7 +9332,7 @@
   {
     "kanji": "侶",
     "meanings": [
-      "Partner"
+      "Partner, pareja"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1025,
@@ -9341,7 +9341,7 @@
   {
     "kanji": "但",
     "meanings": [
-      "However"
+      "However, no obstate, sin embargo, but"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1026,
@@ -9359,7 +9359,7 @@
   {
     "kanji": "位",
     "meanings": [
-      "Rank"
+      "Rank, ranking"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1028,
@@ -9395,7 +9395,7 @@
   {
     "kanji": "件",
     "meanings": [
-      "Affair"
+      "Affair,&nbsp;asunto / caso"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1032,
@@ -9404,7 +9404,7 @@
   {
     "kanji": "仕",
     "meanings": [
-      "Attend"
+      "Attend, atender"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1033,
@@ -9422,7 +9422,7 @@
   {
     "kanji": "伏",
     "meanings": [
-      "Prostrated"
+      "Prostrated, postrado, censurado"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1035,
@@ -9476,7 +9476,7 @@
   {
     "kanji": "伯",
     "meanings": [
-      "Chief"
+      "Chief, jefe, persona blanca"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1041,
@@ -9485,7 +9485,7 @@
   {
     "kanji": "俗",
     "meanings": [
-      "Vulgar"
+      "Vulgar,simple, grosero,popular"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1042,
@@ -9512,7 +9512,7 @@
   {
     "kanji": "依",
     "meanings": [
-      "acording to"
+      "acording to,"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1045,
@@ -9557,7 +9557,7 @@
   {
     "kanji": "侍",
     "meanings": [
-      "Waiter"
+      "\"Waiter, a person whose job is to serve customers at their tables in a restaurant.&nbsp;a person who&nbsp;waits&nbsp;for a time, event, or opportunity.\""
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1050,
@@ -9566,7 +9566,7 @@
   {
     "kanji": "停",
     "meanings": [
-      "Halt"
+      "Halt ,parar, detenerse, cesar, or aparcar"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1051,
@@ -9593,7 +9593,7 @@
   {
     "kanji": "傲",
     "meanings": [
-      "Arrogance"
+      "\"Arrogance, tener una&nbsp;percepción exagerada de la propia importancia, creyéndose superior a los demás,\""
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1054,
@@ -9602,7 +9602,7 @@
   {
     "kanji": "倒",
     "meanings": [
-      "Overthrow"
+      "Overthrow、to defeat倒たおす"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1055,
@@ -9620,7 +9620,7 @@
   {
     "kanji": "僧",
     "meanings": [
-      "Buddhist Priest"
+      "Buddhist Priest,&nbsp;monasterio, lugar donde viven los monjes"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1057,
@@ -9629,7 +9629,7 @@
   {
     "kanji": "億",
     "meanings": [
-      "Hundred Million"
+      "Hundred Million,&nbsp;cien millones"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1058,
@@ -9638,7 +9638,7 @@
   {
     "kanji": "儀",
     "meanings": [
-      "Ceremony"
+      "Ceremony,evento organizado con significado simbólico o solemne.bodagraduaciónceremonia religiosaentrega de premios"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1059,
@@ -9656,7 +9656,7 @@
   {
     "kanji": "仙",
     "meanings": [
-      "Hermit"
+      "Hermit, ERMITAÑO"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1061,
@@ -9665,7 +9665,7 @@
   {
     "kanji": "催",
     "meanings": [
-      "Sponsor"
+      "patrocinador , sponsor"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1062,
@@ -9683,7 +9683,7 @@
   {
     "kanji": "侮",
     "meanings": [
-      "Scorn"
+      "Scorn, implica mirar a alguien “por encima del hombro”, como si no valiera o no fuera capaz."
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1064,
@@ -9719,7 +9719,7 @@
   {
     "kanji": "優",
     "meanings": [
-      "Tenderness"
+      "Tenderness, ser mejor que"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1068,
@@ -9737,7 +9737,7 @@
   {
     "kanji": "宿",
     "meanings": [
-      "Inn"
+      "Inn,posada,Lugar donde quedarse a dormir cuando no se tiene donde"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1070,
@@ -9746,7 +9746,7 @@
   {
     "kanji": "傷",
     "meanings": [
-      "Wound"
+      "Herida, wound"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1071,
@@ -9764,7 +9764,7 @@
   {
     "kanji": "褒",
     "meanings": [
-      "Praise"
+      "elogio, praise"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1073,
@@ -9773,7 +9773,7 @@
   {
     "kanji": "傑",
     "meanings": [
-      "Greatness"
+      "Greatness, grandeza, being great, ser genial"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1074,
@@ -9800,7 +9800,7 @@
   {
     "kanji": "府",
     "meanings": [
-      "Municipality"
+      "Municipality, Un&nbsp;municipio&nbsp;(o&nbsp;municipality&nbsp;en inglés) es una entidad territorial básica con personalidad jurídica, formada por vecinos que gestionan sus intereses comunes, incluyendo la administración local y la prestación de servicios, gobernado por un ayuntamiento o gobierno local."
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1077,
@@ -9818,7 +9818,7 @@
   {
     "kanji": "賃",
     "meanings": [
-      "Fare"
+      "Fare,tarifa,&nbsp;precio que se cobra por un servicio o uso de algo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1079,
@@ -9872,7 +9872,7 @@
   {
     "kanji": "貨",
     "meanings": [
-      "Freight"
+      "Freight, mercancía,goods or cargo that are transported, usually by ship,"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1085,
@@ -9881,7 +9881,7 @@
   {
     "kanji": "傾",
     "meanings": [
-      "Lean"
+      "Lean,Inclinar(se)"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1086,
@@ -9899,7 +9899,7 @@
   {
     "kanji": "荷",
     "meanings": [
-      "Baggage"
+      "Baggage, equipaje"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1088,
@@ -9908,7 +9908,7 @@
   {
     "kanji": "俊",
     "meanings": [
-      "Sagacious"
+      "Sagacious,Talentoso"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1089,
@@ -9917,7 +9917,7 @@
   {
     "kanji": "傍",
     "meanings": [
-      "Bystander"
+      "Bystander, espectador"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1090,
@@ -9944,7 +9944,7 @@
   {
     "kanji": "畝",
     "meanings": [
-      "Furrow"
+      "\"Hendidura que se hace en la tierra con el arado., cresta\""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1093,
@@ -9998,7 +9998,7 @@
   {
     "kanji": "腐",
     "meanings": [
-      "Rot"
+      "Rot, podrirse,putrefacción"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1099,
@@ -10016,7 +10016,7 @@
   {
     "kanji": "挫",
     "meanings": [
-      "Sprain"
+      "Sprain,acción física que provoca que algo pierda su posición normal,dislocar"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1101,
@@ -10043,16 +10043,25 @@
   {
     "kanji": "匁",
     "meanings": [
-      "Monme"
+      "\"Monme, Unidad tradicional japonesa de peso. , 1 匁 ≈ 3.75 gramos"
     ],
-    "grade": 4,
-    "freq_mainichi_shinbun": 1104,
-    "jlpt": 28
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "\"",
+    "meanings": [
+      "4"
+    ],
+    "grade": 1104,
+    "freq_mainichi_shinbun": 28,
+    "jlpt": null
   },
   {
     "kanji": "以",
     "meanings": [
-      "By Means Of"
+      "By Means Of, por medio de"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1105,
@@ -10079,7 +10088,7 @@
   {
     "kanji": "瓦",
     "meanings": [
-      "Tile"
+      "Tile, teja"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1108,
@@ -10088,7 +10097,7 @@
   {
     "kanji": "瓶",
     "meanings": [
-      "Flower Pot"
+      "Flower Pot, Botella"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1109,
@@ -10097,7 +10106,7 @@
   {
     "kanji": "宮",
     "meanings": [
-      "Shinto Shrine"
+      "Shinto Shrine, Palacio"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1110,
@@ -10124,7 +10133,7 @@
   {
     "kanji": "膳",
     "meanings": [
-      "Dining Tray"
+      "\"Dining Tray, Mesa, bandeja de comedor\""
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1113,
@@ -10160,7 +10169,7 @@
   {
     "kanji": "塚",
     "meanings": [
-      "Hillock"
+      "Hillock, Montículo"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1117,
@@ -10178,7 +10187,7 @@
   {
     "kanji": "蔽",
     "meanings": [
-      "Cover Over"
+      "Cover Over, cubrir"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1119,
@@ -10196,7 +10205,7 @@
   {
     "kanji": "喚",
     "meanings": [
-      "Yell"
+      "Yell, cueva"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1121,
@@ -10214,7 +10223,7 @@
   {
     "kanji": "融",
     "meanings": [
-      "Dissolve"
+      "Dissolve, disolver , diluir"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1123,
@@ -10223,7 +10232,7 @@
   {
     "kanji": "施",
     "meanings": [
-      "Alms"
+      "Alms, Limosna"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1124,
@@ -10304,7 +10313,7 @@
   {
     "kanji": "尼",
     "meanings": [
-      "Nun"
+      "Nun, Monja"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1133,
@@ -10313,7 +10322,7 @@
   {
     "kanji": "尻",
     "meanings": [
-      "Buttocks"
+      "Buttocks,"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1134,
@@ -10322,7 +10331,7 @@
   {
     "kanji": "泥",
     "meanings": [
-      "Mud"
+      "Mud, Barro, lodo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1135,
@@ -10331,7 +10340,7 @@
   {
     "kanji": "塀",
     "meanings": [
-      "Fence"
+      "Fence, pared , cerca"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1136,
@@ -10340,7 +10349,7 @@
   {
     "kanji": "履",
     "meanings": [
-      "Footgear"
+      "calzado ,gusto"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1137,
@@ -10376,7 +10385,7 @@
   {
     "kanji": "掘",
     "meanings": [
-      "Dig"
+      "Dig, cavar"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1141,
@@ -10385,7 +10394,7 @@
   {
     "kanji": "堀",
     "meanings": [
-      "Ditch"
+      "Ditch, foso , hoyo profundo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1142,
@@ -10394,7 +10403,7 @@
   {
     "kanji": "居",
     "meanings": [
-      "Reside"
+      "Residencia"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1143,
@@ -10412,16 +10421,16 @@
   {
     "kanji": "裾",
     "meanings": [
-      "Hem"
+      "Hem, dobladillo"
     ],
-    "grade": 14,
-    "freq_mainichi_shinbun": 1145,
-    "jlpt": 29
+    "grade": null,
+    "freq_mainichi_shinbun": 14,
+    "jlpt": 1145
   },
   {
     "kanji": "層",
     "meanings": [
-      "Stratum"
+      "Stratum, Capa"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1146,
@@ -10430,7 +10439,7 @@
   {
     "kanji": "局",
     "meanings": [
-      "Bureau"
+      "Oficina, Bureau"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1147,
@@ -10448,7 +10457,7 @@
   {
     "kanji": "漏",
     "meanings": [
-      "Leak"
+      "Leak, fuga"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1149,
@@ -10457,7 +10466,7 @@
   {
     "kanji": "刷",
     "meanings": [
-      "Printing"
+      "Printing, impresión"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1150,
@@ -10475,7 +10484,7 @@
   {
     "kanji": "尽",
     "meanings": [
-      "Exhaust"
+      "Exhaust, agotado, exhausto"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1152,
@@ -10484,7 +10493,7 @@
   {
     "kanji": "沢",
     "meanings": [
-      "Swamp"
+      "Swamp, Pantano, abundante Pantano"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1153,
@@ -10529,7 +10538,7 @@
   {
     "kanji": "肩",
     "meanings": [
-      "Shoulder"
+      "Hombro , shoulder"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1158,
@@ -10538,7 +10547,7 @@
   {
     "kanji": "房",
     "meanings": [
-      "Tassel"
+      "Tassel, Cámara"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1159,
@@ -10547,7 +10556,7 @@
   {
     "kanji": "扇",
     "meanings": [
-      "Fan"
+      "Fan, ventilador"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1160,
@@ -10556,7 +10565,7 @@
   {
     "kanji": "炉",
     "meanings": [
-      "Hearth"
+      "Hearth, Horno , chimenea"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1161,
@@ -10565,7 +10574,7 @@
   {
     "kanji": "戻",
     "meanings": [
-      "Re-"
+      "Re- retorno"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1162,
@@ -10574,7 +10583,7 @@
   {
     "kanji": "涙",
     "meanings": [
-      "Tears"
+      "Tears, Lágrima"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1163,
@@ -10583,7 +10592,7 @@
   {
     "kanji": "雇",
     "meanings": [
-      "Employ"
+      "Employ, Empleo , dar empleo"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1164,
@@ -10601,7 +10610,7 @@
   {
     "kanji": "啓",
     "meanings": [
-      "Disclose"
+      "Disclose, Revelar"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1166,
@@ -10628,7 +10637,7 @@
   {
     "kanji": "祥",
     "meanings": [
-      "Auspicious"
+      "Auspicious,anuncia algo bueno, favorable o de buen augurio."
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1169,
@@ -10646,7 +10655,7 @@
   {
     "kanji": "福",
     "meanings": [
-      "Blessing"
+      "Blessing, Bendición"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1171,
@@ -10655,7 +10664,7 @@
   {
     "kanji": "祉",
     "meanings": [
-      "Welfare"
+      "Welfare,bienestar, es el estado de una persona o comunidad en el que se satisfacen sus necesidades básicas y existe una buena condición física, mental y social."
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1172,
@@ -10664,7 +10673,7 @@
   {
     "kanji": "社",
     "meanings": [
-      "Company"
+      "Company(empresa)"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1173,
@@ -10682,16 +10691,25 @@
   {
     "kanji": "奈",
     "meanings": [
-      "Nara"
+      "\"Nara,Nara (奈良) es conocida por sus ciervos (鹿, shika)."
     ],
-    "grade": 8,
-    "freq_mainichi_shinbun": 1175,
-    "jlpt": 30
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "Viven libremente, sobre todo en Nara Park (奈良公園), y son un símbolo de la ciudad.\"",
+    "meanings": [
+      "8"
+    ],
+    "grade": 1175,
+    "freq_mainichi_shinbun": 30,
+    "jlpt": null
   },
   {
     "kanji": "尉",
     "meanings": [
-      "Military Officer"
+      "Military Officer,&nbsp;rango militar."
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1176,
@@ -10709,7 +10727,7 @@
   {
     "kanji": "款",
     "meanings": [
-      "Goodwill"
+      "Goodwill,Buena voluntad,querer hacer el bien o actuar de forma favorable por decisión propia."
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1178,
@@ -10745,7 +10763,7 @@
   {
     "kanji": "崇",
     "meanings": [
-      "Adore"
+      "Adore,alabar,significa amar, querer o admirar mucho a alguien o algo, con mucha intensidad y respeto"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1182,
@@ -10772,7 +10790,7 @@
   {
     "kanji": "擦",
     "meanings": [
-      "Grate"
+      "Grate, rallar"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1185,
@@ -10781,7 +10799,7 @@
   {
     "kanji": "由",
     "meanings": [
-      "Wherefore"
+      "Wherefore, el Por qué"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1186,
@@ -10790,7 +10808,7 @@
   {
     "kanji": "抽",
     "meanings": [
-      "Pluck"
+      "Lotería"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1187,
@@ -10808,7 +10826,7 @@
   {
     "kanji": "袖",
     "meanings": [
-      "Sleeve"
+      "Sleeve, Manga de prendas"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1189,
@@ -10817,7 +10835,7 @@
   {
     "kanji": "宙",
     "meanings": [
-      "Mid-Air"
+      "Aire, Espacio, universo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1190,
@@ -10835,7 +10853,7 @@
   {
     "kanji": "笛",
     "meanings": [
-      "Flute"
+      "Flute, Flauta"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1192,
@@ -10844,7 +10862,7 @@
   {
     "kanji": "軸",
     "meanings": [
-      "Axis"
+      "Axis, eje"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1193,
@@ -10853,7 +10871,7 @@
   {
     "kanji": "甲",
     "meanings": [
-      "Armor"
+      "Armor, Armadura"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1194,
@@ -10871,7 +10889,7 @@
   {
     "kanji": "岬",
     "meanings": [
-      "Headland"
+      "Headland, sobresaliente de tierra que se adentra en el mar"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1196,
@@ -10934,7 +10952,7 @@
   {
     "kanji": "菓",
     "meanings": [
-      "ConfectionaryConfitería, lugar donde venden dulces"
+      "Confectionary, candy Confitería, lugar donde venden dulces"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1203,
@@ -10952,7 +10970,7 @@
   {
     "kanji": "裸",
     "meanings": [
-      "Naked"
+      "Naked, Desnudo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1205,
@@ -10961,7 +10979,7 @@
   {
     "kanji": "斤",
     "meanings": [
-      "Ax"
+      "Ax, Remolacha , hacha"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1206,
@@ -10970,7 +10988,7 @@
   {
     "kanji": "析",
     "meanings": [
-      "Chop"
+      "Chop, Análisis, cortar"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1207,
@@ -10988,7 +11006,7 @@
   {
     "kanji": "祈",
     "meanings": [
-      "Pray"
+      "Pray, Orar"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1209,
@@ -10997,7 +11015,7 @@
   {
     "kanji": "近",
     "meanings": [
-      "Near"
+      "Near, cerca"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1210,
@@ -11006,7 +11024,7 @@
   {
     "kanji": "折",
     "meanings": [
-      "Fold"
+      "Fold, doblar , doblez"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1211,
@@ -11024,7 +11042,7 @@
   {
     "kanji": "逝",
     "meanings": [
-      "Departed"
+      "Departed,ya haber salido, ya haber hido"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1213,
@@ -11033,7 +11051,7 @@
   {
     "kanji": "誓",
     "meanings": [
-      "Vow"
+      "Vow, Voto - juramento"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1214,
@@ -11042,7 +11060,7 @@
   {
     "kanji": "斬",
     "meanings": [
-      "Chop Off"
+      "Chop Off, matar con espada/machete"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1215,
@@ -11051,7 +11069,7 @@
   {
     "kanji": "暫",
     "meanings": [
-      "Temporarily"
+      "Temporarily, Por un tiempo"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1216,
@@ -11060,7 +11078,7 @@
   {
     "kanji": "漸",
     "meanings": [
-      "Steadily"
+      "Steadily, gradualmente,&nbsp;poco a poco"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1217,
@@ -11069,7 +11087,7 @@
   {
     "kanji": "断",
     "meanings": [
-      "Severance"
+      "Severance,&nbsp;rechazar / negarse, 断る(kotowaru)"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1218,
@@ -11078,7 +11096,7 @@
   {
     "kanji": "質",
     "meanings": [
-      "Substance"
+      "Substance, Sustancia"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1219,
@@ -11087,7 +11105,7 @@
   {
     "kanji": "斥",
     "meanings": [
-      "Reject"
+      "Reject, Rechazar"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1220,
@@ -11141,7 +11159,7 @@
   {
     "kanji": "録",
     "meanings": [
-      "Record"
+      "Record, grabación"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1226,
@@ -11159,7 +11177,7 @@
   {
     "kanji": "尋",
     "meanings": [
-      "Inquire"
+      "Inquire, Preguntar"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1228,
@@ -11186,7 +11204,7 @@
   {
     "kanji": "侵",
     "meanings": [
-      "Encroach"
+      "Encroach, Invadir"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1231,
@@ -11195,7 +11213,7 @@
   {
     "kanji": "浸",
     "meanings": [
-      "Immersed"
+      "Immersed, Inmerso , remojo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1232,
@@ -11204,7 +11222,7 @@
   {
     "kanji": "寝",
     "meanings": [
-      "Lie Down"
+      "Lie Down, durmiente , Acostarse"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1233,
@@ -11213,7 +11231,7 @@
   {
     "kanji": "婦",
     "meanings": [
-      "Lady"
+      "Lady, dama"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1234,
@@ -11222,7 +11240,7 @@
   {
     "kanji": "掃",
     "meanings": [
-      "Sweep"
+      "\"Sweep, 辭典檢視- 教育部《國語辭典簡編本》2021\"\" src=\"\"images-cb14e23c06ab893320fda1f3cb5c0e58add34ddb.jpg\"\">\""
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1235,
@@ -11240,7 +11258,7 @@
   {
     "kanji": "彙",
     "meanings": [
-      "Glossary"
+      "Glossary, lista de palabras o términos especializados de un tema determinado, acompañados de su definición o explicación."
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1237,
@@ -11249,7 +11267,7 @@
   {
     "kanji": "争",
     "meanings": [
-      "Contend"
+      "Contend,&nbsp;&nbsp;Luchar por algo, competir"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1238,
@@ -11276,7 +11294,7 @@
   {
     "kanji": "唐",
     "meanings": [
-      "T’Ang"
+      "T’Ang,&nbsp;repentino, abrupto,dinastía Tang"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1241,
@@ -11294,7 +11312,7 @@
   {
     "kanji": "康",
     "meanings": [
-      "Sane"
+      "Sane, Sano"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1243,
@@ -11303,7 +11321,7 @@
   {
     "kanji": "逮",
     "meanings": [
-      "Apprehend"
+      "Apprehend, un detenido"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1244,
@@ -11321,7 +11339,7 @@
   {
     "kanji": "君",
     "meanings": [
-      "Old Boy"
+      "Old Boy, kimi"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1246,
@@ -11330,7 +11348,7 @@
   {
     "kanji": "群",
     "meanings": [
-      "Flock"
+      "Grupo , rebaño"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1247,
@@ -11339,7 +11357,7 @@
   {
     "kanji": "耐",
     "meanings": [
-      "\"#Name?\""
+      "Resistencia"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1248,
@@ -11357,7 +11375,7 @@
   {
     "kanji": "儒",
     "meanings": [
-      "Confucian"
+      "Confucian, confuciano, persona que estudia el confucionismo"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1250,
@@ -11366,7 +11384,7 @@
   {
     "kanji": "端",
     "meanings": [
-      "Edge"
+      "Edge, bordes de algo,"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1251,
@@ -11393,7 +11411,7 @@
   {
     "kanji": "画",
     "meanings": [
-      "Brush-Stroke"
+      "Brush-Stroke, pincelada"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1254,
@@ -11402,7 +11420,7 @@
   {
     "kanji": "歯",
     "meanings": [
-      "Tooth"
+      "Tooth, diente"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1255,
@@ -11411,7 +11429,7 @@
   {
     "kanji": "曲",
     "meanings": [
-      "Bend"
+      "\"Bend,pieza musical, doblar,\""
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1256,
@@ -11420,7 +11438,7 @@
   {
     "kanji": "曹",
     "meanings": [
-      "Cadet"
+      "sargento , cadete,, Comandante"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1257,
@@ -11429,7 +11447,7 @@
   {
     "kanji": "遭",
     "meanings": [
-      "Encounter"
+      "Encounter, encuentro"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1258,
@@ -11438,7 +11456,7 @@
   {
     "kanji": "漕",
     "meanings": [
-      "Rowing"
+      "Rowing, remo"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1259,
@@ -11447,7 +11465,7 @@
   {
     "kanji": "槽",
     "meanings": [
-      "Vat"
+      "cuenca , Tina"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1260,
@@ -11456,7 +11474,7 @@
   {
     "kanji": "斗",
     "meanings": [
-      "Big Dipper"
+      "Big Dipper, Osa Mayor"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1261,
@@ -11465,7 +11483,7 @@
   {
     "kanji": "料",
     "meanings": [
-      "Fee"
+      "Fee, Cuota , 無料(free)"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1262,
@@ -11501,7 +11519,7 @@
   {
     "kanji": "庸",
     "meanings": [
-      "Comfortable"
+      "Cómodo , confortable"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1266,
@@ -11519,7 +11537,7 @@
   {
     "kanji": "昔",
     "meanings": [
-      "Once Upon A Time"
+      "Once Upon A Time,むかし"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1268,
@@ -11537,7 +11555,7 @@
   {
     "kanji": "借",
     "meanings": [
-      "Borrow"
+      "Borrow, Préstamo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1270,
@@ -11546,7 +11564,7 @@
   {
     "kanji": "惜",
     "meanings": [
-      "Pity"
+      "Pity, lástima, pena"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1271,
@@ -11555,7 +11573,7 @@
   {
     "kanji": "措",
     "meanings": [
-      "Set Aside"
+      "Set Aside, dejar de lado"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1272,
@@ -11564,7 +11582,7 @@
   {
     "kanji": "散",
     "meanings": [
-      "Scatter"
+      "Scatter, Dispersión"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1273,
@@ -11582,7 +11600,7 @@
   {
     "kanji": "庶",
     "meanings": [
-      "Commoner"
+      "Commoner, Ordinario , Plebeyo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1275,
@@ -11591,7 +11609,7 @@
   {
     "kanji": "遮",
     "meanings": [
-      "Intercept"
+      "Intercept, obstrucción , Interceptar , Plebeyo en la calle"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1276,
@@ -11627,7 +11645,7 @@
   {
     "kanji": "奔",
     "meanings": [
-      "Bustle"
+      "Bustle, Bullicio , mucha bulla"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1280,
@@ -11645,7 +11663,7 @@
   {
     "kanji": "墳",
     "meanings": [
-      "Tomb"
+      "\"Tomb, Tumba,&nbsp;\""
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1282,
@@ -11654,7 +11672,7 @@
   {
     "kanji": "憤",
     "meanings": [
-      "Aroused"
+      "Aroused,&nbsp;: ira&nbsp;&nbsp;, resentimiento, enojo que hierve por dentro"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1283,
@@ -11672,7 +11690,7 @@
   {
     "kanji": "暁",
     "meanings": [
-      "Daybreak"
+      "Daybreak, Amanecer"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1285,
@@ -11690,7 +11708,7 @@
   {
     "kanji": "伴",
     "meanings": [
-      "Consort"
+      "Consort, perosna que es tu mitad"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1287,
@@ -11699,7 +11717,7 @@
   {
     "kanji": "畔",
     "meanings": [
-      "Paddy Ridge"
+      "Paddy Ridge, banco"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1288,
@@ -11708,7 +11726,7 @@
   {
     "kanji": "判",
     "meanings": [
-      "Judgment"
+      "Judgment, Juzgar , veredicto,Un veredicto es la decisión final que se da después de analizar un caso, especialmente en un juicio."
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1289,
@@ -11717,7 +11735,7 @@
   {
     "kanji": "拳",
     "meanings": [
-      "Fist"
+      "Fist, puño"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1290,
@@ -11762,7 +11780,7 @@
   {
     "kanji": "藤",
     "meanings": [
-      "Wisteria"
+      "Wisteria, glicina , enredadera"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1295,
@@ -11771,7 +11789,7 @@
   {
     "kanji": "謄",
     "meanings": [
-      "Facsimile"
+      "Facsimile, foto"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1296,
@@ -11780,7 +11798,7 @@
   {
     "kanji": "片",
     "meanings": [
-      "One-Sided"
+      "One-Sided, un lado"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1297,
@@ -11789,7 +11807,7 @@
   {
     "kanji": "版",
     "meanings": [
-      "Printing Block"
+      "Printing Block, Edición , bloque de impresión"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1298,
@@ -11798,7 +11816,7 @@
   {
     "kanji": "之",
     "meanings": [
-      "Of"
+      "Of, Este ,z, personaje z"
     ],
     "grade": 3,
     "freq_mainichi_shinbun": 1299,
@@ -11807,7 +11825,7 @@
   {
     "kanji": "乏",
     "meanings": [
-      "Destitution"
+      "Destitution,escasez, carencia, miseria extrema, carencia total de recursos básicos"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1300,
@@ -11816,7 +11834,7 @@
   {
     "kanji": "芝",
     "meanings": [
-      "Turf"
+      "Turf,césped / pasto fino, guerreros z lastimados"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1301,
@@ -11843,7 +11861,7 @@
   {
     "kanji": "杯",
     "meanings": [
-      "Cupfuls"
+      "Cupfuls,copa / vaso / taza 🍶"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1304,
@@ -11861,7 +11879,7 @@
   {
     "kanji": "矯",
     "meanings": [
-      "Rectify"
+      "Rectify, rectificar, corregir un error"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1306,
@@ -11870,7 +11888,7 @@
   {
     "kanji": "族",
     "meanings": [
-      "Tribe"
+      "Tribe, Tribu、家族（family）"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1307,
@@ -11888,7 +11906,7 @@
   {
     "kanji": "智",
     "meanings": [
-      "Wisdom"
+      "Wisdom,&nbsp;sabiduría"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1309,
@@ -11897,7 +11915,7 @@
   {
     "kanji": "挨",
     "meanings": [
-      "Shove"
+      "Shove, interactuar con un saludo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1310,
@@ -11906,7 +11924,7 @@
   {
     "kanji": "矛",
     "meanings": [
-      "Halberd"
+      "\"Halberd, lanza\""
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1311,
@@ -11915,7 +11933,7 @@
   {
     "kanji": "柔",
     "meanings": [
-      "Tender"
+      "Tender, 柔(や)らかい , Suave"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1312,
@@ -11933,7 +11951,7 @@
   {
     "kanji": "霧",
     "meanings": [
-      "Fog"
+      "Fog, niebla"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1314,
@@ -11951,7 +11969,7 @@
   {
     "kanji": "帰",
     "meanings": [
-      "Homecoming"
+      "Homecoming, Regreso a casa"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1316,
@@ -11978,7 +11996,7 @@
   {
     "kanji": "弔",
     "meanings": [
-      "Condolences"
+      "Condolences,&nbsp;Participar en un funeral,Dar el pésame"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1319,
@@ -11987,7 +12005,7 @@
   {
     "kanji": "弘",
     "meanings": [
-      "Vast"
+      "Vast,&nbsp;difundir, expandir"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1320,
@@ -12023,7 +12041,7 @@
   {
     "kanji": "溺",
     "meanings": [
-      "Drowning"
+      "Drowning, ahogo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1324,
@@ -12032,7 +12050,7 @@
   {
     "kanji": "沸",
     "meanings": [
-      "Seethe"
+      "Seethe, hervir"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1325,
@@ -12041,7 +12059,7 @@
   {
     "kanji": "費",
     "meanings": [
-      "Expense"
+      "Expense, Gastos"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1326,
@@ -12068,7 +12086,7 @@
   {
     "kanji": "巧",
     "meanings": [
-      "Adroit"
+      "Adroit, ingenioso, astuto. Hábil"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1329,
@@ -12086,7 +12104,7 @@
   {
     "kanji": "朽",
     "meanings": [
-      "Decay"
+      "Decay, deteriorado, degradar"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1331,
@@ -12095,7 +12113,7 @@
   {
     "kanji": "誇",
     "meanings": [
-      "Boast"
+      "Boast, orgullo , alarde"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1332,
@@ -12104,7 +12122,7 @@
   {
     "kanji": "顎",
     "meanings": [
-      "Chin"
+      "Chin, Barbilla"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1333,
@@ -12122,7 +12140,7 @@
   {
     "kanji": "与",
     "meanings": [
-      "Bestow"
+      "Bestow, to give something formally"
     ],
     "grade": 3,
     "freq_mainichi_shinbun": 1335,
@@ -12167,7 +12185,7 @@
   {
     "kanji": "老",
     "meanings": [
-      "Old Man"
+      "Old Man, cancelan por Viejo a una cuchara"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1340,
@@ -12176,7 +12194,7 @@
   {
     "kanji": "考",
     "meanings": [
-      "Consider"
+      "Consider, 考 (参考になる) se util, 考える(kangaeru) to think"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1341,
@@ -12221,7 +12239,7 @@
   {
     "kanji": "煮",
     "meanings": [
-      "Boil"
+      "Boil, Hervido , hervir"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1346,
@@ -12230,7 +12248,7 @@
   {
     "kanji": "著",
     "meanings": [
-      "Renowned"
+      "Renowned, alguien se lastimó"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1347,
@@ -12239,7 +12257,7 @@
   {
     "kanji": "箸",
     "meanings": [
-      "Chopsticks"
+      "Chopsticks, Palillos chinos"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1348,
@@ -12248,7 +12266,7 @@
   {
     "kanji": "署",
     "meanings": [
-      "Signature"
+      "Signature, firma"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1349,
@@ -12257,7 +12275,7 @@
   {
     "kanji": "暑",
     "meanings": [
-      "Sultry"
+      "Sultry, calor"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1350,
@@ -12266,7 +12284,7 @@
   {
     "kanji": "諸",
     "meanings": [
-      "Various"
+      "Various, varios"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1351,
@@ -12275,7 +12293,7 @@
   {
     "kanji": "猪",
     "meanings": [
-      "Boar"
+      "Boar, jabali, perro de alguien"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1352,
@@ -12284,7 +12302,7 @@
   {
     "kanji": "渚",
     "meanings": [
-      "Strand"
+      "Strand, orilla del mar, alguien se mojo, alguien con agua"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1353,
@@ -12293,7 +12311,7 @@
   {
     "kanji": "賭",
     "meanings": [
-      "Gamble"
+      "Gamble, apostar"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1354,
@@ -12302,7 +12320,7 @@
   {
     "kanji": "峡",
     "meanings": [
-      "Gorge"
+      "Gorge, Garganta"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1355,
@@ -12311,7 +12329,7 @@
   {
     "kanji": "狭",
     "meanings": [
-      "Cramped"
+      "Cramped, estrecho"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1356,
@@ -12320,7 +12338,7 @@
   {
     "kanji": "挟",
     "meanings": [
-      "Sandwiched"
+      "Sandwiched, emparedado"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1357,
@@ -12338,7 +12356,7 @@
   {
     "kanji": "追",
     "meanings": [
-      "Chase"
+      "Chase, Perseguir"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1359,
@@ -12347,7 +12365,7 @@
   {
     "kanji": "阜",
     "meanings": [
-      "Large Hill"
+      "Large Hill, gran colina"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1360,
@@ -12365,7 +12383,7 @@
   {
     "kanji": "帥",
     "meanings": [
-      "Commander"
+      "Commander, el da órdenes, Comandante"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1362,
@@ -12374,7 +12392,7 @@
   {
     "kanji": "官",
     "meanings": [
-      "BureaucratGobierno"
+      "BureaucratGobierno, persona con dos bocas y un sombrero"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1363,
@@ -12383,7 +12401,7 @@
   {
     "kanji": "棺",
     "meanings": [
-      "Coffin"
+      "Coffin, ataúd"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1364,
@@ -12410,7 +12428,7 @@
   {
     "kanji": "釜",
     "meanings": [
-      "Cauldron"
+      "Cauldron, Caldero / olla grande de metal"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1367,
@@ -12437,7 +12455,7 @@
   {
     "kanji": "較",
     "meanings": [
-      "Contrast"
+      "Contrast, contraste, comparación"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1370,
@@ -12473,7 +12491,7 @@
   {
     "kanji": "捉",
     "meanings": [
-      "Nab"
+      "Nab, coger, capturar, atrapar"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1374,
@@ -12491,7 +12509,7 @@
   {
     "kanji": "路",
     "meanings": [
-      "Path"
+      "Path、ruta足 = Leg"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1376,
@@ -12500,7 +12518,7 @@
   {
     "kanji": "露",
     "meanings": [
-      "Dew"
+      "Dew, rocío"
     ],
     "grade": 21,
     "freq_mainichi_shinbun": 1377,
@@ -12509,7 +12527,7 @@
   {
     "kanji": "跳",
     "meanings": [
-      "Hop"
+      "Hop, saltar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1378,
@@ -12518,7 +12536,7 @@
   {
     "kanji": "躍",
     "meanings": [
-      "Leap"
+      "Leap, saltos"
     ],
     "grade": 21,
     "freq_mainichi_shinbun": 1379,
@@ -12527,7 +12545,7 @@
   {
     "kanji": "践",
     "meanings": [
-      "Tread"
+      ", práctica"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1380,
@@ -12536,7 +12554,7 @@
   {
     "kanji": "踏",
     "meanings": [
-      "Step"
+      "Step, pasos"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1381,
@@ -12545,7 +12563,7 @@
   {
     "kanji": "踪",
     "meanings": [
-      "Trail"
+      "Trail, huella"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1382,
@@ -12554,7 +12572,7 @@
   {
     "kanji": "骨",
     "meanings": [
-      "Skeleton"
+      "Skeleton, skeleto, hueso"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1383,
@@ -12563,7 +12581,7 @@
   {
     "kanji": "滑",
     "meanings": [
-      "Slippery"
+      "Slippery, Resbaladizo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1384,
@@ -12572,7 +12590,7 @@
   {
     "kanji": "髄",
     "meanings": [
-      "Marrow"
+      "esencia, marrow , medula"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1385,
@@ -12581,7 +12599,7 @@
   {
     "kanji": "禍",
     "meanings": [
-      "Calamity"
+      "Calamity, calamidad,hecho muy grave y negativo que causa mucho daño, sufrimiento o pérdidas,desgracia"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1386,
@@ -12590,7 +12608,7 @@
   {
     "kanji": "渦",
     "meanings": [
-      "Whirlpool"
+      "Whirlpool, remolino"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1387,
@@ -12599,7 +12617,7 @@
   {
     "kanji": "鍋",
     "meanings": [
-      "Pot"
+      "\"Pot, olla, cacerola なべ\""
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1388,
@@ -12608,7 +12626,7 @@
   {
     "kanji": "過",
     "meanings": [
-      "Overdo"
+      "Overdo,&nbsp;exceder, ir mas alla, sobrehacer"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1389,
@@ -12617,7 +12635,7 @@
   {
     "kanji": "阪",
     "meanings": [
-      "Heights"
+      "Heights,cuesta, 大阪（osaka）"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1390,
@@ -12644,7 +12662,7 @@
   {
     "kanji": "障",
     "meanings": [
-      "Hinder"
+      "Hinder,Discapacidad, obstaculo"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1393,
@@ -12653,7 +12671,7 @@
   {
     "kanji": "隙",
     "meanings": [
-      "Chink"
+      "Chink, gap すき、punto débil"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1394,
@@ -12662,7 +12680,7 @@
   {
     "kanji": "随",
     "meanings": [
-      "Follow"
+      "Follow,seguir"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1395,
@@ -12671,7 +12689,7 @@
   {
     "kanji": "陪",
     "meanings": [
-      "Auxiliary"
+      "Auxiliary, Auxiliar, ayudante, te levantas y te comes a bob"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1396,
@@ -12680,7 +12698,7 @@
   {
     "kanji": "陽",
     "meanings": [
-      "Sunshine"
+      "Sunshine, sol"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1397,
@@ -12689,7 +12707,7 @@
   {
     "kanji": "陳",
     "meanings": [
-      "Line Up"
+      "Line Up, exponer , presentar [ideas]"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1398,
@@ -12698,7 +12716,7 @@
   {
     "kanji": "防",
     "meanings": [
-      "Ward Off"
+      "Ward Off, prevenir, evitar"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1399,
@@ -12707,7 +12725,7 @@
   {
     "kanji": "附",
     "meanings": [
-      "Affixed"
+      "Affixed, anexar,adjuntar, agregar, añadir"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1400,
@@ -12716,7 +12734,7 @@
   {
     "kanji": "院",
     "meanings": [
-      "Inst."
+      "Inst., hospital"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1401,
@@ -12725,7 +12743,7 @@
   {
     "kanji": "陣",
     "meanings": [
-      "Camp"
+      "Camp, campamento militar, campamento, el carro de bob"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1402,
@@ -12734,7 +12752,7 @@
   {
     "kanji": "隊",
     "meanings": [
-      "Regiment"
+      "Regiment, unidad organizada, Bob tiene un cerdo"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1403,
@@ -12743,7 +12761,7 @@
   {
     "kanji": "墜",
     "meanings": [
-      "Crash"
+      "Crash, estrellarse"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1404,
@@ -12761,7 +12779,7 @@
   {
     "kanji": "階",
     "meanings": [
-      "Story"
+      "Story, escalon, escalon de escalera"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1406,
@@ -12770,7 +12788,7 @@
   {
     "kanji": "陛",
     "meanings": [
-      "Highness"
+      "Highness, Su Majestad"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1407,
@@ -12779,7 +12797,7 @@
   {
     "kanji": "隣",
     "meanings": [
-      "Neighboring"
+      "Neighboring, となり、Vecino"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1408,
@@ -12788,7 +12806,7 @@
   {
     "kanji": "隔",
     "meanings": [
-      "Isolate"
+      "Isolate, aislar , apartar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1409,
@@ -12797,7 +12815,7 @@
   {
     "kanji": "隠",
     "meanings": [
-      "Conceal"
+      "Oculto , ocultar"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1410,
@@ -12806,7 +12824,7 @@
   {
     "kanji": "堕",
     "meanings": [
-      "Degenerate"
+      "Degenerate, deteriodo, una pérdida de dignidad, orden o pureza"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1411,
@@ -12815,7 +12833,7 @@
   {
     "kanji": "陥",
     "meanings": [
-      "Collapse"
+      "Collapse, caer"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1412,
@@ -12842,7 +12860,7 @@
   {
     "kanji": "控",
     "meanings": [
-      "Withdraw"
+      "Withdraw, retirar"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1415,
@@ -12860,7 +12878,7 @@
   {
     "kanji": "究",
     "meanings": [
-      "Research"
+      "Research, investigación"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1417,
@@ -12869,7 +12887,7 @@
   {
     "kanji": "窒",
     "meanings": [
-      "Plug Up"
+      "Plug Tapar"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1418,
@@ -12878,7 +12896,7 @@
   {
     "kanji": "窃",
     "meanings": [
-      "Stealth"
+      "Stealth, sigilo , robo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1419,
@@ -12887,7 +12905,7 @@
   {
     "kanji": "窟",
     "meanings": [
-      "Cavern"
+      "Cavern, Caverna , cueva"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1420,
@@ -12914,7 +12932,7 @@
   {
     "kanji": "窯",
     "meanings": [
-      "Kiln"
+      "Kiln, Horno"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1423,
@@ -12923,7 +12941,7 @@
   {
     "kanji": "窮",
     "meanings": [
-      "Hard Up"
+      "Hard Up, silencio"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1424,
@@ -12932,7 +12950,7 @@
   {
     "kanji": "探",
     "meanings": [
-      "Grope"
+      "Grope ir a tiendas, ir ql mercado , buscar, 探す(sagasu)"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1425,
@@ -12941,7 +12959,7 @@
   {
     "kanji": "深",
     "meanings": [
-      "Deep"
+      "Deep, profundo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1426,
@@ -12950,7 +12968,7 @@
   {
     "kanji": "丘",
     "meanings": [
-      "Hill"
+      "Hill, Colina , silent hill"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1427,
@@ -12959,7 +12977,7 @@
   {
     "kanji": "岳",
     "meanings": [
-      "Point"
+      "Point, montaña"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1428,
@@ -12968,7 +12986,7 @@
   {
     "kanji": "兵",
     "meanings": [
-      "Soldier"
+      "Soldier, militar"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1429,
@@ -12977,7 +12995,7 @@
   {
     "kanji": "浜",
     "meanings": [
-      "Seacoast"
+      "Seacoast, orilla de la playa, costa del mar, militar en el agua/mar"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1430,
@@ -12995,7 +13013,7 @@
   {
     "kanji": "織",
     "meanings": [
-      "Weave"
+      "Weave, tejer"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1432,
@@ -13004,7 +13022,7 @@
   {
     "kanji": "繕",
     "meanings": [
-      "Darning"
+      "Darning, reparar"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1433,
@@ -13013,7 +13031,7 @@
   {
     "kanji": "縮",
     "meanings": [
-      "Shrink"
+      "Shrink, reducción, hacerse mas pequeño"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1434,
@@ -13022,7 +13040,7 @@
   {
     "kanji": "繁",
     "meanings": [
-      "Luxuriant"
+      "Luxuriant, muy frecuente, muy activo"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1435,
@@ -13031,7 +13049,7 @@
   {
     "kanji": "縦",
     "meanings": [
-      "Vertical"
+      "Vertical, el acompañante de spiderman"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1436,
@@ -13040,7 +13058,7 @@
   {
     "kanji": "緻",
     "meanings": [
-      "Fine"
+      "Fine, muy bien elaborado"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1437,
@@ -13058,7 +13076,7 @@
   {
     "kanji": "綻",
     "meanings": [
-      "Come Apart At The Seams"
+      "Come Apart At The Seams, deshacerse en las costuras , abrirse una costura, deshilar"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1439,
@@ -13067,7 +13085,7 @@
   {
     "kanji": "締",
     "meanings": [
-      "Tighten"
+      "Tighten, apretar"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1440,
@@ -13076,7 +13094,7 @@
   {
     "kanji": "維",
     "meanings": [
-      "Fiber"
+      "\"Fiber, fibra,&nbsp;\""
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1441,
@@ -13085,7 +13103,7 @@
   {
     "kanji": "羅",
     "meanings": [
-      "Gauze"
+      "Gauze, malla"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1442,
@@ -13094,7 +13112,7 @@
   {
     "kanji": "練",
     "meanings": [
-      "Practice"
+      "Practice, practicar"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1443,
@@ -13103,7 +13121,7 @@
   {
     "kanji": "緒",
     "meanings": [
-      "Thong"
+      "Thong, juntos,&nbsp;&nbsp;一緒（いっしょ）someone Y Spiderman"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1444,
@@ -13130,7 +13148,7 @@
   {
     "kanji": "統",
     "meanings": [
-      "OverallEn general"
+      "OverallEn general, 伝統（でんとう） – tradición"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1447,
@@ -13193,7 +13211,7 @@
   {
     "kanji": "紀",
     "meanings": [
-      "Chronicle"
+      "Chronicle.&nbsp;un relato de hechos reales contados en el orden en que ocurrieron, normalmente con contexto y detalles"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1454,
@@ -13202,7 +13220,7 @@
   {
     "kanji": "紅",
     "meanings": [
-      "Crimson"
+      "Crimson,&nbsp;lápiz labial rojo, carmesi(rojo)"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1455,
@@ -13211,7 +13229,7 @@
   {
     "kanji": "納",
     "meanings": [
-      "Settlement"
+      "Settlement,entregado,&nbsp;lo entregado es recibido"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1456,
@@ -13220,7 +13238,7 @@
   {
     "kanji": "紡",
     "meanings": [
-      "Spinning"
+      "Spinning,entrelazar ideas."
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1457,
@@ -13229,7 +13247,7 @@
   {
     "kanji": "紛",
     "meanings": [
-      "Distract"
+      "Distract,&nbsp;distraerse,&nbsp;desenredar la mente/ideas"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1458,
@@ -13247,7 +13265,7 @@
   {
     "kanji": "経",
     "meanings": [
-      "Sūtra"
+      "Sūtra, 経つ&nbsp;(たつ /&nbsp;tatsu)&nbsp;(v5t,vi)&nbsp;pasar ◆ transcurrir"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1460,
@@ -13256,7 +13274,7 @@
   {
     "kanji": "紳",
     "meanings": [
-      "Sire"
+      "Sire, Sir, señor, caballero"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1461,
@@ -13274,7 +13292,7 @@
   {
     "kanji": "細",
     "meanings": [
-      "Dainty"
+      "Dainty,&nbsp;delicado,&nbsp;fine"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1463,
@@ -13292,7 +13310,7 @@
   {
     "kanji": "索",
     "meanings": [
-      "Cord"
+      "Cord, Cordon"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1465,
@@ -13301,7 +13319,7 @@
   {
     "kanji": "総",
     "meanings": [
-      "General"
+      "General,&nbsp;todo ,conjunto , totalizar, Spiderman ofrece su corazón al público"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1466,
@@ -13310,7 +13328,7 @@
   {
     "kanji": "綿",
     "meanings": [
-      "Cotton"
+      "Cotton, algodón"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1467,
@@ -13319,7 +13337,7 @@
   {
     "kanji": "絹",
     "meanings": [
-      "Silk"
+      "Silk, seda"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1468,
@@ -13328,7 +13346,7 @@
   {
     "kanji": "繰",
     "meanings": [
-      "Winding"
+      "Winding, dar vueltas, rebobinar、revolver"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1469,
@@ -13337,7 +13355,7 @@
   {
     "kanji": "継",
     "meanings": [
-      "Inherit"
+      "Inherit, heredar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1470,
@@ -13346,7 +13364,7 @@
   {
     "kanji": "緑",
     "meanings": [
-      "Green"
+      "Green, verde"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1471,
@@ -13355,7 +13373,7 @@
   {
     "kanji": "縁",
     "meanings": [
-      "Affinity"
+      "Affinity,&nbsp;destino,&nbsp;lo que nos une, lazos, punto en común"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1472,
@@ -13364,7 +13382,7 @@
   {
     "kanji": "網",
     "meanings": [
-      "Netting"
+      "Netting, red"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1473,
@@ -13373,7 +13391,7 @@
   {
     "kanji": "緊",
     "meanings": [
-      "Tense"
+      "Tense, tenso"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1474,
@@ -13382,7 +13400,7 @@
   {
     "kanji": "紫",
     "meanings": [
-      "Purple"
+      "Purple, purpura, morado"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1475,
@@ -13391,7 +13409,7 @@
   {
     "kanji": "縛",
     "meanings": [
-      "Truss"
+      "Truss,&nbsp;atar, amarrar"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1476,
@@ -13400,7 +13418,7 @@
   {
     "kanji": "縄",
     "meanings": [
-      "Straw Rope"
+      "\"Straw Rope,cuerda hecha de fibras naturales\""
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1477,
@@ -13409,7 +13427,7 @@
   {
     "kanji": "幼",
     "meanings": [
-      "Infancy"
+      "Infancy, infancia"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1478,
@@ -13418,7 +13436,7 @@
   {
     "kanji": "後",
     "meanings": [
-      "Behind"
+      "Behind, atras"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1479,
@@ -13427,7 +13445,7 @@
   {
     "kanji": "幽",
     "meanings": [
-      "Faint"
+      "Faint, debil,&nbsp; casi imperceptible,"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1480,
@@ -13436,7 +13454,7 @@
   {
     "kanji": "幾",
     "meanings": [
-      "How Many"
+      "How Many, cuantos, varios, algunos"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1481,
@@ -13445,7 +13463,7 @@
   {
     "kanji": "機",
     "meanings": [
-      "Mechanism"
+      "Mechanism, mecanismo"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1482,
@@ -13454,7 +13472,7 @@
   {
     "kanji": "畿",
     "meanings": [
-      "Capital Suburbs"
+      "Capital Suburbs, suburbios de la capital,&nbsp; la región central alrededor de la capital."
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1483,
@@ -13472,7 +13490,7 @@
   {
     "kanji": "畜",
     "meanings": [
-      "Livestock"
+      "Livestock,&nbsp;tener bajo control,&nbsp;domésticos"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1485,
@@ -13481,7 +13499,7 @@
   {
     "kanji": "蓄",
     "meanings": [
-      "Amass"
+      "Amass,&nbsp;Acumular,&nbsp;acumular, guardar, reservar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1486,
@@ -13490,7 +13508,7 @@
   {
     "kanji": "弦",
     "meanings": [
-      "Bowstring"
+      "Bowstring,&nbsp;cuerda (instrumento)"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1487,
@@ -13499,7 +13517,7 @@
   {
     "kanji": "擁",
     "meanings": [
-      "Hug"
+      "Hug, abrazo"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1488,
@@ -13508,7 +13526,7 @@
   {
     "kanji": "滋",
     "meanings": [
-      "Nourishing"
+      "Nourishing, Nutrición , Nutritivo"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1489,
@@ -13517,7 +13535,7 @@
   {
     "kanji": "慈",
     "meanings": [
-      "Mercy"
+      "Mercy, piedad, compasión , corazón de una araña"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1490,
@@ -13544,7 +13562,7 @@
   {
     "kanji": "係",
     "meanings": [
-      "Person In Charge"
+      "Person In Charge, perosona a cargo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1493,
@@ -13553,7 +13571,7 @@
   {
     "kanji": "孫",
     "meanings": [
-      "Grandchild"
+      "Grandchild, nieto"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1494,
@@ -13562,7 +13580,7 @@
   {
     "kanji": "懸",
     "meanings": [
-      "Suspend"
+      "Suspend, estar suspendido haciendo dominadas"
     ],
     "grade": 20,
     "freq_mainichi_shinbun": 1495,
@@ -13571,7 +13589,7 @@
   {
     "kanji": "遜",
     "meanings": [
-      "Modest"
+      "Modest,modesto, humilde"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1496,
@@ -13580,7 +13598,7 @@
   {
     "kanji": "却",
     "meanings": [
-      "Instead"
+      "Instead, al contrario, rather"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1497,
@@ -13589,7 +13607,7 @@
   {
     "kanji": "脚",
     "meanings": [
-      "Shins"
+      "Shins, leg"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1498,
@@ -13598,7 +13616,7 @@
   {
     "kanji": "卸",
     "meanings": [
-      "Wholesale"
+      "Wholesale,&nbsp;vender al por mayor, venta mayorista"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1499,
@@ -13607,7 +13625,7 @@
   {
     "kanji": "御",
     "meanings": [
-      "Honorable"
+      "Honorable, honorable"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1500,
@@ -13616,7 +13634,7 @@
   {
     "kanji": "服",
     "meanings": [
-      "Clothing"
+      "Clothing, Ropa"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1501,
@@ -13643,7 +13661,7 @@
   {
     "kanji": "零",
     "meanings": [
-      "Zero"
+      "Zero, Cero, 0"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1504,
@@ -13652,7 +13670,7 @@
   {
     "kanji": "齢",
     "meanings": [
-      "Age"
+      "Age, edad"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1505,
@@ -13670,7 +13688,7 @@
   {
     "kanji": "領",
     "meanings": [
-      "Jurisdiction"
+      "Jurisdiction,&nbsp;&nbsp;Jurisdiction es la autoridad legal para aplicar la ley y tomar decisiones sobre un asunto en un lugar o ámbito determinado."
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1507,
@@ -13679,7 +13697,7 @@
   {
     "kanji": "鈴",
     "meanings": [
-      "Small Bell"
+      "Small Bell, campana pequeña"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1508,
@@ -13688,7 +13706,7 @@
   {
     "kanji": "勇",
     "meanings": [
-      "Courage"
+      "Courage, hero, brave, man of valour、男(main)"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1509,
@@ -13697,7 +13715,7 @@
   {
     "kanji": "湧",
     "meanings": [
-      "Bubble Up"
+      "Bubble Up, surgir, brotar, emanar, emerger"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1510,
@@ -13715,7 +13733,7 @@
   {
     "kanji": "踊",
     "meanings": [
-      "Jump"
+      "Jump, dance, saltar"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1512,
@@ -13724,7 +13742,7 @@
   {
     "kanji": "疑",
     "meanings": [
-      "Doubt"
+      "Doubt, dudar, sospechar"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1513,
@@ -13733,7 +13751,7 @@
   {
     "kanji": "擬",
     "meanings": [
-      "Mimic"
+      "Mimic, imitar"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1514,
@@ -13742,7 +13760,7 @@
   {
     "kanji": "凝",
     "meanings": [
-      "Congeal"
+      "Congela, Congelar"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1515,
@@ -13751,7 +13769,7 @@
   {
     "kanji": "範",
     "meanings": [
-      "Pattern"
+      "Pattern, patron"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1516,
@@ -13760,7 +13778,7 @@
   {
     "kanji": "犯",
     "meanings": [
-      "Crime"
+      "Crime, crimen"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1517,
@@ -13769,7 +13787,7 @@
   {
     "kanji": "氾",
     "meanings": [
-      "Widespread"
+      "Widespread,&nbsp;desbordarse / inundar / abundar en exceso"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1518,
@@ -13787,7 +13805,7 @@
   {
     "kanji": "危",
     "meanings": [
-      "Dangerous"
+      "Dangerous, peligroso"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1520,
@@ -13796,7 +13814,7 @@
   {
     "kanji": "宛",
     "meanings": [
-      "Address"
+      "Address dirección"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1521,
@@ -13805,7 +13823,7 @@
   {
     "kanji": "腕",
     "meanings": [
-      "Arm"
+      "\"Arm\""
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1522,
@@ -13823,7 +13841,7 @@
   {
     "kanji": "怨",
     "meanings": [
-      "Grudge"
+      "Grudge, rencor,怨む(uramu) más profundo, oscuro o dramático"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1524,
@@ -13832,7 +13850,7 @@
   {
     "kanji": "柳",
     "meanings": [
-      "Willow"
+      "Willow, salsa"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1525,
@@ -13850,7 +13868,7 @@
   {
     "kanji": "留",
     "meanings": [
-      "Detain"
+      "Detain, extranjero"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1527,
@@ -13859,7 +13877,7 @@
   {
     "kanji": "瑠",
     "meanings": [
-      "Marine Blue"
+      "Marine Blue, azul marino"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1528,
@@ -13868,7 +13886,7 @@
   {
     "kanji": "貿",
     "meanings": [
-      "Trade"
+      "Trade, intercambio,comerciar"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1529,
@@ -13877,7 +13895,7 @@
   {
     "kanji": "印",
     "meanings": [
-      "Stamp"
+      "\"Stamp, estampa,sello\""
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1530,
@@ -13886,7 +13904,7 @@
   {
     "kanji": "臼",
     "meanings": [
-      "Mortar"
+      "\"Mortar,recipiente donde se machacan granos o semillas con una mano o mazo,\""
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1531,
@@ -13904,7 +13922,7 @@
   {
     "kanji": "興",
     "meanings": [
-      "Entertain"
+      "Entertain, entretener"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1533,
@@ -13931,7 +13949,7 @@
   {
     "kanji": "酌",
     "meanings": [
-      "Bartending"
+      "\"Bartending,servir alcohol, repartir vino\""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1536,
@@ -13940,7 +13958,7 @@
   {
     "kanji": "酎",
     "meanings": [
-      "Hooch"
+      "Hoochm licor fuerte, medir licor"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1537,
@@ -13967,7 +13985,7 @@
   {
     "kanji": "酬",
     "meanings": [
-      "Repay"
+      "Repay,&nbsp;recompensar, retribuir, compensar o pagar un favor"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1540,
@@ -13976,7 +13994,7 @@
   {
     "kanji": "酪",
     "meanings": [
-      "Dairy Products"
+      "Dairy Products,&nbsp;lácteo, productos provenientes de la leche"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1541,
@@ -13985,7 +14003,7 @@
   {
     "kanji": "酢",
     "meanings": [
-      "Vinegar"
+      "Vinegar, vinagre"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1542,
@@ -14021,7 +14039,7 @@
   {
     "kanji": "猶",
     "meanings": [
-      "Waver"
+      "Waver, Vacilar, posdata"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1546,
@@ -14030,7 +14048,7 @@
   {
     "kanji": "尊",
     "meanings": [
-      "Revered"
+      "Revered, venerar, respetar,valorar, dignidad"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1547,
@@ -14075,7 +14093,7 @@
   {
     "kanji": "豊",
     "meanings": [
-      "Bountiful"
+      "Bountiful,&nbsp;buena cosecha"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1551,
@@ -14084,7 +14102,7 @@
   {
     "kanji": "鼓",
     "meanings": [
-      "Drum"
+      "Drum, tambor"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1552,
@@ -14093,7 +14111,7 @@
   {
     "kanji": "喜",
     "meanings": [
-      "Rejoice"
+      "Rejoice,comedia"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1553,
@@ -14102,7 +14120,7 @@
   {
     "kanji": "樹",
     "meanings": [
-      "Timber-Trees"
+      "Timber-Trees, arbol grande, gran arbol"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1554,
@@ -14129,7 +14147,7 @@
   {
     "kanji": "盆",
     "meanings": [
-      "Basin"
+      "Basin,bandeja, recipiente"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1557,
@@ -14138,7 +14156,7 @@
   {
     "kanji": "盟",
     "meanings": [
-      "Alliance"
+      "Alliance, alianza, pacto"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1558,
@@ -14156,7 +14174,7 @@
   {
     "kanji": "温",
     "meanings": [
-      "Warm"
+      "Warm, calido"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1560,
@@ -14165,7 +14183,7 @@
   {
     "kanji": "蓋",
     "meanings": [
-      "Lid"
+      "Lid, tapar, tapa"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1561,
@@ -14174,7 +14192,7 @@
   {
     "kanji": "監",
     "meanings": [
-      "Oversee"
+      "Oversee,supervisar,vigilar,inspeccionar"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1562,
@@ -14183,7 +14201,7 @@
   {
     "kanji": "濫",
     "meanings": [
-      "Overflow"
+      "Overflow,&nbsp;algo que se sale de control y se derrama"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1563,
@@ -14192,7 +14210,7 @@
   {
     "kanji": "鑑",
     "meanings": [
-      "Specimen"
+      "Specimen,espejo"
     ],
     "grade": 23,
     "freq_mainichi_shinbun": 1564,
@@ -14201,7 +14219,7 @@
   {
     "kanji": "藍",
     "meanings": [
-      "Indigo"
+      "Indigo,índigo(azul), vigilar la herida"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1565,
@@ -14210,7 +14228,7 @@
   {
     "kanji": "猛",
     "meanings": [
-      "Fierce"
+      "Fierce, feroz,salvaje"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1566,
@@ -14237,7 +14255,7 @@
   {
     "kanji": "銀",
     "meanings": [
-      "Silver"
+      "Silver, plata"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1569,
@@ -14264,7 +14282,7 @@
   {
     "kanji": "即",
     "meanings": [
-      "Instant"
+      "Instant, instante, enseguida, inmedatamente"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1572,
@@ -14273,7 +14291,7 @@
   {
     "kanji": "爵",
     "meanings": [
-      "Baron"
+      "Baron,Distinción honorífica, príncipe"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1573,
@@ -14282,7 +14300,7 @@
   {
     "kanji": "節",
     "meanings": [
-      "Node"
+      "Node, nodo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1574,
@@ -14291,7 +14309,7 @@
   {
     "kanji": "退",
     "meanings": [
-      "Retreat"
+      "Retreat,retroceder, retirarse"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1575,
@@ -14327,7 +14345,7 @@
   {
     "kanji": "朗",
     "meanings": [
-      "Melodious"
+      "Melodious, claridad, voz clara, sonido/voz clara,cada mes es bueno"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1579,
@@ -14336,7 +14354,7 @@
   {
     "kanji": "浪",
     "meanings": [
-      "Wandering"
+      "Wandering, vagabundo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1580,
@@ -14345,7 +14363,7 @@
   {
     "kanji": "娘",
     "meanings": [
-      "Daughter"
+      "Daughter, hija"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1581,
@@ -14381,7 +14399,7 @@
   {
     "kanji": "飢",
     "meanings": [
-      "Hungry"
+      "Hungry, hambriento"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1585,
@@ -14390,7 +14408,7 @@
   {
     "kanji": "餓",
     "meanings": [
-      "Starve"
+      "Starve, hambre extrema"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1586,
@@ -14399,7 +14417,7 @@
   {
     "kanji": "飾",
     "meanings": [
-      "Decorate"
+      "Decorate, decorar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1587,
@@ -14408,7 +14426,7 @@
   {
     "kanji": "餌",
     "meanings": [
-      "Feed"
+      "Feed, cebo, alimento para animales"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1588,
@@ -14417,7 +14435,7 @@
   {
     "kanji": "館",
     "meanings": [
-      "Bldg."
+      "Bldg.Edificio,building, construccion(edificio)"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1589,
@@ -14426,7 +14444,7 @@
   {
     "kanji": "餅",
     "meanings": [
-      "Mochi"
+      "Mochi,Pastel de arroz"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1590,
@@ -14435,7 +14453,7 @@
   {
     "kanji": "養",
     "meanings": [
-      "Foster"
+      "Foster, alimentar y criar un animal, cuidar un animal"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1591,
@@ -14453,7 +14471,7 @@
   {
     "kanji": "既",
     "meanings": [
-      "Previously"
+      "ya / ya anteriormente"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1593,
@@ -14462,16 +14480,16 @@
   {
     "kanji": "概",
     "meanings": [
-      "Outline"
+      "resumen, outline"
     ],
-    "grade": 14,
-    "freq_mainichi_shinbun": 1594,
-    "jlpt": 38
+    "grade": null,
+    "freq_mainichi_shinbun": 14,
+    "jlpt": 1594
   },
   {
     "kanji": "慨",
     "meanings": [
-      "Rue"
+      "Rue, yo ya estoy ocupado"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1595,
@@ -14480,7 +14498,7 @@
   {
     "kanji": "平",
     "meanings": [
-      "Even"
+      "Even, par"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1596,
@@ -14489,7 +14507,7 @@
   {
     "kanji": "呼",
     "meanings": [
-      "Call"
+      "Call, llamada"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1597,
@@ -14498,7 +14516,7 @@
   {
     "kanji": "坪",
     "meanings": [
-      "Two-Mat Area"
+      "Two-Mat Area,lote, superficie de terreno"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1598,
@@ -14507,7 +14525,7 @@
   {
     "kanji": "評",
     "meanings": [
-      "Evaluate"
+      "Evaluate, evaluar"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1599,
@@ -14516,7 +14534,7 @@
   {
     "kanji": "刈",
     "meanings": [
-      "Reap"
+      "Reap, podar"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1600,
@@ -14525,7 +14543,7 @@
   {
     "kanji": "刹",
     "meanings": [
-      "Moment"
+      "Moment, momento"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1601,
@@ -14534,7 +14552,7 @@
   {
     "kanji": "希",
     "meanings": [
-      "Hope"
+      "Hope, esperanza"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1602,
@@ -14552,7 +14570,7 @@
   {
     "kanji": "胸",
     "meanings": [
-      "Bosom"
+      "Bosom, pecho"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1604,
@@ -14579,7 +14597,7 @@
   {
     "kanji": "殺",
     "meanings": [
-      "Kill"
+      "Kill, matar"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1607,
@@ -14588,7 +14606,7 @@
   {
     "kanji": "爽",
     "meanings": [
-      "Bracing"
+      "Bracing,refrescante,&nbsp;Agradable"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1608,
@@ -14597,7 +14615,7 @@
   {
     "kanji": "純",
     "meanings": [
-      "Genuine"
+      "Genuine, genuino"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1609,
@@ -14606,7 +14624,7 @@
   {
     "kanji": "頓",
     "meanings": [
-      "Immediate"
+      "Immediate, inmediato"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1610,
@@ -14615,7 +14633,7 @@
   {
     "kanji": "鈍",
     "meanings": [
-      "Dull"
+      "Dull, torpe-Lento"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1611,
@@ -14633,7 +14651,7 @@
   {
     "kanji": "辞",
     "meanings": [
-      "Resign"
+      "Resign, renunciar a un cargo&nbsp;"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1613,
@@ -14642,7 +14660,7 @@
   {
     "kanji": "梓",
     "meanings": [
-      "Catalpa"
+      "Catalpa, publicar novelaarbol qué da frutos picantes"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1614,
@@ -14651,7 +14669,7 @@
   {
     "kanji": "宰",
     "meanings": [
-      "Superintend"
+      "Superintendent, Director"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1615,
@@ -14660,7 +14678,7 @@
   {
     "kanji": "壁",
     "meanings": [
-      "Wall"
+      "Wall, pared"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1616,
@@ -14669,7 +14687,7 @@
   {
     "kanji": "璧",
     "meanings": [
-      "Holed Gem"
+      "Holed Gem, 完璧(canpeki),gema/bola sin fisuras , bola sin imperfecciones"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1617,
@@ -14678,7 +14696,7 @@
   {
     "kanji": "避",
     "meanings": [
-      "Evade"
+      "Evade, evadir , avoid"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1618,
@@ -14687,7 +14705,7 @@
   {
     "kanji": "新",
     "meanings": [
-      "New"
+      "New, nuevo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1619,
@@ -14696,7 +14714,7 @@
   {
     "kanji": "薪",
     "meanings": [
-      "Firewood"
+      "Firewood, leña, madera para quemar"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1620,
@@ -14705,7 +14723,7 @@
   {
     "kanji": "親",
     "meanings": [
-      "Parent"
+      "Parent, padre"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1621,
@@ -14723,7 +14741,7 @@
   {
     "kanji": "執",
     "meanings": [
-      "Tenacious"
+      "Tenacious, obsitnado, peristir"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1623,
@@ -14732,7 +14750,7 @@
   {
     "kanji": "摯",
     "meanings": [
-      "Clasp"
+      "Clasp, corazon sincero, buen corazón"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1624,
@@ -14741,7 +14759,7 @@
   {
     "kanji": "報",
     "meanings": [
-      "Report"
+      "Report, reporte, noticia"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1625,
@@ -14750,7 +14768,7 @@
   {
     "kanji": "叫",
     "meanings": [
-      "Shout"
+      "\"Shout,\""
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1626,
@@ -14759,7 +14777,7 @@
   {
     "kanji": "糾",
     "meanings": [
-      "Twist"
+      "Twist, interrogar"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1627,
@@ -14777,7 +14795,7 @@
   {
     "kanji": "卑",
     "meanings": [
-      "Lowly"
+      "Lowly, cobarde, menospreciarse a si mismo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1629,
@@ -14786,7 +14804,7 @@
   {
     "kanji": "碑",
     "meanings": [
-      "Tombstone"
+      "Tombstone, monumento"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1630,
@@ -14795,7 +14813,7 @@
   {
     "kanji": "陸",
     "meanings": [
-      "Land"
+      "Land, continente"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1631,
@@ -14804,7 +14822,7 @@
   {
     "kanji": "睦",
     "meanings": [
-      "Intimate"
+      "Intimate, intimidad"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1632,
@@ -14813,7 +14831,7 @@
   {
     "kanji": "勢",
     "meanings": [
-      "Forces"
+      "Forces, fuerza"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1633,
@@ -14822,7 +14840,7 @@
   {
     "kanji": "熱",
     "meanings": [
-      "Heat"
+      "Heat, fiebre"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1634,
@@ -14831,7 +14849,7 @@
   {
     "kanji": "菱",
     "meanings": [
-      "Diamond"
+      "Diamond, diamante"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1635,
@@ -14840,7 +14858,7 @@
   {
     "kanji": "陵",
     "meanings": [
-      "Mausoleum"
+      "Mausoleum, cerro"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1636,
@@ -14849,7 +14867,7 @@
   {
     "kanji": "亥",
     "meanings": [
-      "Sign of The Hog"
+      "Sign of The Hog,&nbsp;signo del cerdo, signo del jabali, jabalí / cerdo (zodiaco chino)&nbsp;"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1637,
@@ -14858,7 +14876,7 @@
   {
     "kanji": "核",
     "meanings": [
-      "Nucleus"
+      "Nucleus, nucleo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1638,
@@ -14867,7 +14885,7 @@
   {
     "kanji": "刻",
     "meanings": [
-      "Engrave"
+      "Engrave, cortar en pedazos"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1639,
@@ -14876,7 +14894,7 @@
   {
     "kanji": "該",
     "meanings": [
-      "Above-Stated"
+      "Above-Stated, aplicado a.., correspondiente a., el del signo del jabali habla"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1640,
@@ -14885,7 +14903,7 @@
   {
     "kanji": "骸",
     "meanings": [
-      "Remains"
+      "Remains, cadaver, restos de un cadaver"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1641,
@@ -14894,7 +14912,7 @@
   {
     "kanji": "劾",
     "meanings": [
-      "Censure"
+      "Censure, censura"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1642,
@@ -14903,7 +14921,7 @@
   {
     "kanji": "述",
     "meanings": [
-      "Mention"
+      "Mention, mencion"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1643,
@@ -14912,7 +14930,7 @@
   {
     "kanji": "術",
     "meanings": [
-      "Art"
+      "Art, arte"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1644,
@@ -14921,7 +14939,7 @@
   {
     "kanji": "寒",
     "meanings": [
-      "Cold"
+      "Cold, frio"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1645,
@@ -14930,7 +14948,7 @@
   {
     "kanji": "塞",
     "meanings": [
-      "Block Up"
+      "Block Up, bloqueado"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1646,
@@ -14939,7 +14957,7 @@
   {
     "kanji": "醸",
     "meanings": [
-      "Brew"
+      "Brew, cerveza"
     ],
     "grade": 20,
     "freq_mainichi_shinbun": 1647,
@@ -14948,7 +14966,7 @@
   {
     "kanji": "譲",
     "meanings": [
-      "Defer"
+      "Defer, renunciar"
     ],
     "grade": 20,
     "freq_mainichi_shinbun": 1648,
@@ -14957,7 +14975,7 @@
   {
     "kanji": "壌",
     "meanings": [
-      "Lot"
+      "Lot, tierra fertil"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1649,
@@ -14966,7 +14984,7 @@
   {
     "kanji": "嬢",
     "meanings": [
-      "Lass"
+      "Lass, mujer de familia acomodad"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1650,
@@ -14975,7 +14993,7 @@
   {
     "kanji": "毒",
     "meanings": [
-      "Poison"
+      "Poison, veneno"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1651,
@@ -14984,7 +15002,7 @@
   {
     "kanji": "素",
     "meanings": [
-      "Elementary"
+      "Elementary, 素直（すなお） – honesto, sincero"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1652,
@@ -14993,7 +15011,7 @@
   {
     "kanji": "麦",
     "meanings": [
-      "Barley"
+      "Barley, trigo"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1653,
@@ -15011,7 +15029,7 @@
   {
     "kanji": "精",
     "meanings": [
-      "Refined"
+      "Refined, refinado,&nbsp; eliminar lo que es innecesario, impuro o de menor calidad"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1655,
@@ -15029,7 +15047,7 @@
   {
     "kanji": "情",
     "meanings": [
-      "Feelings"
+      "Feelings, sentimientos, cada mes el rey está ocupado"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1657,
@@ -15038,7 +15056,7 @@
   {
     "kanji": "晴",
     "meanings": [
-      "Clear Up"
+      "Clear Up, Soleado , clear sky"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1658,
@@ -15056,7 +15074,7 @@
   {
     "kanji": "静",
     "meanings": [
-      "Quiet"
+      "Quiet, silencio"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1660,
@@ -15065,7 +15083,7 @@
   {
     "kanji": "責",
     "meanings": [
-      "Blame"
+      "Blame, culpa , responsabilidad"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1661,
@@ -15074,7 +15092,7 @@
   {
     "kanji": "績",
     "meanings": [
-      "Exploits"
+      "Exploits,mérito,&nbsp;logro,&nbsp;resultados obtenidos después de esfuerzo o actividad."
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1662,
@@ -15083,7 +15101,7 @@
   {
     "kanji": "積",
     "meanings": [
-      "Volume"
+      "Volume, volumen"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1663,
@@ -15092,7 +15110,7 @@
   {
     "kanji": "債",
     "meanings": [
-      "Bond"
+      "Bond.,,deuda"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1664,
@@ -15101,7 +15119,7 @@
   {
     "kanji": "漬",
     "meanings": [
-      "Pickling"
+      "Pickling, preservar alimentos en vinagre"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1665,
@@ -15119,7 +15137,7 @@
   {
     "kanji": "俵",
     "meanings": [
-      "Bag"
+      "Bag,&nbsp; saco de arroz/granos, rey le da una toalla a la persona"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1667,
@@ -15128,7 +15146,7 @@
   {
     "kanji": "潔",
     "meanings": [
-      "Undefiled"
+      "Undefiled, inocente"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1668,
@@ -15137,7 +15155,7 @@
   {
     "kanji": "契",
     "meanings": [
-      "Pledge"
+      "Pledge,contrato, acuerdo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1669,
@@ -15146,7 +15164,7 @@
   {
     "kanji": "喫",
     "meanings": [
-      "Consume"
+      "Consume, consumir"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1670,
@@ -15155,7 +15173,7 @@
   {
     "kanji": "害",
     "meanings": [
-      "Harm"
+      "Harm, daño, dañar, causar daño"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1671,
@@ -15173,7 +15191,7 @@
   {
     "kanji": "割",
     "meanings": [
-      "Proportion"
+      "Proportion, proporcion"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1673,
@@ -15182,7 +15200,7 @@
   {
     "kanji": "憲",
     "meanings": [
-      "Constitution"
+      "Constitution, constitucion, es la norma suprema que&nbsp;reconoce, garantiza y protege los derechos fundamentales, libertades y garantías de las personas,"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1674,
@@ -15191,7 +15209,7 @@
   {
     "kanji": "生",
     "meanings": [
-      "Life"
+      "Life, vida"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1675,
@@ -15200,7 +15218,7 @@
   {
     "kanji": "星",
     "meanings": [
-      "Star"
+      "Star, strella"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1676,
@@ -15209,7 +15227,7 @@
   {
     "kanji": "醒",
     "meanings": [
-      "Awakening"
+      "Awakening, despertar, después de beber alcohol veo estrellas"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1677,
@@ -15218,7 +15236,7 @@
   {
     "kanji": "姓",
     "meanings": [
-      "Surname"
+      "Surname, apellido"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1678,
@@ -15236,7 +15254,7 @@
   {
     "kanji": "牲",
     "meanings": [
-      "Animal Sacrifice"
+      "Animal Sacrifice, sacrificio animal"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1680,
@@ -15245,7 +15263,7 @@
   {
     "kanji": "産",
     "meanings": [
-      "Products"
+      "Products, producto"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1681,
@@ -15254,7 +15272,7 @@
   {
     "kanji": "隆",
     "meanings": [
-      "Hump"
+      "Hump,Joroba"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1682,
@@ -15263,7 +15281,7 @@
   {
     "kanji": "峰",
     "meanings": [
-      "Summit"
+      "Summit, cima, pico, punto mas alto"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1683,
@@ -15272,7 +15290,7 @@
   {
     "kanji": "蜂",
     "meanings": [
-      "Bee"
+      "Bee, abeja"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1684,
@@ -15281,7 +15299,7 @@
   {
     "kanji": "縫",
     "meanings": [
-      "Sew"
+      "Sew, unir con hilo, coser, remendar, costura"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1685,
@@ -15290,7 +15308,7 @@
   {
     "kanji": "拝",
     "meanings": [
-      "Worship"
+      "Worship, reverencia, rendir homenaje, inclinarse, benerar"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1686,
@@ -15317,7 +15335,7 @@
   {
     "kanji": "籍",
     "meanings": [
-      "Enroll"
+      "Enroll, inscripcion"
     ],
     "grade": 20,
     "freq_mainichi_shinbun": 1689,
@@ -15326,7 +15344,7 @@
   {
     "kanji": "春",
     "meanings": [
-      "Springtime"
+      "Springtime, primavera, nuevo comienzo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1690,
@@ -15335,7 +15353,7 @@
   {
     "kanji": "椿",
     "meanings": [
-      "Camellia"
+      "Camellia arbol de primavera"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1691,
@@ -15344,7 +15362,7 @@
   {
     "kanji": "泰",
     "meanings": [
-      "Peaceful"
+      "Peaceful, tranquilo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1692,
@@ -15353,7 +15371,7 @@
   {
     "kanji": "奏",
     "meanings": [
-      "Play Music"
+      "Play Music, tocar musica"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1693,
@@ -15371,7 +15389,7 @@
   {
     "kanji": "奉",
     "meanings": [
-      "Dedicate"
+      "Dedicate, dedicar, dedicado, Ana cuidando arbol"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1695,
@@ -15380,7 +15398,7 @@
   {
     "kanji": "俸",
     "meanings": [
-      "Stipend"
+      "Stipend, salario"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1696,
@@ -15389,7 +15407,7 @@
   {
     "kanji": "棒",
     "meanings": [
-      "Rod"
+      "Rod, bate de basebol"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1697,
@@ -15398,7 +15416,7 @@
   {
     "kanji": "謹",
     "meanings": [
-      "Discreet"
+      "formalidad, manners, Educación"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1698,
@@ -15407,7 +15425,7 @@
   {
     "kanji": "僅",
     "meanings": [
-      "Trifle"
+      "Trifle, minimo, escaso"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1699,
@@ -15416,7 +15434,7 @@
   {
     "kanji": "勤",
     "meanings": [
-      "Diligence"
+      "Diligence, ir al trabajo"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1700,
@@ -15425,7 +15443,7 @@
   {
     "kanji": "漢",
     "meanings": [
-      "Sino-"
+      "chino, 漢字　（kanji）"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1701,
@@ -15434,7 +15452,7 @@
   {
     "kanji": "嘆",
     "meanings": [
-      "Sigh"
+      "Sigh, suspiro"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1702,
@@ -15443,7 +15461,7 @@
   {
     "kanji": "難",
     "meanings": [
-      "Difficult"
+      "Difficult, dificil"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1703,
@@ -15452,7 +15470,7 @@
   {
     "kanji": "華",
     "meanings": [
-      "Splendor"
+      "Splendor, florecerCompare with 草 ."
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1704,
@@ -15461,7 +15479,7 @@
   {
     "kanji": "垂",
     "meanings": [
-      "Droop"
+      "Droopcaer hacia abajo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1705,
@@ -15479,7 +15497,7 @@
   {
     "kanji": "睡",
     "meanings": [
-      "Drowsy"
+      "Drowsy, estado de reposo, dormir"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1707,
@@ -15488,7 +15506,7 @@
   {
     "kanji": "錘",
     "meanings": [
-      "Spindle"
+      "Spindle, peso, pesado"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1708,
@@ -15497,7 +15515,7 @@
   {
     "kanji": "乗",
     "meanings": [
-      "Ride"
+      "Conducir, ride"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1709,
@@ -15506,7 +15524,7 @@
   {
     "kanji": "剰",
     "meanings": [
-      "Surplus"
+      "Surplus, residuo, sobras"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1710,
@@ -15560,7 +15578,7 @@
   {
     "kanji": "捻",
     "meanings": [
-      "Wrench"
+      "Wrench,torcer, retorcer"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1716,
@@ -15569,7 +15587,7 @@
   {
     "kanji": "琴",
     "meanings": [
-      "Harp"
+      "\"Harp, arpa\""
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1717,
@@ -15578,7 +15596,7 @@
   {
     "kanji": "陰",
     "meanings": [
-      "Shade"
+      "Shade, sombra, lado oscuro"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1718,
@@ -15587,7 +15605,7 @@
   {
     "kanji": "予",
     "meanings": [
-      "Beforehand"
+      "Beforehand, de antemano"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1719,
@@ -15596,7 +15614,7 @@
   {
     "kanji": "序",
     "meanings": [
-      "Preface"
+      "Preface, estar en mi casa de antemano"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1720,
@@ -15605,7 +15623,7 @@
   {
     "kanji": "預",
     "meanings": [
-      "Deposit"
+      "Deposit, depositar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1721,
@@ -15614,7 +15632,7 @@
   {
     "kanji": "野",
     "meanings": [
-      "Plains"
+      "Plains, campo, campo de estudio,分野"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1722,
@@ -15623,7 +15641,7 @@
   {
     "kanji": "兼",
     "meanings": [
-      "Concurrently"
+      "Concurrently, simultaneo, multitarea"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1723,
@@ -15632,7 +15650,7 @@
   {
     "kanji": "嫌",
     "meanings": [
-      "Dislike"
+      "Dislike, iyada"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1724,
@@ -15641,7 +15659,7 @@
   {
     "kanji": "鎌",
     "meanings": [
-      "Sickle"
+      "\"Sickle, hoz\""
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1725,
@@ -15650,7 +15668,7 @@
   {
     "kanji": "謙",
     "meanings": [
-      "Self-Effacing"
+      "Self-Effacing, no buscar llamar la atencion sobre si mismo"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1726,
@@ -15659,7 +15677,7 @@
   {
     "kanji": "廉",
     "meanings": [
-      "Bargain"
+      "Bargain, regatear, hacer que te vendan a un precio mas bajo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1727,
@@ -15668,7 +15686,7 @@
   {
     "kanji": "西",
     "meanings": [
-      "West"
+      "West, Oeste"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1728,
@@ -15677,7 +15695,7 @@
   {
     "kanji": "価",
     "meanings": [
-      "Value"
+      "Value, valor"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1729,
@@ -15686,7 +15704,7 @@
   {
     "kanji": "要",
     "meanings": [
-      "Need"
+      "Need, necesidad, necesario"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1730,
@@ -15695,7 +15713,7 @@
   {
     "kanji": "腰",
     "meanings": [
-      "Loins"
+      "Loins, cintura, espalda baja"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1731,
@@ -15704,7 +15722,7 @@
   {
     "kanji": "票",
     "meanings": [
-      "Ballot"
+      "Ballot,votar, emitir mi voto"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1732,
@@ -15713,7 +15731,7 @@
   {
     "kanji": "漂",
     "meanings": [
-      "Drift"
+      "Drift, flotar, lavar ropa blanca"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1733,
@@ -15722,7 +15740,7 @@
   {
     "kanji": "標",
     "meanings": [
-      "Signpost"
+      "Signpost, objetivo"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1734,
@@ -15731,7 +15749,7 @@
   {
     "kanji": "栗",
     "meanings": [
-      "Chestnut"
+      "\"Chestnut, castaño, arbol de gran valor\""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1735,
@@ -15740,7 +15758,7 @@
   {
     "kanji": "慄",
     "meanings": [
-      "Shudder"
+      "Shudder, escalofrio"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1736,
@@ -15749,7 +15767,7 @@
   {
     "kanji": "遷",
     "meanings": [
-      "Transition"
+      "Transition, tansicion"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1737,
@@ -15758,7 +15776,7 @@
   {
     "kanji": "覆",
     "meanings": [
-      "Capsize"
+      "Capsize,&nbsp; cara cubierta, cara tapada"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1738,
@@ -15767,7 +15785,7 @@
   {
     "kanji": "煙",
     "meanings": [
-      "Smoke"
+      "Smoke,&nbsp; vapor, humo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1739,
@@ -15776,7 +15794,7 @@
   {
     "kanji": "南",
     "meanings": [
-      "South"
+      "South, sur"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1740,
@@ -15785,7 +15803,7 @@
   {
     "kanji": "楠",
     "meanings": [
-      "Camphor Tree"
+      "Camphor Tree, (kusu) arbol llamado kusunoki, arboles del sur"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1741,
@@ -15794,7 +15812,7 @@
   {
     "kanji": "献",
     "meanings": [
-      "Offering"
+      "Offering, ofrecer"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1742,
@@ -15830,7 +15848,7 @@
   {
     "kanji": "閥",
     "meanings": [
-      "Clique"
+      "Clique,grupos de poder"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1746,
@@ -15848,7 +15866,7 @@
   {
     "kanji": "闇",
     "meanings": [
-      "Pitch Dark"
+      "Pitch Dark,&nbsp;oscuridad total"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1748,
@@ -15857,7 +15875,7 @@
   {
     "kanji": "簡",
     "meanings": [
-      "Simplicity"
+      "Simplicity, simplicidad, simple, sensillo"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1749,
@@ -15884,7 +15902,7 @@
   {
     "kanji": "閣",
     "meanings": [
-      "Tower"
+      "Tower, torre"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1752,
@@ -15893,7 +15911,7 @@
   {
     "kanji": "閑",
     "meanings": [
-      "Leisure"
+      "Leisure, ocio"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1753,
@@ -15911,7 +15929,7 @@
   {
     "kanji": "潤",
     "meanings": [
-      "Wet"
+      "Wet,hidratar"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1755,
@@ -15920,7 +15938,7 @@
   {
     "kanji": "欄",
     "meanings": [
-      "Column"
+      "Column, columna"
     ],
     "grade": 20,
     "freq_mainichi_shinbun": 1756,
@@ -15938,7 +15956,7 @@
   {
     "kanji": "倉",
     "meanings": [
-      "Godown"
+      "\"Godown, granero,&nbsp;\""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1758,
@@ -15965,7 +15983,7 @@
   {
     "kanji": "俳",
     "meanings": [
-      "Haiku"
+      "Haiku, errror humano"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1761,
@@ -15974,7 +15992,7 @@
   {
     "kanji": "排",
     "meanings": [
-      "Repudiate"
+      "Repudiat, repudiar , Rechazar algo, no aceptarlo."
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1762,
@@ -15983,7 +16001,7 @@
   {
     "kanji": "悲",
     "meanings": [
-      "Sad"
+      "Sad, triste"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1763,
@@ -16001,7 +16019,7 @@
   {
     "kanji": "輩",
     "meanings": [
-      "Comrade"
+      "Comrade, banda,&nbsp;&nbsp;grupo de personas del mismo tipo o categoría, hay un problema/error con el carro"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1765,
@@ -16010,7 +16028,7 @@
   {
     "kanji": "扉",
     "meanings": [
-      "Front Door"
+      "Front Door, puerta delantera"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1766,
@@ -16019,7 +16037,7 @@
   {
     "kanji": "侯",
     "meanings": [
-      "Marquis"
+      "señor feudal , noble de alto rango, ,marques"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1767,
@@ -16028,7 +16046,7 @@
   {
     "kanji": "喉",
     "meanings": [
-      "Throat"
+      "Throat, caramelo para la garganta"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1768,
@@ -16037,7 +16055,7 @@
   {
     "kanji": "候",
     "meanings": [
-      "Climate"
+      "Climate, clima"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1769,
@@ -16046,7 +16064,7 @@
   {
     "kanji": "決",
     "meanings": [
-      "Decide"
+      "Decide, decidir"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1770,
@@ -16055,7 +16073,7 @@
   {
     "kanji": "快",
     "meanings": [
-      "Cheerful"
+      "Cheerful, alta velocidad, rapido"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1771,
@@ -16064,7 +16082,7 @@
   {
     "kanji": "偉",
     "meanings": [
-      "Admirable"
+      "Admirable, admirable, 韋(admirable)"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1772,
@@ -16073,7 +16091,7 @@
   {
     "kanji": "違",
     "meanings": [
-      "Difference"
+      "Difference, equivocarse, diferente"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1773,
@@ -16091,7 +16109,7 @@
   {
     "kanji": "衛",
     "meanings": [
-      "Defense"
+      "Defense, defenza, defender,"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1775,
@@ -16118,7 +16136,7 @@
   {
     "kanji": "肝",
     "meanings": [
-      "Liver"
+      "Liver, hígado"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1778,
@@ -16127,7 +16145,7 @@
   {
     "kanji": "刊",
     "meanings": [
-      "Publish"
+      "Publish, publicar"
     ],
     "grade": 5,
     "freq_mainichi_shinbun": 1779,
@@ -16136,7 +16154,7 @@
   {
     "kanji": "汗",
     "meanings": [
-      "Sweat"
+      "Sweat, sudor"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1780,
@@ -16145,7 +16163,7 @@
   {
     "kanji": "軒",
     "meanings": [
-      "Flats"
+      "Flats, numero de casa, contador para casas"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1781,
@@ -16154,7 +16172,7 @@
   {
     "kanji": "岸",
     "meanings": [
-      "Beach"
+      "Beach, playa"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1782,
@@ -16163,7 +16181,7 @@
   {
     "kanji": "幹",
     "meanings": [
-      "Tree Trunk"
+      "Tree Trunk, tronco,&nbsp;tren bala"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1783,
@@ -16181,7 +16199,7 @@
   {
     "kanji": "宇",
     "meanings": [
-      "Eaves"
+      "Eaves, universo"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1785,
@@ -16190,7 +16208,7 @@
   {
     "kanji": "余",
     "meanings": [
-      "Too Much"
+      "Too Much, demasiado"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1786,
@@ -16199,7 +16217,7 @@
   {
     "kanji": "除",
     "meanings": [
-      "Exclude"
+      "Exclude, excluir"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1787,
@@ -16208,7 +16226,7 @@
   {
     "kanji": "徐",
     "meanings": [
-      "Gradually"
+      "Gradually, gradualmente"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1788,
@@ -16217,7 +16235,7 @@
   {
     "kanji": "叙",
     "meanings": [
-      "Confer"
+      "Confer, narrar, describir"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1789,
@@ -16226,7 +16244,7 @@
   {
     "kanji": "途",
     "meanings": [
-      "Route"
+      "Route, ruta"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1790,
@@ -16235,7 +16253,7 @@
   {
     "kanji": "斜",
     "meanings": [
-      "Diagonal"
+      "Diagonal, torre de pisa"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1791,
@@ -16244,7 +16262,7 @@
   {
     "kanji": "塗",
     "meanings": [
-      "Paint"
+      "Paint, pintar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1792,
@@ -16253,7 +16271,7 @@
   {
     "kanji": "束",
     "meanings": [
-      "Bundle"
+      "Bundle,paquete&nbsp;"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1793,
@@ -16271,7 +16289,7 @@
   {
     "kanji": "瀬",
     "meanings": [
-      "Rapids"
+      "Rapids,&nbsp;correitne de un Rio, creyente del agua, creo en el agua"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1795,
@@ -16280,7 +16298,7 @@
   {
     "kanji": "勅",
     "meanings": [
-      "Imperial Order"
+      "Imperial Order, orden del emperador, paquete necesita fuerza para abrirse"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1796,
@@ -16289,7 +16307,7 @@
   {
     "kanji": "疎",
     "meanings": [
-      "Alienate"
+      "Alienate, no familiarizado, poco conocedor"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1797,
@@ -16298,7 +16316,7 @@
   {
     "kanji": "辣",
     "meanings": [
-      "Bitter"
+      "Bitter, picante"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1798,
@@ -16307,7 +16325,7 @@
   {
     "kanji": "速",
     "meanings": [
-      "Quick"
+      "Quick, rapido"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1799,
@@ -16316,7 +16334,7 @@
   {
     "kanji": "整",
     "meanings": [
-      "Organize"
+      "Organize, organizar"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1800,
@@ -16325,7 +16343,7 @@
   {
     "kanji": "剣",
     "meanings": [
-      "Saber"
+      "\"Saber, espadachin\""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1801,
@@ -16334,7 +16352,7 @@
   {
     "kanji": "険",
     "meanings": [
-      "Precipitous"
+      "Precipitous, empinado"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1802,
@@ -16343,7 +16361,7 @@
   {
     "kanji": "検",
     "meanings": [
-      "Examination"
+      "Examination, examinar, buscar,verificationinspection"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1803,
@@ -16352,7 +16370,7 @@
   {
     "kanji": "倹",
     "meanings": [
-      "Frugal"
+      "Frugal,&nbsp;economía"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1804,
@@ -16388,7 +16406,7 @@
   {
     "kanji": "勲",
     "meanings": [
-      "Meritorious Deed"
+      "Meritorious Deed, medalla"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1808,
@@ -16397,7 +16415,7 @@
   {
     "kanji": "働",
     "meanings": [
-      "Work"
+      "Work, trabajo"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1809,
@@ -16406,7 +16424,7 @@
   {
     "kanji": "種",
     "meanings": [
-      "Species"
+      "Species, semilla"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1810,
@@ -16424,7 +16442,7 @@
   {
     "kanji": "薫",
     "meanings": [
-      "Fragrant"
+      "Fragrant, fragancia"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1812,
@@ -16433,7 +16451,7 @@
   {
     "kanji": "病",
     "meanings": [
-      "Ill"
+      "\"Ill、disease, enfermedad心臓病しんぞうびょう　＝heart disease\""
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1813,
@@ -16451,7 +16469,7 @@
   {
     "kanji": "痘",
     "meanings": [
-      "Pox"
+      "Pox, viruela, granos"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1815,
@@ -16460,7 +16478,7 @@
   {
     "kanji": "症",
     "meanings": [
-      "Symptoms"
+      "Symptoms, sintomas"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1816,
@@ -16469,7 +16487,7 @@
   {
     "kanji": "瘍",
     "meanings": [
-      "Carbuncle"
+      "Carbuncle, ulceras, llaga"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1817,
@@ -16487,7 +16505,7 @@
   {
     "kanji": "疾",
     "meanings": [
-      "Rapidly"
+      "Rapidly, enfermedad"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1819,
@@ -16496,7 +16514,7 @@
   {
     "kanji": "嫉",
     "meanings": [
-      "Envy"
+      "Envy, envidia, celos"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1820,
@@ -16505,7 +16523,7 @@
   {
     "kanji": "痢",
     "meanings": [
-      "Diarrhea"
+      "Diarrhea, diarea"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1821,
@@ -16514,7 +16532,7 @@
   {
     "kanji": "痕",
     "meanings": [
-      "Scar"
+      "Scar, cicatriz"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1822,
@@ -16523,7 +16541,7 @@
   {
     "kanji": "疲",
     "meanings": [
-      "Tired"
+      "Tired, canzado"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1823,
@@ -16532,7 +16550,7 @@
   {
     "kanji": "疫",
     "meanings": [
-      "Epidemic"
+      "Epidemic, epidemia"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1824,
@@ -16541,7 +16559,7 @@
   {
     "kanji": "痛",
     "meanings": [
-      "Pain"
+      "Pain, dolor"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1825,
@@ -16550,7 +16568,7 @@
   {
     "kanji": "癖",
     "meanings": [
-      "Mannerism"
+      "Mannerism, costumbre,, enfermarse por comer picante"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1826,
@@ -16559,7 +16577,7 @@
   {
     "kanji": "匿",
     "meanings": [
-      "Hide"
+      "Hide, esconder"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1827,
@@ -16568,7 +16586,7 @@
   {
     "kanji": "匠",
     "meanings": [
-      "Artisan"
+      "Artisan, Arteasano"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1828,
@@ -16586,7 +16604,7 @@
   {
     "kanji": "匹",
     "meanings": [
-      "Equal"
+      "Equal, igual"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1830,
@@ -16604,7 +16622,7 @@
   {
     "kanji": "枢",
     "meanings": [
-      "Hinge"
+      "Hinge, punto central"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1832,
@@ -16631,7 +16649,7 @@
   {
     "kanji": "抑",
     "meanings": [
-      "Repress"
+      "Repress, suprimir, contener, (guardarse cosas [sentimientos])"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1835,
@@ -16640,7 +16658,7 @@
   {
     "kanji": "仰",
     "meanings": [
-      "Faceup"
+      "Faceup, mirar hacia arriba"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1836,
@@ -16649,7 +16667,7 @@
   {
     "kanji": "迎",
     "meanings": [
-      "Welcome"
+      "Welcome, bienvenida"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1837,
@@ -16658,7 +16676,7 @@
   {
     "kanji": "登",
     "meanings": [
-      "Ascend"
+      "Ascend, climp up (noboru)"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1838,
@@ -16667,7 +16685,7 @@
   {
     "kanji": "澄",
     "meanings": [
-      "Lucidity"
+      "Lucidity, trepo la montaña para encontrar agua"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1839,
@@ -16676,7 +16694,7 @@
   {
     "kanji": "発",
     "meanings": [
-      "Discharge"
+      "Discharge,descargar"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1840,
@@ -16685,7 +16703,7 @@
   {
     "kanji": "廃",
     "meanings": [
-      "Abolish"
+      "Abolish, desechar, abulir"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1841,
@@ -16694,7 +16712,7 @@
   {
     "kanji": "僚",
     "meanings": [
-      "Colleague"
+      "Colleague, colegas, compañeros"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1842,
@@ -16703,7 +16721,7 @@
   {
     "kanji": "瞭",
     "meanings": [
-      "Obvious"
+      "Obvious, obivio"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1843,
@@ -16712,7 +16730,7 @@
   {
     "kanji": "寮",
     "meanings": [
-      "Dormitory"
+      "Dormitory, dormitorio"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1844,
@@ -16721,7 +16739,7 @@
   {
     "kanji": "療",
     "meanings": [
-      "Heal"
+      "Heal, sanar"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1845,
@@ -16730,7 +16748,7 @@
   {
     "kanji": "彫",
     "meanings": [
-      "Carve"
+      "Carve, tallar, esculpir"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1846,
@@ -16739,7 +16757,7 @@
   {
     "kanji": "形",
     "meanings": [
-      "Shape"
+      "Shape, figura, 形（かたち）"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1847,
@@ -16748,7 +16766,7 @@
   {
     "kanji": "影",
     "meanings": [
-      "Shadow"
+      "Shadow, sombra"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1848,
@@ -16757,7 +16775,7 @@
   {
     "kanji": "杉",
     "meanings": [
-      "Cedar"
+      "\"Cedar, cedro\""
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1849,
@@ -16766,7 +16784,7 @@
   {
     "kanji": "彩",
     "meanings": [
-      "Coloring"
+      "Coloring, colorear, pintar , color"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1850,
@@ -16775,7 +16793,7 @@
   {
     "kanji": "彰",
     "meanings": [
-      "Patent"
+      "Patent, patentar"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1851,
@@ -16784,7 +16802,7 @@
   {
     "kanji": "彦",
     "meanings": [
-      "Lad"
+      "Lad,&nbsp;joven distinguido, noble o instruido."
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1852,
@@ -16793,7 +16811,7 @@
   {
     "kanji": "顔",
     "meanings": [
-      "Face"
+      "Face, rostro"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1853,
@@ -16802,7 +16820,7 @@
   {
     "kanji": "須",
     "meanings": [
-      "Ought"
+      "Ought, barba, bigote"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1854,
@@ -16811,7 +16829,7 @@
   {
     "kanji": "膨",
     "meanings": [
-      "Swell"
+      "Swell, inflarse, incharse"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1855,
@@ -16829,7 +16847,7 @@
   {
     "kanji": "惨",
     "meanings": [
-      "Wretched"
+      "Wretched, derrota aplastante, condiciones miserables"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1857,
@@ -16856,7 +16874,7 @@
   {
     "kanji": "診",
     "meanings": [
-      "Checkup"
+      "Checkup, diagnosticar, evaluar condicion medíca"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1860,
@@ -16883,7 +16901,7 @@
   {
     "kanji": "紋",
     "meanings": [
-      "Family Crest"
+      "Family Crest,&nbsp;símbolo heráldico que representa a una familia, usado históricamente para identificar su linaje, estatus o procedencia."
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1863,
@@ -16901,7 +16919,7 @@
   {
     "kanji": "斑",
     "meanings": [
-      "Speckled"
+      "Speckled, mancha"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1865,
@@ -16910,7 +16928,7 @@
   {
     "kanji": "斉",
     "meanings": [
-      "Adjusted"
+      "Adjusted, simultaneamente, al mismo tiempo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1866,
@@ -16919,7 +16937,7 @@
   {
     "kanji": "剤",
     "meanings": [
-      "Dose"
+      "Dose, docis, sustancia preparada"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1867,
@@ -16928,7 +16946,7 @@
   {
     "kanji": "済",
     "meanings": [
-      "Finish"
+      "Finish, terminar"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1868,
@@ -16937,7 +16955,7 @@
   {
     "kanji": "斎",
     "meanings": [
-      "Purification"
+      "Purification, purificacion"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1869,
@@ -16946,7 +16964,7 @@
   {
     "kanji": "粛",
     "meanings": [
-      "Solemn"
+      "Solemn, solemnidad = (tranquilo y disciplinado), estiben quemado por el sol come arroz en un rio"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1870,
@@ -16955,7 +16973,7 @@
   {
     "kanji": "塁",
     "meanings": [
-      "Bases"
+      "Bases ,baseball"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1871,
@@ -16982,7 +17000,7 @@
   {
     "kanji": "率",
     "meanings": [
-      "Ratio,radio of a circle"
+      "Ratio,radio of a circle,&nbsp;"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1874,
@@ -16991,7 +17009,7 @@
   {
     "kanji": "渋",
     "meanings": [
-      "Astringent"
+      "Astringent, takaño"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1875,
@@ -17000,7 +17018,7 @@
   {
     "kanji": "摂",
     "meanings": [
-      "Vicarious"
+      "Vicarious, indirecto, emocion o experiencia que experimenta alguien sin haberla vivido"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1876,
@@ -17027,7 +17045,7 @@
   {
     "kanji": "映",
     "meanings": [
-      "Reflect"
+      "Reflect, reflejar"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1879,
@@ -17063,7 +17081,7 @@
   {
     "kanji": "跡",
     "meanings": [
-      "Tracks"
+      "Tracks, Rastro"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1883,
@@ -17072,7 +17090,7 @@
   {
     "kanji": "蛮",
     "meanings": [
-      "Barbarian"
+      "Barbarian, bárbaro"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1884,
@@ -17090,7 +17108,7 @@
   {
     "kanji": "湾",
     "meanings": [
-      "Gulf"
+      "Gulf,Bahia、lazo con un arco y sale agua roja"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1886,
@@ -17108,7 +17126,7 @@
   {
     "kanji": "横",
     "meanings": [
-      "Sideways"
+      "Sideways,&nbsp;lado lateral, lado"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1888,
@@ -17117,7 +17135,7 @@
   {
     "kanji": "把",
     "meanings": [
-      "Grasp"
+      "Grasp,&nbsp;un puñado,&nbsp;un manojo"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1889,
@@ -17135,7 +17153,7 @@
   {
     "kanji": "絶",
     "meanings": [
-      "Discontinue"
+      "Discontinue,descontinuar,&nbsp;dejar de existir"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1891,
@@ -17144,7 +17162,7 @@
   {
     "kanji": "艶",
     "meanings": [
-      "Glossy"
+      "Glossy,&nbsp;seductor,&nbsp;sensual charm"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1892,
@@ -17153,7 +17171,7 @@
   {
     "kanji": "肥",
     "meanings": [
-      "Fertilizer"
+      "Fertilizer, fertilizador"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1893,
@@ -17171,7 +17189,7 @@
   {
     "kanji": "紺",
     "meanings": [
-      "Navy Blue"
+      "\"Navy Blue, ganado quemado por el sol vestido de spidermantintorero\""
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1895,
@@ -17180,7 +17198,7 @@
   {
     "kanji": "某",
     "meanings": [
-      "So-And-So"
+      "So-And-So, búfalo/vaca quemado por el sol arriba de un árbol ,&nbsp;cierto,&nbsp;cierta, ejmplo:&nbsp;&nbsp;cierta empresa, cierto dia, cierto individuo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1896,
@@ -17189,7 +17207,7 @@
   {
     "kanji": "謀",
     "meanings": [
-      "Conspire"
+      "Conspire,&nbsp;conspiración, acuerdo secreto entre dos o más personas para llevar a cabo una acción ilícita, perjudicial o para derrocar a una autoridad establecida"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 1897,
@@ -17198,7 +17216,7 @@
   {
     "kanji": "媒",
     "meanings": [
-      "Mediator"
+      "Mediator, mediador"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1898,
@@ -17207,7 +17225,7 @@
   {
     "kanji": "欺",
     "meanings": [
-      "Deceit"
+      "Deceit,engañar"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1899,
@@ -17216,7 +17234,7 @@
   {
     "kanji": "棋",
     "meanings": [
-      "Chess Piece"
+      "Chess Piece, pieza de ajedrez"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1900,
@@ -17225,7 +17243,7 @@
   {
     "kanji": "旗",
     "meanings": [
-      "National Flag"
+      "National Flag, bandera nacional"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1901,
@@ -17243,7 +17261,7 @@
   {
     "kanji": "碁",
     "meanings": [
-      "Go"
+      "\"Go,&nbsp;— juego de Go\""
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1903,
@@ -17261,7 +17279,7 @@
   {
     "kanji": "甚",
     "meanings": [
-      "Tremendously"
+      "Tremendously, tremendosamente , Tremendamente"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1905,
@@ -17279,7 +17297,7 @@
   {
     "kanji": "堪",
     "meanings": [
-      "Withstand"
+      "Withstand, enfurecido"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1907,
@@ -17297,7 +17315,7 @@
   {
     "kanji": "遺",
     "meanings": [
-      "Bequeath"
+      "Bequeath, Legado"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1909,
@@ -17315,7 +17333,7 @@
   {
     "kanji": "潰",
     "meanings": [
-      "Defile"
+      "Defile, aplastar"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1911,
@@ -17351,7 +17369,7 @@
   {
     "kanji": "粗",
     "meanings": [
-      "Coarse"
+      "Coarse,áspero / tosco (textura o forma de hacer algo)"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1915,
@@ -17360,7 +17378,7 @@
   {
     "kanji": "租",
     "meanings": [
-      "Tariff"
+      "Tariff,&nbsp;impuesto"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1916,
@@ -17378,7 +17396,7 @@
   {
     "kanji": "祖",
     "meanings": [
-      "Ancestor"
+      "Ancestor,antepasados, ancetro"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1918,
@@ -17387,7 +17405,7 @@
   {
     "kanji": "阻",
     "meanings": [
-      "Thwart"
+      "Thwart,&nbsp;impedir,obstaculizar, estorbar , la esquina del ojo de bob"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1919,
@@ -17414,7 +17432,7 @@
   {
     "kanji": "宜",
     "meanings": [
-      "Best Regards"
+      "Best Regards,&nbsp;saludos cordiales"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1922,
@@ -17423,7 +17441,7 @@
   {
     "kanji": "畳",
     "meanings": [
-      "Tatami Mat"
+      "\"Tatami Mat,\""
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1923,
@@ -17432,7 +17450,7 @@
   {
     "kanji": "並",
     "meanings": [
-      "Row"
+      "to line up,alinear, pez martillo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1924,
@@ -17450,7 +17468,7 @@
   {
     "kanji": "譜",
     "meanings": [
-      "Musical Score"
+      "Musical Score,&nbsp;Partitura musical, palabra universal"
     ],
     "grade": 19,
     "freq_mainichi_shinbun": 1926,
@@ -17459,7 +17477,7 @@
   {
     "kanji": "湿",
     "meanings": [
-      "Damp"
+      "Damp,humedad"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1927,
@@ -17468,7 +17486,7 @@
   {
     "kanji": "顕",
     "meanings": [
-      "Appear"
+      "Appear,manifestar,&nbsp;hacer visible, aparecer"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 1928,
@@ -17477,7 +17495,7 @@
   {
     "kanji": "繊",
     "meanings": [
-      "Slender"
+      "Slender, fino, polvo fino,hilo fino, piel fina"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1929,
@@ -17486,7 +17504,7 @@
   {
     "kanji": "霊",
     "meanings": [
-      "Spirits"
+      "Spirits, espiritus"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1930,
@@ -17495,7 +17513,7 @@
   {
     "kanji": "業",
     "meanings": [
-      "Profession"
+      "Profession, ocupación"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1931,
@@ -17504,7 +17522,7 @@
   {
     "kanji": "撲",
     "meanings": [
-      "Slap"
+      "\"Slap, cachetada\""
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1932,
@@ -17522,7 +17540,7 @@
   {
     "kanji": "共",
     "meanings": [
-      "Together"
+      "Together, juntos"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1934,
@@ -17531,7 +17549,7 @@
   {
     "kanji": "供",
     "meanings": [
-      "Submit"
+      "Submit, enviar"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1935,
@@ -17540,7 +17558,7 @@
   {
     "kanji": "異",
     "meanings": [
-      "Uncommon"
+      "Uncommon, no comun"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1936,
@@ -17549,7 +17567,7 @@
   {
     "kanji": "翼",
     "meanings": [
-      "Wing"
+      "Wing, ala"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1937,
@@ -17558,7 +17576,7 @@
   {
     "kanji": "戴",
     "meanings": [
-      "Accept Humbly"
+      "Accept Humbly,&nbsp;aceptar humildemente"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1938,
@@ -17567,7 +17585,7 @@
   {
     "kanji": "洪",
     "meanings": [
-      "Deluge"
+      "Deluge, Diluvio"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1939,
@@ -17576,7 +17594,7 @@
   {
     "kanji": "港",
     "meanings": [
-      "Harbor"
+      "Harbor, Puerto"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1940,
@@ -17585,7 +17603,7 @@
   {
     "kanji": "暴",
     "meanings": [
-      "Outburst"
+      "Outburst , Explosión"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1941,
@@ -17603,7 +17621,7 @@
   {
     "kanji": "恭",
     "meanings": [
-      "Respect"
+      "Respect,"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1943,
@@ -17630,7 +17648,7 @@
   {
     "kanji": "井",
     "meanings": [
-      "Well"
+      "Well, pozo"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 1946,
@@ -17648,7 +17666,7 @@
   {
     "kanji": "囲",
     "meanings": [
-      "Surround"
+      "Surround, rodear , alrededor,"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1948,
@@ -17657,7 +17675,7 @@
   {
     "kanji": "耕",
     "meanings": [
-      "Till"
+      "Till,&nbsp;agricultor, granjero"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1949,
@@ -17675,7 +17693,7 @@
   {
     "kanji": "悪",
     "meanings": [
-      "Bad"
+      "Bad, malo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1951,
@@ -17702,7 +17720,7 @@
   {
     "kanji": "触",
     "meanings": [
-      "Contact"
+      "Contact, contacto (tocar), touch"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1954,
@@ -17711,7 +17729,7 @@
   {
     "kanji": "解",
     "meanings": [
-      "Unravel"
+      "Unravel,resolverse, resolucion,&nbsp;理解（りかい）&nbsp;— comprensión"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1955,
@@ -17729,7 +17747,7 @@
   {
     "kanji": "講",
     "meanings": [
-      "Lecture"
+      "Lecture, lectura, clase, curso"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1957,
@@ -17738,7 +17756,7 @@
   {
     "kanji": "購",
     "meanings": [
-      "Subscription"
+      "Subscription, suscription"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 1958,
@@ -17747,7 +17765,7 @@
   {
     "kanji": "構",
     "meanings": [
-      "Posture"
+      "Posture, postura, posición hacia algo"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 1959,
@@ -17756,7 +17774,7 @@
   {
     "kanji": "溝",
     "meanings": [
-      "Gutter"
+      "Gutter, durante la clase caia agua"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1960,
@@ -17765,7 +17783,7 @@
   {
     "kanji": "論",
     "meanings": [
-      "Argument"
+      "Argument, argumento"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1961,
@@ -17774,7 +17792,7 @@
   {
     "kanji": "倫",
     "meanings": [
-      "Ethics"
+      "Ethics, etica, moral"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1962,
@@ -17783,7 +17801,7 @@
   {
     "kanji": "輪",
     "meanings": [
-      "Wheel"
+      "Wheel、rueda de vehiculo"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1963,
@@ -17792,7 +17810,7 @@
   {
     "kanji": "偏",
     "meanings": [
-      "Partial"
+      "Partial ,&nbsp;prejuicio / sesgo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1964,
@@ -17801,7 +17819,7 @@
   {
     "kanji": "遍",
     "meanings": [
-      "Everywhere"
+      "Everywhere, por todos lados&nbsp;"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1965,
@@ -17810,7 +17828,7 @@
   {
     "kanji": "編",
     "meanings": [
-      "Compilation"
+      "Compilation,&nbsp;editar,&nbsp;formar algo uniendo partes."
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1966,
@@ -17828,7 +17846,7 @@
   {
     "kanji": "柵",
     "meanings": [
-      "Palisade"
+      "\"Palisade,&nbsp;Restricción\""
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1968,
@@ -17873,7 +17891,7 @@
   {
     "kanji": "低",
     "meanings": [
-      "Lower"
+      "Lower,&nbsp;bajo, inferior, de poca altura,"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1973,
@@ -17882,7 +17900,7 @@
   {
     "kanji": "抵",
     "meanings": [
-      "Resist"
+      "Resist, resisitir"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1974,
@@ -17891,7 +17909,7 @@
   {
     "kanji": "底",
     "meanings": [
-      "Bottom"
+      "Bottom, Fondo"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 1975,
@@ -17927,7 +17945,7 @@
   {
     "kanji": "哺",
     "meanings": [
-      "Suckle"
+      "Suckle,&nbsp;amamantar,&nbsp;"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1979,
@@ -17936,7 +17954,7 @@
   {
     "kanji": "浦",
     "meanings": [
-      "Bay"
+      "Bay, uso un rosario en una bahia"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1980,
@@ -17945,7 +17963,7 @@
   {
     "kanji": "蒲",
     "meanings": [
-      "Bullrush"
+      "Bullrush, planta acuatica"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 1981,
@@ -17954,7 +17972,7 @@
   {
     "kanji": "舗",
     "meanings": [
-      "Shop"
+      "Shop, tienda"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 1982,
@@ -17963,7 +17981,7 @@
   {
     "kanji": "補",
     "meanings": [
-      "Supplement"
+      "\"Supplement, suplemento---------------------usar una cruz&nbsp;\""
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1983,
@@ -17981,7 +17999,7 @@
   {
     "kanji": "郭",
     "meanings": [
-      "Enclosure"
+      "Enclosure, , Bob recibe algo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1985,
@@ -17990,7 +18008,7 @@
   {
     "kanji": "郡",
     "meanings": [
-      "County"
+      "County,&nbsp;distrito (subdivisión de una prefectura), kimi y bob"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 1986,
@@ -17999,7 +18017,7 @@
   {
     "kanji": "郊",
     "meanings": [
-      "Outskirts"
+      "Outskirts, afueras, alrederodes de un lugar, a bob le gusta intercambiar con su papá"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1987,
@@ -18008,7 +18026,7 @@
   {
     "kanji": "部",
     "meanings": [
-      "Section"
+      "Section,parte"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1988,
@@ -18026,7 +18044,7 @@
   {
     "kanji": "郵",
     "meanings": [
-      "Mail"
+      "Mail, correo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1990,
@@ -18035,7 +18053,7 @@
   {
     "kanji": "邦",
     "meanings": [
-      "Home Country"
+      "\"Home Country, ciudad natalrey lagartija\""
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 1991,
@@ -18044,7 +18062,7 @@
   {
     "kanji": "那",
     "meanings": [
-      "Interrogative"
+      "\"Interrogative, te interogan en nachi\""
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 1992,
@@ -18053,7 +18071,7 @@
   {
     "kanji": "郷",
     "meanings": [
-      "Hometown"
+      "Hometown, pueblo natal, tierra de origen"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 1993,
@@ -18071,7 +18089,7 @@
   {
     "kanji": "郎",
     "meanings": [
-      "Son"
+      "Son,&nbsp; hijo baron"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1995,
@@ -18080,7 +18098,7 @@
   {
     "kanji": "廊",
     "meanings": [
-      "Corridor"
+      "Corridor, corredor,&nbsp;"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1996,
@@ -18089,7 +18107,7 @@
   {
     "kanji": "盾",
     "meanings": [
-      "Shield"
+      "Shield, escudo"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1997,
@@ -18098,7 +18116,7 @@
   {
     "kanji": "循",
     "meanings": [
-      "Sequential"
+      "\"Sequential,&nbsp;ciclo,&nbsp;sistema circulatorio\""
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 1998,
@@ -18107,7 +18125,7 @@
   {
     "kanji": "派",
     "meanings": [
-      "Faction"
+      "Faction、rippa na hero立派（りっぱ）"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 1999,
@@ -18116,7 +18134,7 @@
   {
     "kanji": "脈",
     "meanings": [
-      "Vein"
+      "Vein, vena"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2000,
@@ -18125,7 +18143,7 @@
   {
     "kanji": "衆",
     "meanings": [
-      "Masses"
+      "Masses, masas, la poblacion, multitud"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 2001,
@@ -18134,7 +18152,7 @@
   {
     "kanji": "逓",
     "meanings": [
-      "Parcel Post"
+      "Parcel Post,&nbsp;paquete postal, Tienda 3n una calle"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2002,
@@ -18143,7 +18161,7 @@
   {
     "kanji": "段",
     "meanings": [
-      "Grade"
+      "Grade, grado, nivel"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 2003,
@@ -18152,7 +18170,7 @@
   {
     "kanji": "鍛",
     "meanings": [
-      "Forge"
+      "\"Forge, forjar metal&nbsp;\""
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 2004,
@@ -18161,7 +18179,7 @@
   {
     "kanji": "后",
     "meanings": [
-      "Empress"
+      "Empress,&nbsp;emperatriz,soberana femenina"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 2005,
@@ -18170,7 +18188,7 @@
   {
     "kanji": "幻",
     "meanings": [
-      "Phantasm"
+      "Phantasm,&nbsp;fantasma"
     ],
     "grade": 4,
     "freq_mainichi_shinbun": 2006,
@@ -18188,7 +18206,7 @@
   {
     "kanji": "伺",
     "meanings": [
-      "Pay Respects"
+      "Pay Respects,&nbsp;rendir sus últimos respetos&nbsp;(usualmente ante un fallecimiento)."
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 2008,
@@ -18197,7 +18215,7 @@
   {
     "kanji": "詞",
     "meanings": [
-      "Parts of Speech"
+      "Parts of Speech,&nbsp;letra de una canción"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 2009,
@@ -18206,7 +18224,7 @@
   {
     "kanji": "飼",
     "meanings": [
-      "Domesticate"
+      "Domesticate, domesticado"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2010,
@@ -18215,7 +18233,7 @@
   {
     "kanji": "嗣",
     "meanings": [
-      "Heir"
+      "Heir, heredar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2011,
@@ -18224,7 +18242,7 @@
   {
     "kanji": "舟",
     "meanings": [
-      "Boat"
+      "Boat, barco"
     ],
     "grade": 6,
     "freq_mainichi_shinbun": 2012,
@@ -18233,7 +18251,7 @@
   {
     "kanji": "舶",
     "meanings": [
-      "Liner"
+      "\"Liner,&nbsp;barco grande diseñado para viajar a través del océano Atlántico\""
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 2013,
@@ -18242,7 +18260,7 @@
   {
     "kanji": "航",
     "meanings": [
-      "Navigate"
+      "Navigate, navegar"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2014,
@@ -18251,7 +18269,7 @@
   {
     "kanji": "舷",
     "meanings": [
-      "Gunwale"
+      "\"Gunwale, barco misterioso,costado del barco / lado del casco.\""
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 2015,
@@ -18260,16 +18278,25 @@
   {
     "kanji": "般",
     "meanings": [
-      "Carrier"
+      "\"Carrier, general, common sense一般論（いっぱんろん）"
     ],
-    "grade": 10,
-    "freq_mainichi_shinbun": 2016,
-    "jlpt": 50
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "→ argumento general / teoría general.\"",
+    "meanings": [
+      "10"
+    ],
+    "grade": 2016,
+    "freq_mainichi_shinbun": 50,
+    "jlpt": null
   },
   {
     "kanji": "盤",
     "meanings": [
-      "Tray"
+      "\"Tray,&nbsp;tablero\""
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 2017,
@@ -18278,7 +18305,7 @@
   {
     "kanji": "搬",
     "meanings": [
-      "Conveyor"
+      "Conveyor,&nbsp;mover algo de un lugar a otro,&nbsp;transportar ,&nbsp;trasladar"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2018,
@@ -18287,7 +18314,7 @@
   {
     "kanji": "船",
     "meanings": [
-      "Ship"
+      "Ship, bote alado de la casa"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 2019,
@@ -18296,7 +18323,7 @@
   {
     "kanji": "艦",
     "meanings": [
-      "Warship"
+      "Warship,&nbsp;barcos de guerra."
     ],
     "grade": 21,
     "freq_mainichi_shinbun": 2020,
@@ -18305,7 +18332,7 @@
   {
     "kanji": "艇",
     "meanings": [
-      "Rowboat"
+      "\"Rowboat,&nbsp;\""
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2021,
@@ -18323,7 +18350,7 @@
   {
     "kanji": "弧",
     "meanings": [
-      "Arc"
+      "Arc,&nbsp;arco de un círculo (término geométrico)"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 2023,
@@ -18332,7 +18359,7 @@
   {
     "kanji": "孤",
     "meanings": [
-      "Orphan"
+      "Orphan,huerfano"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 2024,
@@ -18341,7 +18368,7 @@
   {
     "kanji": "繭",
     "meanings": [
-      "Cocoon"
+      "\"Cocoon, capuyo de gusano de ceda, bola de ceda \""
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 2025,
@@ -18350,7 +18377,7 @@
   {
     "kanji": "益",
     "meanings": [
-      "Benefit"
+      "Benefit, sacar beneficio, provecho, ventaja"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2026,
@@ -18359,7 +18386,7 @@
   {
     "kanji": "暇",
     "meanings": [
-      "Spare Time"
+      "Spare Time, tiempo libre"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2027,
@@ -18368,7 +18395,7 @@
   {
     "kanji": "敷",
     "meanings": [
-      "Spread"
+      "Spread,&nbsp;tender (alfombra, futón, tatami, etc.),&nbsp;extender / poner, extender una alfombra en el piso"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 2028,
@@ -18404,7 +18431,7 @@
   {
     "kanji": "飛",
     "meanings": [
-      "Fly"
+      "Fly, volar"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 2032,
@@ -18413,7 +18440,7 @@
   {
     "kanji": "沈",
     "meanings": [
-      "Sink"
+      "Sink,&nbsp;hundirse"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 2033,
@@ -18422,7 +18449,7 @@
   {
     "kanji": "枕",
     "meanings": [
-      "Pillow"
+      "Pillow. almoada"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 2034,
@@ -18431,7 +18458,7 @@
   {
     "kanji": "妻",
     "meanings": [
-      "Wife"
+      "Wife, esposa"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 2035,
@@ -18467,7 +18494,7 @@
   {
     "kanji": "面",
     "meanings": [
-      "Mask"
+      "Mask, mascara"
     ],
     "grade": 9,
     "freq_mainichi_shinbun": 2039,
@@ -18584,7 +18611,7 @@
   {
     "kanji": "極",
     "meanings": [
-      "Poles"
+      "Poles, polos (planeta)"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 2052,
@@ -18611,7 +18638,7 @@
   {
     "kanji": "邪",
     "meanings": [
-      "Wicked"
+      "Wicked, estorbar,邪魔（じゃま）"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 2055,
@@ -18629,7 +18656,7 @@
   {
     "kanji": "釈",
     "meanings": [
-      "Interpretation"
+      "Interpretation, Robin come 1 arroz"
     ],
     "grade": 12,
     "freq_mainichi_shinbun": 2057,
@@ -18656,7 +18683,7 @@
   {
     "kanji": "翻",
     "meanings": [
-      "Flip"
+      "Flip、salto mortal"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 2060,
@@ -18692,7 +18719,7 @@
   {
     "kanji": "尾",
     "meanings": [
-      "Tail"
+      "Tail, cola"
     ],
     "grade": 7,
     "freq_mainichi_shinbun": 2064,
@@ -18755,7 +18782,7 @@
   {
     "kanji": "張",
     "meanings": [
-      "Lengthen"
+      "Lengthen, 頑張れ(ganbare!) do your best"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 2071,
@@ -18791,7 +18818,7 @@
   {
     "kanji": "展",
     "meanings": [
-      "Unfold"
+      "Unfold, Desplegar, abrir una carpeta folder"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2075,
@@ -18890,7 +18917,7 @@
   {
     "kanji": "厳",
     "meanings": [
-      "Stern"
+      "Stern, Estricto"
     ],
     "grade": 17,
     "freq_mainichi_shinbun": 2086,
@@ -18944,7 +18971,7 @@
   {
     "kanji": "鳴",
     "meanings": [
-      "Chirp"
+      "Chirp, cantar de aves"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 2092,
@@ -18953,7 +18980,7 @@
   {
     "kanji": "鶴",
     "meanings": [
-      "Crane"
+      "\"Crane, grulla\""
     ],
     "grade": 21,
     "freq_mainichi_shinbun": 2093,
@@ -18962,7 +18989,7 @@
   {
     "kanji": "烏",
     "meanings": [
-      "Crow"
+      "Crow, cuervo"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2094,
@@ -18971,7 +18998,7 @@
   {
     "kanji": "蔦",
     "meanings": [
-      "Vine"
+      "\"Vine,enredadera,&nbsp;\""
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 2095,
@@ -18980,7 +19007,7 @@
   {
     "kanji": "鳩",
     "meanings": [
-      "Pigeon"
+      "Pigeon, paloma"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2096,
@@ -18998,7 +19025,7 @@
   {
     "kanji": "島",
     "meanings": [
-      "Island"
+      "Island, isla"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2098,
@@ -19250,7 +19277,7 @@
   {
     "kanji": "免",
     "meanings": [
-      "Excuse"
+      "Excuse, pretexto"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 2126,
@@ -19277,7 +19304,7 @@
   {
     "kanji": "勉",
     "meanings": [
-      "Exertion"
+      "Esfuerzo en el estudio"
     ],
     "grade": 10,
     "freq_mainichi_shinbun": 2129,
@@ -19322,7 +19349,7 @@
   {
     "kanji": "験",
     "meanings": [
-      "Verification"
+      "Verification, verificacion"
     ],
     "grade": 18,
     "freq_mainichi_shinbun": 2134,
@@ -19376,7 +19403,7 @@
   {
     "kanji": "駄",
     "meanings": [
-      "Burdensome"
+      "Burdensome, en vano, sin importancia, inutil, むだ"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 2140,
@@ -19385,7 +19412,7 @@
   {
     "kanji": "驚",
     "meanings": [
-      "Wonder"
+      "Wonder, sorprender ,おどろく"
     ],
     "grade": 22,
     "freq_mainichi_shinbun": 2141,
@@ -19394,7 +19421,7 @@
   {
     "kanji": "篤",
     "meanings": [
-      "Fervent"
+      "Fervent, filantropo"
     ],
     "grade": 16,
     "freq_mainichi_shinbun": 2142,
@@ -19412,7 +19439,7 @@
   {
     "kanji": "騰",
     "meanings": [
-      "Inflation"
+      "Inflation,inflación"
     ],
     "grade": 20,
     "freq_mainichi_shinbun": 2144,
@@ -19421,7 +19448,7 @@
   {
     "kanji": "虎",
     "meanings": [
-      "Tiger"
+      "Tiger, tigre"
     ],
     "grade": 8,
     "freq_mainichi_shinbun": 2145,
@@ -19430,7 +19457,7 @@
   {
     "kanji": "虜",
     "meanings": [
-      "Captive"
+      "Captive, prisionero, ecarselado"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2146,
@@ -19439,7 +19466,7 @@
   {
     "kanji": "膚",
     "meanings": [
-      "Skin"
+      "Skin, piel"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 2147,
@@ -19448,7 +19475,7 @@
   {
     "kanji": "虚",
     "meanings": [
-      "Void"
+      "Void、vacio"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 2148,
@@ -19457,7 +19484,7 @@
   {
     "kanji": "戯",
     "meanings": [
-      "Frolic"
+      "Frolic, divertirse, jugar"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 2149,
@@ -19466,7 +19493,7 @@
   {
     "kanji": "虞",
     "meanings": [
-      "Uneasiness"
+      "Uneasiness,inquietud,&nbsp;Sensación de intranquilidad, nerviosismo o preocupación interna. Trige con 6 nicknames"
     ],
     "grade": 13,
     "freq_mainichi_shinbun": 2150,
@@ -19475,7 +19502,7 @@
   {
     "kanji": "慮",
     "meanings": [
-      "Prudence"
+      "Prudence, preocupación mental , prudencia"
     ],
     "grade": 15,
     "freq_mainichi_shinbun": 2151,
@@ -19502,7 +19529,7 @@
   {
     "kanji": "鹿",
     "meanings": [
-      "Deer"
+      "Deer, ciervo"
     ],
     "grade": 11,
     "freq_mainichi_shinbun": 2154,
@@ -19565,7 +19592,7 @@
   {
     "kanji": "態",
     "meanings": [
-      "Attitude"
+      "Attitude,actitud"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 2161,
@@ -19583,7 +19610,7 @@
   {
     "kanji": "演",
     "meanings": [
-      "Performance"
+      "Performance,&nbsp;actuación / performance"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 2163,
@@ -19673,7 +19700,7 @@
   {
     "kanji": "関",
     "meanings": [
-      "Connection"
+      "Connection, 関する（かんする） → estar relacionado con"
     ],
     "grade": 14,
     "freq_mainichi_shinbun": 2173,
@@ -19952,7 +19979,7 @@
   {
     "kanji": "炒",
     "meanings": [
-      "\"broilparchroastfry\""
+      "\"Freír broilparchroastfry\""
     ],
     "grade": null,
     "freq_mainichi_shinbun": null,
@@ -20124,6 +20151,96 @@
     "kanji": "昏",
     "meanings": [
       "\"darkeveningdusk\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "曙",
+    "meanings": [
+      "\"あけぼのdawndaybreak\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "咥",
+    "meanings": [
+      "\"to hold in one's mouth\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "諺",
+    "meanings": [
+      "\"proverb, a short, well-known saying that expresses a common truth, piece of advice, or moral lesson, often using metaphorical or figurative language from common experience\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "罔",
+    "meanings": [
+      "\"net\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "痺",
+    "meanings": [
+      "\"paralysed\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "揃",
+    "meanings": [
+      "all present, todos presentes"
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "廻",
+    "meanings": [
+      "\"roundgamerevolvego aroundcircumference\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "儘",
+    "meanings": [
+      "\"as it isbecause\""
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "嵌",
+    "meanings": [
+      "caer en trampa"
+    ],
+    "grade": null,
+    "freq_mainichi_shinbun": null,
+    "jlpt": null
+  },
+  {
+    "kanji": "攪",
+    "meanings": [
+      "maniobra de distracción"
     ],
     "grade": null,
     "freq_mainichi_shinbun": null,

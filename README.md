@@ -3,3 +3,6 @@
 
 
 deck:current (is:review -is:learn) prop:ivl<21 -(is:buried OR is:suspended) prop:reps>=15 prop:ivl<10 prop:lapses>=5 -added:200 prop:d>=0.9
+
+
+deck:current (is:review -is:learn) prop:ivl<21 -(is:buried OR is:suspended) prop:reps>=15 prop:ivl<10 prop:lapses>=5 prop:d>=0.9

@@ -5,5 +5,19 @@
   ],
   "grade": 2,
   "freq_mainichi_shinbun": 476,
-  "jlpt": 18
+  "jlpt": 18,
+  "componentTree": {
+    "children": [],
+    "dataObject": {
+      "name": "Spoon",
+      "strokes": [
+        "kvg:05315-s2",
+        "kvg:05315-s1"
+      ]
+    },
+    "guid": 15508
+  },
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 109 109\"><g id=\"kvg:StrokePaths_05315\" style=\"fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;\"><g id=\"kvg:05315\" kvg:element=\"匕\" kvg:radical=\"general\"><path id=\"kvg:05315-s1\" kvg:type=\"㇒\" d=\"M78.35,26.56c0.4,0.69,0.65,2.69-0.38,3.74C71.32,37.15,48.5,56,27,63\"></path><path id=\"kvg:05315-s2\" kvg:type=\"㇟\" d=\"M38.5,14.25c1.07,1.19,1.15,1.99,1.51,3.57c0.36,1.59,0.36,60.16,0.36,65.14c0,12.79,14.39,10.79,26.64,10.79c9.5,0,17.42-0.67,21-4.25s3.14-7.73,3.5-11.3\"></path></g></g></svg>",
+  "lesson": "18",
+  "referenceNo": "476"
 }

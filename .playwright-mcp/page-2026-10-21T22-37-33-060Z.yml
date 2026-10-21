@@ -1,0 +1,67 @@
+- generic [ref=e3]:
+  - navigation [ref=e5]:
+    - link "TOOLZAR Kanji Search" [ref=e8] [cursor=pointer]:
+      - /url: /
+  - generic [ref=e11]:
+    - insertion [ref=e17]:
+      - generic [ref=e20]:
+        - heading "These are topics related to the article that might interest you" [level=2] [ref=e22]: Discover more
+        - link "Learn a Language" [ref=e23] [cursor=pointer]
+        - link "Book Tutors" [ref=e28] [cursor=pointer]
+        - link "Study Philosophy" [ref=e33] [cursor=pointer]
+        - link "Try Language Apps" [ref=e38] [cursor=pointer]
+        - link "Explore Faiths" [ref=e43] [cursor=pointer]
+        - link "Learn Math" [ref=e48] [cursor=pointer]
+        - link "Read Bestsellers" [ref=e53] [cursor=pointer]
+        - link "book" [ref=e58] [cursor=pointer]
+    - generic [ref=e63]:
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - textbox "Search term" [active] [ref=e69]: 権
+          - generic: Search term
+        - generic [ref=e70]:
+          - button "Clear" [ref=e71] [cursor=pointer]:
+            - img [aria-hidden] [ref=e73]: close
+          - button "Search" [ref=e74] [cursor=pointer]:
+            - img [aria-hidden] [ref=e76]: search
+      - generic [ref=e153]: Found 1 matching results.
+      - generic [ref=e158]:
+        - generic [ref=e159]:
+          - generic [ref=e160]: 権 Authority
+          - generic [ref=e162]:
+            - generic [ref=e163]: Lesson 21
+            - generic [ref=e164]: Ref 613
+            - img [ref=e166] [cursor=pointer]
+          - tree [ref=e170]:
+            - treeitem "Toggle Authority Authority" [expanded] [level=1] [ref=e171]:
+              - generic [ref=e172]:
+                - button "Toggle Authority" [ref=e173] [cursor=pointer]:
+                  - img [aria-hidden] [ref=e175]: expand_more
+                - img [aria-hidden] [ref=e176] [cursor=pointer]: search
+                - generic [ref=e177] [cursor=pointer]: Authority
+              - group [ref=e178]:
+                - treeitem "Tree" [level=2] [ref=e179]:
+                  - img [aria-hidden] [ref=e180] [cursor=pointer]: search
+                - treeitem "Toggle Pegasus Pegasus" [level=2] [ref=e182]:
+                  - generic [ref=e183]:
+                    - button "Toggle Pegasus" [ref=e184] [cursor=pointer]:
+                      - img [aria-hidden] [ref=e186]: chevron_right
+                    - img [aria-hidden] [ref=e187] [cursor=pointer]: search
+                    - generic [ref=e188] [cursor=pointer]: Pegasus
+        - separator [ref=e214]
+    - insertion [ref=e100]:
+      - generic [ref=e103]:
+        - heading "These are topics related to the article that might interest you" [level=2] [ref=e105]: Discover more
+        - link "Books" [ref=e106] [cursor=pointer]
+        - link "Browse Fonts" [ref=e111] [cursor=pointer]
+        - link "Buy GPS Trackers" [ref=e116] [cursor=pointer]
+        - link "Learn a Language" [ref=e121] [cursor=pointer]
+        - link "Book Tutors" [ref=e126] [cursor=pointer]
+        - link "Study Philosophy" [ref=e131] [cursor=pointer]
+        - link "Try Language Apps" [ref=e136] [cursor=pointer]
+        - link "Explore Faiths" [ref=e141] [cursor=pointer]
+  - navigation [ref=e147]:
+    - list [ref=e149]:
+      - listitem [ref=e150]:
+        - link "About Us" [ref=e151] [cursor=pointer]:
+          - /url: /info

@@ -5,5 +5,127 @@
   ],
   "grade": 13,
   "freq_mainichi_shinbun": 438,
-  "jlpt": 18
+  "jlpt": 18,
+  "componentTree": {
+    "children": [
+      {
+        "children": [],
+        "dataObject": {
+          "name": "Towel",
+          "strokes": [
+            "kvg:05e4c-s3",
+            "kvg:05e4c-s2",
+            "kvg:05e4c-s1"
+          ]
+        },
+        "guid": 15487
+      },
+      {
+        "children": [],
+        "dataObject": {
+          "name": "Sun",
+          "strokes": [
+            "kvg:05e4c-s5",
+            "kvg:05e4c-s4",
+            "kvg:05e4c-s6",
+            "kvg:05e4c-s7"
+          ]
+        },
+        "guid": 15488
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "dataObject": {
+                  "name": "Drop of ...",
+                  "strokes": [
+                    "kvg:05e4c-s9"
+                  ]
+                },
+                "guid": 15491
+              },
+              {
+                "children": [],
+                "dataObject": {
+                  "name": "Drop of ...",
+                  "strokes": [
+                    "kvg:05e4c-s8"
+                  ]
+                },
+                "guid": 15492
+              },
+              {
+                "children": [],
+                "dataObject": {
+                  "name": "Drop of ...",
+                  "strokes": [
+                    "kvg:05e4c-s10"
+                  ]
+                },
+                "guid": 15493
+              }
+            ],
+            "dataObject": {
+              "name": "Little",
+              "strokes": [
+                "kvg:05e4c-s10",
+                "kvg:05e4c-s8",
+                "kvg:05e4c-s9"
+              ]
+            },
+            "guid": 15490
+          },
+          {
+            "children": [],
+            "dataObject": {
+              "name": "Human legs",
+              "strokes": [
+                "kvg:05e4c-s12",
+                "kvg:05e4c-s13",
+                "kvg:05e4c-s11"
+              ]
+            },
+            "guid": 15494
+          }
+        ],
+        "dataObject": {
+          "name": "Ray",
+          "strokes": [
+            "kvg:05e4c-s12",
+            "kvg:05e4c-s13",
+            "kvg:05e4c-s11",
+            "kvg:05e4c-s10",
+            "kvg:05e4c-s8",
+            "kvg:05e4c-s9"
+          ]
+        },
+        "guid": 15489
+      }
+    ],
+    "dataObject": {
+      "name": "Canopy",
+      "strokes": [
+        "kvg:05e4c-s12",
+        "kvg:05e4c-s13",
+        "kvg:05e4c-s11",
+        "kvg:05e4c-s10",
+        "kvg:05e4c-s8",
+        "kvg:05e4c-s9",
+        "kvg:05e4c-s5",
+        "kvg:05e4c-s4",
+        "kvg:05e4c-s6",
+        "kvg:05e4c-s7",
+        "kvg:05e4c-s3",
+        "kvg:05e4c-s2",
+        "kvg:05e4c-s1"
+      ]
+    },
+    "guid": 15486
+  },
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 109 109\"><g id=\"kvg:StrokePaths_05e4c\" style=\"fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;\"><g id=\"kvg:05e4c\" kvg:element=\"幌\"><g id=\"kvg:05e4c-g1\" kvg:element=\"巾\" kvg:position=\"left\" kvg:radical=\"general\"><path id=\"kvg:05e4c-s1\" kvg:type=\"㇑\" d=\"M12.49,35.31c0.43,0.39,1.33,2.88,1.42,3.65c0.34,3.04-0.56,28.67-0.64,33.48\"></path><path id=\"kvg:05e4c-s2\" kvg:type=\"㇆a\" d=\"M13.79,37.25c2.47-0.27,22.65-3.91,24.49-4.07c2.16-0.19,3.52,1.34,3.55,3.07C42,45,41.74,55.59,40.47,64.13c-0.91,6.14-4.25,1.85-5.29-0.27\"></path><path id=\"kvg:05e4c-s3\" kvg:type=\"㇑\" d=\"M24.5,11.63c0.61,0.42,1.5,2.12,1.51,4.03c0.01,0.86-0.08,77.66-0.2,82.97\"></path></g><g id=\"kvg:05e4c-g2\" kvg:element=\"晃\" kvg:position=\"right\"><g id=\"kvg:05e4c-g3\" kvg:element=\"日\" kvg:position=\"top\"><path id=\"kvg:05e4c-s4\" kvg:type=\"㇑\" d=\"M48.69,13.94c0.39,0.44,0.4,0.75,0.62,1.31c1.77,4.6,3.03,14.29,4.12,22.87\"></path><path id=\"kvg:05e4c-s5\" kvg:type=\"㇕a\" d=\"M50.35,15.39c9.43-0.96,26.66-2.56,33.7-3.36c2.59-0.3,3.11,1.69,2.98,2.74c-0.49,3.84-1.96,13.82-3.96,20.24\"></path><path id=\"kvg:05e4c-s6\" kvg:type=\"㇐a\" d=\"M53.11,25.71c3.07-0.37,28.06-3.09,30.59-3.25\"></path><path id=\"kvg:05e4c-s7\" kvg:type=\"㇐a\" d=\"M54.11,36.43c8.73-1.05,19.56-2.09,28.93-2.75\"></path></g><g id=\"kvg:05e4c-g4\" kvg:element=\"光\" kvg:position=\"bottom\"><g id=\"kvg:05e4c-g5\" kvg:element=\"⺌\" kvg:variant kvg:original=\"小\" kvg:position=\"top\"><path id=\"kvg:05e4c-s8\" kvg:type=\"㇑\" d=\"M67.35,42.01c0.07,0.23,0.94,1.23,1,2.73c0.32,7.2-0.2,15.97-0.2,18.42\"></path><path id=\"kvg:05e4c-s9\" kvg:type=\"㇔\" d=\"M50.07,47.59c2.36,1.92,6.1,7.9,6.69,10.9\"></path><path id=\"kvg:05e4c-s10\" kvg:type=\"㇒\" d=\"M85.22,43.44c0.02,0.3,0.04,0.77-0.04,1.2c-0.51,2.52-3.42,8.06-7.41,11.45\"></path></g><g id=\"kvg:05e4c-g6\" kvg:element=\"兀\" kvg:position=\"bottom\"><g id=\"kvg:05e4c-g7\" kvg:element=\"一\"><path id=\"kvg:05e4c-s11\" kvg:type=\"㇐\" d=\"M46.96,65.66c1.13,0.49,3.2,0.63,4.32,0.49c11.22-1.4,26.35-4.61,39.52-4.71c1.88-0.02,3,0.24,3.94,0.48\"></path></g><g id=\"kvg:05e4c-g8\" kvg:element=\"儿\" kvg:original=\"八\"><g id=\"kvg:05e4c-g9\" kvg:element=\"丿\"><path id=\"kvg:05e4c-s12\" kvg:type=\"㇒\" d=\"M60.84,69.56c0.05,0.66,0.16,1.71-0.11,2.65c-2.28,7.96-9.05,20.4-19.95,25.34\"></path></g><path id=\"kvg:05e4c-s13\" kvg:type=\"㇟\" d=\"M73.92,66.57c0.5,0.9,0.9,1.97,0.93,3.36c0.08,3.6-0.24,12.25-0.38,17.82c-0.21,8.25,3.7,9.46,10.74,9.46s11.56-0.96,11.56-6.67\"></path></g></g></g></g></g></g></svg>",
+  "lesson": "18",
+  "referenceNo": "438"
 }

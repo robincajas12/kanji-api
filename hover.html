@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kanji Hover</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f4f7f6;
+      color: #333;
+      padding: 40px 20px;
+    }
+
+    .wrap { max-width: 760px; margin: 0 auto; }
+
+    h1 { font-size: 2em; color: #2c3e50; margin-bottom: 6px; }
+
+    .subtitle { color: #e95464; margin-bottom: 30px; font-style: italic; }
+
+    #kanjiHover {
+      background: #fff;
+      border-radius: 14px;
+      padding: 30px;
+      line-height: 2.1;
+      font-size: 1.35em;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+      cursor: default;
+    }
+
+    #kanjiHover h2 { font-size: 1.1em; color: #2c3e50; margin: 22px 0 8px; }
+    #kanjiHover h2:first-child { margin-top: 0; }
+    #kanjiHover p { margin-bottom: 14px; }
+
+    .hint { margin-top: 18px; font-size: 0.85em; color: #7f8c8d; }
+
+    .kanjiHoverTarget:hover { background: #ffe3e7; border-radius: 4px; }
+
+    /* --- SVG de componentes dentro del popup --- */
+    .hoverDiv {
+      max-height: 86vh;
+      overflow-y: auto;
+      padding: 14px 12px;
+    }
+
+    .kanjiSvgBox {
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid #4a4450;
+    }
+
+    .kanjiSvgWrap {
+      width: 190px;
+      height: 190px;
+      margin: 0 auto;
+    }
+
+    .kanjiSvgWrap svg { width: 100%; height: 100%; display: block; }
+
+    .kanjiSvgWrap path {
+      transition: stroke 0.15s ease, stroke-width 0.15s ease;
+      cursor: pointer;
+    }
+
+    .compChips {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      margin-top: 10px;
+    }
+
+    .comp-chip {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 7px;
+      background: #2b2531;
+      border-left: 4px solid #888;
+      border-radius: 4px;
+      color: #fff;
+      font-size: 14px;
+      line-height: 1.3;
+      text-align: left;
+      cursor: pointer;
+      transition: background 0.15s ease;
+    }
+
+    .comp-chip:hover, .comp-chip.pinned { background: #453c52; }
+
+    .comp-caret {
+      flex: 0 0 auto;
+      width: 14px;
+      font-size: 10px;
+      color: #b9b3c4;
+      text-align: center;
+      transition: transform 0.18s ease;
+      cursor: pointer;
+    }
+
+    .comp-caret.dot { color: #6a6474; }
+
+    .comp-chip[data-open="1"] .comp-caret { transform: rotate(90deg); }
+
+    .comp-name { flex: 1 1 auto; }
+
+    .comp-children {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      margin-top: 4px;
+    }
+
+    .comp-children[hidden] { display: none; }
+  </style>
+</head>
+<body>
+
+  <div class="wrap">
+    <h1>漢字ホバー練習</h1>
+    <p class="subtitle">Pasa el mouse sobre los kanji</p>
+
+    <div id="kanjiHover">
+      <h2>第一課　しごと</h2>
+      <p>彼は会社で権力を持つ責任者です。権威のある学者がこの本を推奨しています。</p>
+      <p>日本語の勉強は毎日続けなければなりません。天気が良いので、散歩に出かけましょう。</p>
+
+      <h2>第二課　がくしゅう</h2>
+      <p>木の下で本を読みながら、友達を待っています。</p>
+      <p>新しい言葉を覚えて、短い文章を書いてみてください。</p>
+
+      <h2>第三課　にほんご</h2>
+      <p>権、日、下、木、語、学、本、気、読、書。</p>
+    </div>
+
+    <p class="hint">Hover sobre un kanji: se muestra el SVG y sus componentes coloreables.</p>
+  </div>
+
+  <script src="_kanjiHover.js"></script>
+  <script>
+    (function () {
+      var PALETTE = ['#e95464', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#1abc9c', '#e67e22'];
+      var pinned = null;
+
+      var rawBuildString = window.buildString;
+      window.buildString = function (data) {
+        return rawBuildString(data) + svgBlock(data);
+      };
+
+      // El popup se queda abierto para poder tocar el SVG / componentes
+      var origHover = window.onKanjiHover;
+      var origUnhover = window.onKanjiUnhover;
+
+      window.onKanjiHover = function (event) {
+        origHover(event);
+      };
+
+      window.onKanjiUnhover = function () {}; // no se cierra al quitar el hover
+
+      document.addEventListener('click', function (e) {
+        var div = document.querySelector('.hoverDiv');
+        if (!div || div.style.display === 'none') return;
+        if (div.contains(e.target)) return;
+        if (e.target.closest && e.target.closest('.kanjiHoverTarget')) return;
+        origUnhover(null);
+      });
+
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') origUnhover(null);
+      });
+
+      function esc(str) {
+        return String(str).replace(/[&<>"]/g, function (c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+        });
+      }
+
+      function svgBlock(data) {
+        if (!data || !data.svg || !data.componentTree) return '';
+
+        var chips = '';
+        var n = 0;
+
+        function walk(node, depth) {
+          var info = node.dataObject || {};
+          var strokes = info.strokes || [];
+          var color = PALETTE[n++ % PALETTE.length];
+          var kids = node.children || [];
+          var hasKids = kids.length > 0;
+
+          chips +=
+            '<div class="comp-chip"' +
+            ' style="margin-left:' + (depth * 16) + 'px;border-left-color:' + color + '"' +
+            ' data-color="' + color + '"' +
+            ' data-strokes="' + esc(strokes.join(',')) + '"' +
+            (hasKids ? ' data-open="0"' : '') + '>' +
+            (hasKids
+              ? '<span class="comp-caret">▶</span>'
+              : '<span class="comp-caret dot">·</span>') +
+            '<span class="comp-name">' + esc(info.name || '') + '</span>' +
+            '</div>';
+
+          if (hasKids) {
+            chips += '<div class="comp-children" hidden>';
+            kids.forEach(function (child) { walk(child, depth + 1); });
+            chips += '</div>';
+          }
+        }
+
+        (data.componentTree.children || []).forEach(function (child) { walk(child, 0); });
+
+        return (
+          '<div class="kanjiSvgBox">' +
+            '<div class="kanjiSvgWrap">' + data.svg + '</div>' +
+            (chips ? '<div class="compChips">' + chips + '</div>' : '') +
+          '</div>'
+        );
+      }
+
+      function getSvg(box) {
+        return box ? box.querySelector('svg') : null;
+      }
+
+      function applyChip(chip) {
+        var svg = getSvg(chip.closest('.hoverDiv'));
+        if (!svg) return;
+        var ids = (chip.dataset.strokes || '').split(',').filter(Boolean);
+        var color = chip.dataset.color;
+        svg.querySelectorAll('path').forEach(function (p) {
+          var on = ids.indexOf(p.id) !== -1;
+          p.style.stroke = on ? color : '#d9d9d9';
+          p.style.strokeWidth = on ? '4.5' : '1.5';
+        });
+      }
+
+      function clearPaint(box) {
+        var svg = getSvg(box);
+        if (!svg) return;
+        svg.querySelectorAll('path').forEach(function (p) {
+          p.style.stroke = '';
+          p.style.strokeWidth = '';
+        });
+      }
+
+      document.addEventListener('mouseover', function (e) {
+        var chip = e.target.closest ? e.target.closest('.comp-chip') : null;
+        if (!chip) return;
+        if (e.relatedTarget && chip.contains(e.relatedTarget)) return;
+        applyChip(chip);
+      });
+
+      document.addEventListener('mouseout', function (e) {
+        var chip = e.target.closest ? e.target.closest('.comp-chip') : null;
+        if (!chip) return;
+        if (e.relatedTarget && chip.contains(e.relatedTarget)) return;
+        var box = chip.closest('.hoverDiv');
+        if (pinned && document.contains(pinned) && pinned.closest('.hoverDiv') === box) {
+          applyChip(pinned);
+        } else {
+          clearPaint(box);
+        }
+      });
+
+      document.addEventListener('click', function (e) {
+        if (!e.target.closest) return;
+
+        var caret = e.target.closest('.comp-caret');
+        if (caret) {
+          var parentChip = caret.closest('.comp-chip');
+          var kidsBox = parentChip ? parentChip.nextElementSibling : null;
+          if (parentChip && kidsBox && kidsBox.classList.contains('comp-children')) {
+            if (kidsBox.hasAttribute('hidden')) {
+              kidsBox.removeAttribute('hidden');
+              parentChip.setAttribute('data-open', '1');
+            } else {
+              kidsBox.setAttribute('hidden', '');
+              parentChip.setAttribute('data-open', '0');
+            }
+          }
+          return;
+        }
+
+        var chip = e.target.closest('.comp-chip');
+        if (!chip) return;
+        if (pinned === chip) {
+          chip.classList.remove('pinned');
+          pinned = null;
+          clearPaint(chip.closest('.hoverDiv'));
+        } else {
+          if (pinned) pinned.classList.remove('pinned');
+          pinned = chip;
+          chip.classList.add('pinned');
+          applyChip(chip);
+        }
+      });
+    })();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+- generic [ref=f12e2]:
+  - heading "漢字ホバー練習" [level=1] [ref=f12e3]
+  - paragraph [ref=f12e4]: Pasa el mouse sobre los kanji
+  - generic [ref=f12e5]:
+    - heading "第一課 しごと" [level=2] [ref=f12e6]
+    - paragraph [ref=f12e7]: 彼は会社で権力を持つ責任者です。権威のある学者がこの本を推奨しています。
+    - paragraph [ref=f12e8]: 日本語の勉強は毎日続けなければなりません。天気が良いので、散歩に出かけましょう。
+    - heading "第二課 がくしゅう" [level=2] [ref=f12e9]
+    - paragraph [ref=f12e10]: 木の下で本を読みながら、友達を待っています。
+    - paragraph [ref=f12e11]: 新しい言葉を覚えて、短い文章を書いてみてください。
+    - heading "第三課 にほんご" [level=2] [ref=f12e12]
+    - paragraph [ref=f12e13]: 権、日、下、木、語、学、本、気、読、書。
+  - paragraph [ref=f12e14]: "Hover sobre un kanji: se muestra el SVG y sus componentes coloreables."

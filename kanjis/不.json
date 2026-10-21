@@ -5,5 +5,53 @@
   ],
   "grade": 4,
   "freq_mainichi_shinbun": 1302,
-  "jlpt": 32
+  "jlpt": 32,
+  "componentTree": {
+    "children": [
+      {
+        "children": [],
+        "dataObject": {
+          "name": "Ceiling",
+          "strokes": [
+            "kvg:04e0d-s1"
+          ]
+        },
+        "guid": 12474
+      },
+      {
+        "children": [],
+        "dataObject": {
+          "name": "Person",
+          "strokes": [
+            "kvg:04e0d-s2",
+            "kvg:04e0d-s3"
+          ]
+        },
+        "guid": 12475
+      },
+      {
+        "children": [],
+        "dataObject": {
+          "name": "Drop of ...",
+          "strokes": [
+            "kvg:04e0d-s4"
+          ]
+        },
+        "guid": 12476
+      }
+    ],
+    "dataObject": {
+      "name": "Negative",
+      "strokes": [
+        "kvg:04e0d-s4",
+        "kvg:04e0d-s2",
+        "kvg:04e0d-s3",
+        "kvg:04e0d-s1"
+      ]
+    },
+    "guid": 12473
+  },
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 109 109\"><g id=\"kvg:StrokePaths_04e0d\" style=\"fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;\"><g id=\"kvg:04e0d\" kvg:element=\"不\"><g id=\"kvg:04e0d-g1\" kvg:element=\"一\" kvg:radical=\"general\"><path id=\"kvg:04e0d-s1\" kvg:type=\"㇐\" d=\"M18.5,23.7c2.46,0.54,6.98,0.73,9.44,0.54c19.44-1.49,39.69-4.12,56.57-4.73c4.1-0.15,6.57,0.26,8.62,0.53\"></path></g><g id=\"kvg:04e0d-g2\" kvg:element=\"丿\"><path id=\"kvg:04e0d-s2\" kvg:type=\"㇒\" d=\"M60.25,24.88c0.13,1.08-0.07,2.6-0.76,4.09c-4.33,9.27-22.7,30.16-46.18,41.5\"></path></g><g id=\"kvg:04e0d-g3\" kvg:element=\"丨\"><path id=\"kvg:04e0d-s3\" kvg:type=\"㇑\" d=\"M52.5,35.5c0.75,0.75,1.46,1.5,1.46,3.5c0,0.86,0.02,36.38,0.03,51.75c0,2.96,0,5.18,0,6.25\"></path></g><path id=\"kvg:04e0d-s4\" kvg:type=\"㇔\" d=\"M72.52,49.08c8.4,3.64,20.86,14.29,23.79,20.63\"></path></g></g></svg>",
+  "lesson": "32",
+  "referenceNo": "1302"
 }

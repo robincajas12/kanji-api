@@ -1,0 +1,66 @@
+- generic [ref=e3]:
+  - navigation [ref=e5]:
+    - link "TOOLZAR Kanji Search" [ref=e8] [cursor=pointer]:
+      - /url: /
+  - generic [ref=e11]:
+    - insertion [ref=e17]:
+      - generic [ref=e20]:
+        - heading "These are topics related to the article that might interest you" [level=2] [ref=e22]: Discover more
+        - link "Learn a Language" [ref=e23] [cursor=pointer]
+        - link "Book Tutors" [ref=e28] [cursor=pointer]
+        - link "Study Philosophy" [ref=e33] [cursor=pointer]
+        - link "Try Language Apps" [ref=e38] [cursor=pointer]
+        - link "Explore Faiths" [ref=e43] [cursor=pointer]
+        - link "Learn Math" [ref=e48] [cursor=pointer]
+        - link "Read Bestsellers" [ref=e53] [cursor=pointer]
+        - link "book" [ref=e58] [cursor=pointer]
+    - generic [ref=e63]:
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - textbox "Search term" [ref=e69]
+          - generic: Search term
+        - generic [ref=e70]:
+          - button "Clear" [ref=e71] [cursor=pointer]:
+            - img [aria-hidden] [ref=e73]: close
+          - button "Search" [ref=e74] [cursor=pointer]:
+            - img [aria-hidden] [ref=e76]: search
+      - generic [ref=e78]:
+        - heading "What is Kanji Search?" [level=1] [ref=e79]
+        - paragraph [ref=e80]:
+          - text: Kanji Search is inspired by James Heisig's famous book
+          - strong [ref=e81]: "\"Remembering the Kanji\""
+          - text: . It allows you to search for kanji using the keywords, primitives, and lesson numbers that the Heisig system uses.
+        - heading "Primitive Search" [level=2] [ref=e82]
+        - paragraph [ref=e83]: Each kanji contains one or more primitive elements. You can search for all the kanji that contain a specific primitive or a list of primitives.
+        - paragraph [ref=e84]:
+          - text: For example, searching for
+          - strong [ref=e85]: "\"fire, mouth\""
+          - text: will return all the kanji that contain the "fire" and "mouth" elements.
+        - button "Try Me" [ref=e86] [cursor=pointer]
+        - heading "Kanji Search" [level=2] [ref=e87]
+        - paragraph [ref=e88]:
+          - text: You can search for kanji characters directly by entering some text that contains kanji. For example,
+          - strong [ref=e89]: "\"日本語\""
+        - button "Try Me" [ref=e90] [cursor=pointer]
+        - heading "Lesson Search" [level=2] [ref=e91]
+        - paragraph [ref=e92]:
+          - text: You can search for all the kanji from a specific lesson by entering the lesson number such as
+          - strong [ref=e93]: "\"12\""
+          - text: .
+        - button "Try Me" [ref=e94] [cursor=pointer]
+    - insertion [ref=e100]:
+      - generic [ref=e103]:
+        - heading "These are topics related to the article that might interest you" [level=2] [ref=e105]: Discover more
+        - link "Books" [ref=e106] [cursor=pointer]
+        - link "Browse Fonts" [ref=e111] [cursor=pointer]
+        - link "Buy GPS Trackers" [ref=e116] [cursor=pointer]
+        - link "Learn a Language" [ref=e121] [cursor=pointer]
+        - link "Book Tutors" [ref=e126] [cursor=pointer]
+        - link "Study Philosophy" [ref=e131] [cursor=pointer]
+        - link "Try Language Apps" [ref=e136] [cursor=pointer]
+        - link "Explore Faiths" [ref=e141] [cursor=pointer]
+  - navigation [ref=e147]:
+    - list [ref=e149]:
+      - listitem [ref=e150]:
+        - link "About Us" [ref=e151] [cursor=pointer]:
+          - /url: /info

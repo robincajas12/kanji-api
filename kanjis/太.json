@@ -5,5 +5,66 @@
   ],
   "grade": 4,
   "freq_mainichi_shinbun": 126,
-  "jlpt": 7
+  "jlpt": 7,
+  "componentTree": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "dataObject": {
+              "name": "One",
+              "strokes": [
+                "kvg:0592a-s1"
+              ]
+            },
+            "guid": 9273
+          },
+          {
+            "children": [],
+            "dataObject": {
+              "name": "Person",
+              "strokes": [
+                "kvg:0592a-s2",
+                "kvg:0592a-s3"
+              ]
+            },
+            "guid": 9274
+          }
+        ],
+        "dataObject": {
+          "name": "Large",
+          "strokes": [
+            "kvg:0592a-s1",
+            "kvg:0592a-s2",
+            "kvg:0592a-s3"
+          ]
+        },
+        "guid": 9272
+      },
+      {
+        "children": [],
+        "dataObject": {
+          "name": "Drop of ...",
+          "strokes": [
+            "kvg:0592a-s4"
+          ]
+        },
+        "guid": 9275
+      }
+    ],
+    "dataObject": {
+      "name": "Plump",
+      "strokes": [
+        "kvg:0592a-s1",
+        "kvg:0592a-s2",
+        "kvg:0592a-s3",
+        "kvg:0592a-s4"
+      ]
+    },
+    "guid": 9271
+  },
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" viewBox=\"0 0 109 109\"><g id=\"kvg:StrokePaths_0592a\" style=\"fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;\"><g id=\"kvg:0592a\" kvg:element=\"太\"><g id=\"kvg:0592a-g1\" kvg:element=\"大\" kvg:position=\"top\" kvg:radical=\"general\"><path id=\"kvg:0592a-s1\" kvg:type=\"㇐\" d=\"M19.38,47.86c2.65,0.92,5.89,1.11,8.63,0.7c13.62-2.06,33.87-5.31,48.67-6.23c2.62-0.16,5.62,0.17,8.08,0.92\"></path><path id=\"kvg:0592a-s2\" kvg:type=\"㇒\" d=\"M49,18c1,1,1.49,2.41,1.49,4.57C50.49,56.75,37.75,80.5,18,92\"></path><path id=\"kvg:0592a-s3\" kvg:type=\"㇏\" d=\"M50.75,47.75c8.04,9.38,24.72,30.39,34.53,39.72c2.4,2.28,4.97,4.66,8.22,5.78\"></path></g><g id=\"kvg:0592a-g2\" kvg:element=\"丶\" kvg:position=\"bottom\"><path id=\"kvg:0592a-s4\" kvg:type=\"㇔\" d=\"M44.5,81.5c3.79,2.16,9.8,8.89,10.75,12.25\"></path></g></g></g></svg>",
+  "lesson": "7",
+  "referenceNo": "126"
 }

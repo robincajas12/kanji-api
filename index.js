@@ -85,10 +85,18 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
 
+function getKanjiFromFolder(kanji){
+  try {
+  const kanjiFolderPath = path.join(__dirname, 'kanjis', kanji + '.json');
+  return JSON.parse(fs.readFileSync(kanjiFolderPath, 'utf8'));
+}catch (error) {
+  return null;
+}
+}
 // Endpoint para obtener datos de un kanji específico
 app.get('/kanji/:kanji', (req, res) => {
   const requestedKanji = req.params.kanji;
-  const kanjiInfo = kanjiData.find(k => k.kanji === requestedKanji);
+  const kanjiInfo = getKanjiFromFolder(requestedKanji); //kanjiData.find(k => k.kanji === requestedKanji);
 
   if (kanjiInfo) {
     res.json(kanjiInfo);
